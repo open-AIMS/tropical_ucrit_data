@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/ms_misc
+/superceded
+tropical_ucrit_data.Rproj
+MS_table1.csv
+meta_data.csv
+*.xls
+*.jpg
+*.JPG
+/images
+*.xlsx
+*.mdb
+
