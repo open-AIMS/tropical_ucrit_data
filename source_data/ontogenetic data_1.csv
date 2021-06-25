@@ -1,0 +1,37 @@
+﻿Location,Region,species abbreviation,species,genus,family,fish ID,run,lane,size (BL),stage,Ucrit,cohort date,measurement date,temperature ,publication,,,comment,,,,note to Becky
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.1,1,1,8.25,post,8.3,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,cohort date is when newly hatched larvae were observed in the brood tank
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.2,1,2,9.5,post,11.8,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,"site data would be reared at Lautan Production, Meze, France"
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.3,1,3,7,post,1.1,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,I thought lat and long would be irrelevant in such a situation
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.4,1,4,9.5,post,7.6,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,"Run and lane refer to the swimming chamber.  Not really necessary to include this info, mostly I have it there to help me get everything entered correctly.  "
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.5,1,5,8.5,post,5.9,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,"The Fish ID is a combination of three things - the Australian Museum collection event number, the swim chamber run and the lane number."
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.1.6,1,6,9.5,post,13.5,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,"I have no pics of either of these species, but there are camera lucida drawings of 4 larvae in the publication"
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.1,2,1,9,post,4.7,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.2,2,2,8,post,1.3,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.3,2,3,8.5,post,2.6,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.4,2,4,7,post,5.7,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.5,2,5,8.5,post,6.0,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.2.6,2,6,9,post,0.8,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.1,3,1,7,post,1.1,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.2,3,2,8,post,5.0,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.3,3,3,7.5,post,8.3,11/09/2010,3/10/2010,28,Leis et al 2012,,,2 fish in lane 3,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.3a,3,3a,8.5,post,4.0,11/09/2010,3/10/2010,28,Leis et al 2012,,,2 fish in lane 3,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.4,3,4,10.5,post,11.7,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.5,3,5,9.5,post,10.1,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45582.3.6,3,6,9.5,post,12.7,11/09/2010,3/10/2010,28,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.1,9,1,6.3,post,6.4,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.2,9,2,7.1,post,1.3,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.3,9,3,6.8,post,6.4,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.4,9,4,6.8,post,3.3,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.5,9,5,6.5,post,8.1,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.9.6,9,6,6.7,post,5.7,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.10.2,10,2,7.3,post,11.6,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.10.3,10,3,6.7,post,5.3,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.10.4,10,4,5.5,post,0.1,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.10.5,10,5,6.9,post,8.4,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.10.6,10,6,7.7,post,2.1,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.11.2,11,2,7.3,post,9.5,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.11.3,11,3,6.2,post,1.9,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.11.4,11,4,6.3,flex,2.5,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.11.5,11,5,6.3,flex,2.7,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.11.6,11,6,6.3,post,1.7,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
+LAU,West Central Atlantic,Gralto,loreto,Gramma,Grammatidae,45583.12.3,12,3,6.6,flex,8.4,25/09/2010,10/10/2010,25.5,Leis et al 2012,,,,,,,
