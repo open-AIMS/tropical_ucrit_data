@@ -1,0 +1,1382 @@
+species_id,fish_id,date,trap,sampling_gear,year,month,filename,image,AMS_rego,publication,stage
+acabah,05larv0144,2005-07-07,cn2,crest net,2005,7,05larv0144.jpg,05larv0144,NA,Hogan_etal2007,Settlement
+acabah,05larv0240,2005-07-12,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,05larv0265,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,05larv0280,2005-07-14,cn3,crest net,2005,7,05LARV0280.jpg,05larv0280,NA,Hogan_etal2007,Settlement
+acabah,05larv0323,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,tci03nov19d,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19e,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19g,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19h,2003-11-19,hdl,light trap,2003,11,tci03nov19h.jpg,tci03nov19h,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19i,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19j,2003-11-19,hdl,light trap,2003,11,tci03nov19j.jpg,tci03nov19j,NA,Fisher_etal2005,Settlement
+acabah,tci03nov19k,2003-11-19,hdl,light trap,2003,11,tci03nov19k.jpg,tci03nov19k,NA,Fisher_etal2005,Settlement
+acabah,tci03nov1a,2003-11-01,grotto,light trap,2003,11,tci03nov1a.jpg,tci03nov1a,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21c,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21f,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21g,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21h,2003-11-21,hdl,light trap,2003,11,tci03nov21h.jpg,tci03nov21h,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21i,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21j,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov21k,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov22a,2003-11-22,hdl,light trap,2003,11,tci03nov22a.jpg,tci03nov22a,NA,Fisher_etal2005,Settlement
+acabah,tci03nov22d,2003-11-22,hdl,light trap,2003,11,tci03nov22d.jpg,tci03nov22d,NA,Fisher_etal2005,Settlement
+acabah,tci03nov22h,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acabah,tci03nov22j,2003-11-22,hdl,light trap,2003,11,tci03nov22j.jpg,tci03nov22j,NA,Fisher_etal2005,Settlement
+acabah,tci03nov22k,2003-11-22,hdl,light trap,2003,11,tci03nov22k.jpg,tci03nov22k,NA,Fisher_etal2005,Settlement
+acabah,05larv0026,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,05larv0027,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,05larv0028,2005-06-26,cn2,crest net,2005,6,05larv0028.jpg,05larv0028,NA,Hogan_etal2007,Settlement
+acabah,05larv0044,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acabah,05larv0045,2005-07-02,ltCalab,light trap,2005,7,05larv0045.jpg,05larv0045,NA,Hogan_etal2007,Settlement
+acabah,05larv0003,2005-06-09,ltCalab,light trap,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+acachi,tci03nov19l,2003-11-19,hdl,light trap,2003,11,tci03nov19l.jpg,tci03nov19l,NA,Fisher_etal2005,Settlement
+acachi,tci03nov21d,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acachi,tci03nov22c,2003-11-22,hdl,light trap,2003,11,tci03nov22c.jpg,tci03nov22c,NA,Fisher_etal2005,Settlement
+acachi,tci03nov22f,2003-11-22,hdl,light trap,2003,11,tci03nov22f.jpg,tci03nov22f,NA,Fisher_etal2005,Settlement
+acachi,tci03nov22i,2003-11-22,hdl,light trap,2003,11,tci03nov22i.jpg,tci03nov22i,NA,Fisher_etal2005,Settlement
+acachi,tci03nov23b,2003-11-23,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acachi,05larv0057,2005-07-03,ltCalab,light trap,2005,7,05larv0057.jpg,05larv0057,NA,Hogan_etal2007,Settlement
+acacoe,05larv0077,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acacoe,05larv0078,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acacoe,05larv0145,2005-07-07,cn2,crest net,2005,7,05larv0145.jpg,05larv0145,NA,Hogan_etal2007,Settlement
+acacoe,05larv0218,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+acacoe,tci03nov19b,2003-11-19,hdl,light trap,2003,11,tci03nov19b.jpg,tci03nov19b,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov19f,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov19n,2003-11-19,hdl,light trap,2003,11,tci03nov19n.jpg,tci03nov19n,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov21l,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov21p,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov23c,2003-11-23,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov23d,2003-11-23,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acacoe,tci03nov23h,2003-11-23,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+acLIa,24/11/00j34,2000-11-24,bottom,light trap,2000,11,24v11bottom34.jpg,24v11v00j34,NA,Fisher_etal2005,Settlement
+acLIa,24/11/00j35,2000-11-24,bottom,light trap,2000,11,24v11bottom35.jpg,24v11v00j35,NA,Fisher_etal2005,Settlement
+acLIb,17/11/01j37,2001-11-17,liv,light trap,2001,11,17v11v01olivia1j37.jpg,17v11v01j37,NA,Fisher_etal2005,Settlement
+acLIb,29/11/00j31,2000-11-29,jeff,light trap,2000,11,29v11jeff31.jpg,29v11v00j31,NA,Fisher_etal2005,Settlement
+anHsp1,05larv0093,2005-07-05,cn3,crest net,2005,7,05larv0093.jpg,05larv0093,NA,Hogan_etal2007,Settlement
+anHsp2,05larv0285,2005-07-14,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+anHsp2,05larv0291,NA,cn2,crest net,2005,NA,05LARV0291.jpg,05larv0291,NA,Hogan_etal2007,Settlement
+apacya,20/12/00j16,2000-12-20,mark,light trap,2000,12,20v12mark16.jpg,20v12v00j16,NA,Fisher_etal2005,Settlement
+apacya,20/12/00j18,2000-12-20,mark,light trap,2000,12,20v12mark18.jpg,20v12v00j18,NA,Fisher_etal2005,Settlement
+apacya,29/11/01j37,2001-11-29,sunb,light trap,2001,11,29v11v01j37.jpg,29v11v01j37,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.1,2003-12-31,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.2,2003-12-31,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.3,2003-12-31,JML03,light trap,2003,12,31.12.3.JPG,31.12.3,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.4,2003-12-31,JML03,light trap,2003,12,31.12.4.JPG,31.12.4,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.5,2003-12-31,JML03,light trap,2003,12,31.12.5.JPG,31.12.5,NA,Fisher_etal2005,Settlement
+apacya,jml03/31.12.6,2003-12-31,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apacya,jml03/1.1.3,2004-01-01,JML03,light trap,2004,1,NA,NA,NA,Fisher_etal2005,Settlement
+apacya,jml03/1.1.4,2004-01-01,JML03,light trap,2004,1,1.1.4.JPG,1.1.4,NA,Fisher_etal2005,Settlement
+apacya,12/12/01j20,2001-12-12,sunb,light trap,2001,12,12v12v01j20.jpg,12v12v01j20,NA,Fisher_etal2005,Settlement
+apacya,jml03/1.1.5,2004-01-01,JML03,light trap,2004,1,1.1.5.JPG,1.1.5,NA,Fisher_etal2005,Settlement
+apacya,jml03/1.1.6,2004-01-01,JML03,light trap,2004,1,NA,NA,NA,Fisher_etal2005,Settlement
+apamac,05larv0082,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0189,2005-07-09,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0228,2005-07-11,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0229,2005-07-11,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0029,2005-06-26,cn2,crest net,2005,6,05larv0029.jpg,05larv0029,NA,Hogan_etal2007,Settlement
+apamac,05larv0031,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0038,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apamac,05larv0066,2005-07-03,ltCalab,light trap,2005,7,05larv0066.jpg,05larv0066,NA,Hogan_etal2007,Settlement
+apapla,05larv0087,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapla,05larv0230,2005-07-11,cn1,crest net,2005,7,05larv0230.jpg,05larv0230,NA,Hogan_etal2007,Settlement
+apapla,05larv0005,2005-06-22,cn2,crest net,2005,6,05larv0005.jpg,05larv0005,NA,Hogan_etal2007,Settlement
+apapun,05larv0134,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0135,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0136,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0149,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0195,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0207,2005-07-10,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0208,2005-07-10,cn3,crest net,2005,7,05larv0208.jpg,05larv0208,NA,Hogan_etal2007,Settlement
+apapun,05larv0209,2005-07-10,cn3,crest net,2005,7,05larv0209.jpg,05larv0209,NA,Hogan_etal2007,Settlement
+apapun,05larv0212,2005-07-10,cn3,crest net,2005,7,05larv0212.jpg,05larv0212,NA,Hogan_etal2007,Settlement
+apapun,05larv0234,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0238,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0022,2005-06-26,cn2,crest net,2005,6,05larv0022.jpg,05larv0022,NA,Hogan_etal2007,Settlement
+apapun,05larv0047,2005-07-02,ltCalab,light trap,2005,7,05larv0047.jpg,05larv0047,NA,Hogan_etal2007,Settlement
+apapun,05larv0048,2005-07-02,ltCalab,light trap,2005,7,05larv0048.jpg,05larv0048,NA,Hogan_etal2007,Settlement
+apapun,05larv0010,2005-06-22,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apapun,05larv0020,2005-06-26,cn2,crest net,2005,6,05larv0020.jpg,05larv0020,NA,Hogan_etal2007,Settlement
+apapun,05larv0021,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0205,2005-07-10,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0231,2005-07-11,cn1,crest net,2005,7,05larv0231.jpg,05larv0231,NA,Hogan_etal2007,Settlement
+apaqua,05larv0232,2005-07-11,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0233,2005-07-11,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0256,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0257,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0258,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0259,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0260,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0261,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0270,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0274,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0276,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0278,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0284,2005-07-14,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0036,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0046,2005-07-02,ltCalab,light trap,2005,7,05larv0046.jpg,05larv0046,NA,Hogan_etal2007,Settlement
+apaqua,05larv0061,2005-07-03,ltCalab,light trap,2005,7,05larv0061.jpg,05larv0061,NA,Hogan_etal2007,Settlement
+apaqua,05larv0007,2005-06-22,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apaqua,05larv0009,2005-06-22,cn2,crest net,2005,6,05larv0009.jpg,05larv0009,NA,Hogan_etal2007,Settlement
+apaqua,05larv0011,2005-06-22,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apatri,jml03/17.12.15,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apatri,jml03/17.12.18,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apatri,jml03/19.12.2,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apatri,jml03/19.12.5,2003-12-19,JML03,light trap,2003,12,19.12.5.JPG,19.12.5,NA,Fisher_etal2005,Settlement
+apatri,jml03/19.12.8,2003-12-19,JML03,light trap,2003,12,19.12.8.JPG,19.12.8,NA,Fisher_etal2005,Settlement
+apatri,12/12/01j14,2001-12-12,sunb,light trap,2001,12,12v12v01j14.jpg,12v12v01j14,NA,Fisher_etal2005,Settlement
+apatri,14/12/01j34,2001-12-14,top1,light trap,2001,12,NA,NA,NA,Fisher_etal2005,Settlement
+apatri,17/11/01j24,2001-11-17,liv,light trap,2001,11,17v11v01j24.jpg,17v11v01j24,NA,Fisher_etal2005,Settlement
+apatri,18/11/01j28,2001-11-18,liv,light trap,2001,11,18v11v01olivej28.jpg,18v11v01j28,NA,Fisher_etal2005,Settlement
+apHuknown,05larv0088,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0096,2005-07-05,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0097,2005-07-05,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0098,2005-07-05,ltCalab,light trap,2005,7,05larv0098.jpg,05larv0098,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0140,2005-07-07,cn1,crest net,2005,7,05larv0140.jpg,05larv0140,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0161,2005-07-08,cn3,crest net,2005,7,05larv0161.jpg,05larv0161,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0190,2005-07-09,cn1,crest net,2005,7,05larv0190.jpg,05larv0190,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0030,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0040,2005-07-02,ltCalab,light trap,2005,7,05larv0040.jpg,05larv0040,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0062,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0072,2005-07-04,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0006,2005-06-22,cn2,crest net,2005,6,05larv0006b.jpg,05larv0006b,NA,Hogan_etal2007,Settlement
+apHuknown,05larv0008,2005-06-22,cn2,crest net,2005,6,05larv0008.jpg,05larv0008,NA,Hogan_etal2007,Settlement
+apLI11,20/12/00j12,2000-12-20,mark,light trap,2000,12,20v12mark12.jpg,20v12v00j12,NA,Fisher_etal2005,Settlement
+apLI11,jml03/15.12.20,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI11,14/12/00j28,2000-12-14,mark,light trap,2000,12,14v12mark2-28.jpg,14v12v00j28,NA,Fisher_etal2005,Settlement
+apLI11,15/12/00j6,2000-12-15,mark,light trap,2000,12,15v12mark6.jpg,15v12v00j6,NA,Fisher_etal2005,Settlement
+apLI11,15/12/00j8,2000-12-15,mark,light trap,2000,12,15v12mark8.jpg,15v12v00j8,NA,Fisher_etal2005,Settlement
+apLI11,16/12/01j28,2001-12-16,liv,light trap,2001,12,16v12v01j28.jpg,16v12v01j28,NA,Fisher_etal2005,Settlement
+apLI11,17/11/01j11,2001-11-17,top1,light trap,2001,11,17v11v01sp11top1j11.jpg,17v11v01j11,NA,Fisher_etal2005,Settlement
+apLI11,17/11/01j21,2001-11-17,top1,light trap,2001,11,17v11v01sp11topj21.jpg,17v11v01j21,NA,Fisher_etal2005,Settlement
+apLI11,17/11/01j25,2001-11-17,top1,light trap,2001,11,17v11v01sp11top1j25.jpg,17v11v01j25,NA,Fisher_etal2005,Settlement
+apLI12,21/11/00j13,2000-11-21,top,light trap,2000,11,21v11top13.jpg,21v11v00j13,NA,Fisher_etal2005,Settlement
+apLI12,29/11/01j3,2001-11-29,sunb,light trap,2001,11,29v11v01j3.jpg,29v11v01j3,NA,Fisher_etal2005,Settlement
+apLI12,jml03/15.12.24,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI12,17/11/01j10,2001-11-17,liv,light trap,2001,11,17v11v01j10.jpg,17v11v01j10,NA,Fisher_etal2005,Settlement
+apLI12,17/11/01j30,2001-11-17,liv,light trap,2001,11,17v11v01j30.jpg,17v11v01j30,NA,Fisher_etal2005,Settlement
+apLI12,17/11/01j31,2001-11-17,liv,light trap,2001,11,17v11v01j31.jpg,17v11v01j31,NA,Fisher_etal2005,Settlement
+apLI12,29/11/00j28,2000-11-29,jeff,light trap,2000,11,29v11jeff28.jpg,29v11v00j28,NA,Fisher_etal2005,Settlement
+apLI16,6/12/01j18,2001-12-06,sunb,light trap,2001,12,6v12v01jar18.jpg,6v12v01j18,NA,Fisher_etal2005,Settlement
+apLI16,6/12/01j3,2001-12-06,sunb,light trap,2001,12,6v12v01jar3.jpg,6v12v01j3,NA,Fisher_etal2005,Settlement
+apLI16,jml03/18.12.11,2003-12-18,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI16,14/12/01j19,2001-12-14,sunb,light trap,2001,12,14v12v01j19.jpg,14v12v01j19,NA,Fisher_etal2005,Settlement
+apLI16,14/12/01j21,2001-12-14,top2,light trap,2001,12,14v12v01j21.jpg,14v12v01j21,NA,Fisher_etal2005,Settlement
+apLI16,17/11/01j20,2001-11-17,liv,light trap,2001,11,17v11v01j20.jpg,17v11v01j20,NA,Fisher_etal2005,Settlement
+apLI16,17/11/01j42,2001-11-17,liv,light trap,2001,11,17v11v01j42.jpg,17v11v01j42,NA,Fisher_etal2005,Settlement
+apLI16,19/11/01j34,2001-11-19,liv,light trap,2001,11,19v11v01j34.jpg,19v11v01j34,NA,Fisher_etal2005,Settlement
+apLI18,6/12/01j20,2001-12-06,sunb,light trap,2001,12,6v12v01jar20.jpg,6v12v01j20,NA,Fisher_etal2005,Settlement
+apLI18,6/12/01j21,2001-12-06,sunb,light trap,2001,12,6v12v01jar21.jpg,6v12v01j21,NA,Fisher_etal2005,Settlement
+apLI18,6/12/01j28,2001-12-06,sunb,light trap,2001,12,6v12v01jar28.jpg,6v12v01j28,NA,Fisher_etal2005,Settlement
+apLI18,6/12/01j30,2001-12-06,sunb,light trap,2001,12,6v12v01jar30.jpg,6v12v01j30,NA,Fisher_etal2005,Settlement
+apLI18,6/12/01j38,2001-12-06,sunb,light trap,2001,12,6v12v01jar38.jpg,6v12v01j38,NA,Fisher_etal2005,Settlement
+apLI18,jml03/18.12.9,2003-12-18,JML03,light trap,2003,12,18.12.9.JPG,18.12.9,NA,Fisher_etal2005,Settlement
+apLI18,14/12/01j28,2001-12-14,sunb,light trap,2001,12,14v12v01j28.jpg,14v12v01j28,NA,Fisher_etal2005,Settlement
+apLI18,14/12/01j4,2001-12-14,sunb,light trap,2001,12,14v12v01j4.jpg,14v12v01j4,NA,Fisher_etal2005,Settlement
+apLI18,16/12/01j37,2001-12-16,sunb,light trap,2001,12,16v12v01j37.jpg,16v12v01j37,NA,Fisher_etal2005,Settlement
+apLI18,16/12/01j41,2001-12-16,sunb,light trap,2001,12,16v12v01j41.jpg,16v12v01j41,NA,Fisher_etal2005,Settlement
+apLI18,17/11/01j40,2001-11-17,liv,light trap,2001,11,17v11v01j40.jpg,17v11v01j40,NA,Fisher_etal2005,Settlement
+apLI18,19/11/01j29,2001-11-19,liv,light trap,2001,11,19v11v01j29.jpg,19v11v01j29,NA,Fisher_etal2005,Settlement
+apLI9,19/12/00j27,2000-12-19,mark,light trap,2000,12,19v12mark27sp9.jpg,19v12v00j27,NA,Fisher_etal2005,Settlement
+apLI9,20/12/00j10,2000-12-20,mark,light trap,2000,12,20v12mark10sp9.jpg,20v12v00j10,NA,Fisher_etal2005,Settlement
+apLI9,20/12/00j23,2000-12-20,mark,light trap,2000,12,20v12mark23.jpg,20v12v00j23,NA,Fisher_etal2005,Settlement
+apLI9,20/12/00j4,2000-12-20,mark,light trap,2000,12,20v12mark4sp9.jpg,20v12v00j4,NA,Fisher_etal2005,Settlement
+apLI9,9/12/00j24,2000-12-09,mark,light trap,2000,12,9v12mark24.jpg,9v12v00j24,NA,Fisher_etal2005,Settlement
+apLI9,jml03/20.12.5,2003-12-20,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI9,jml03/15.12.18,2003-12-15,JML03,light trap,2003,12,15.12.18 & 19.JPG,15.12.18 & 19,NA,Fisher_etal2005,Settlement
+apLI9,jml03/15.12.26,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI9,jml03/15.12.28,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI9,jml03/18.12.7,2003-12-18,JML03,light trap,2003,12,18.12.7.JPG,18.12.7,NA,Fisher_etal2005,Settlement
+apLI9,jml03/20.12.3,2003-12-20,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI9,jml03/20.12.6,2003-12-20,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+apLI9,15/12/00j18,2000-12-15,mark,light trap,2000,12,15v12mark18.jpg,15v12v00j18,NA,Fisher_etal2005,Settlement
+apLI9,15/12/00j4,2000-12-15,mark,light trap,2000,12,15v12mark4.jpg,15v12v00j4,NA,Fisher_etal2005,Settlement
+apLIb,19/12/00j25,2000-12-19,mark,light trap,2000,12,19v12mark25.jpg,19v12v00j25,NA,Fisher_etal2005,Settlement
+apLIb,10/12/01j33,2001-12-10,sunb,light trap,2001,12,10v12v01j33.jpg,10v12v01j33,NA,Fisher_etal2005,Settlement
+apLIb,10/12/01j6,2001-12-10,bott1,light trap,2001,12,10v12v01j6.jpg,10v12v01j6,NA,Fisher_etal2005,Settlement
+apLIb,12/12/01j31,2001-12-12,bott1,light trap,2001,12,12v12v01j31.jpg,12v12v01j31,NA,Fisher_etal2005,Settlement
+apLIb,12/12/01j41,2001-12-12,bott1,light trap,2001,12,12v12v01j41.jpg,12v12v01j41,NA,Fisher_etal2005,Settlement
+apLIb,12/12/01j9,2001-12-12,bott1,light trap,2001,12,12v12v01j9.jpg,12v12v01j9,NA,Fisher_etal2005,Settlement
+apLIb,14/12/01j12,2001-12-14,bott1,light trap,2001,12,14v12v01j12bott1.jpg,14v12v01j12,NA,Fisher_etal2005,Settlement
+apLIf,20/12/01j16,2001-12-20,sunb,light trap,2001,12,20v12v01j16.jpg,20v12v01j16,NA,Fisher_etal2005,Settlement
+apLIf,21/12/01j25,2001-12-21,top1,light trap,2001,12,21v12v01j25top1.jpg,21v12v01j25,NA,Fisher_etal2005,Settlement
+apLIf,21/12/01j5,2001-12-21,top1,light trap,2001,12,21v12v01j5top1.jpg,21v12v01j5,NA,Fisher_etal2005,Settlement
+apLIh,19/12/00j11,2000-12-19,mark,light trap,2000,12,19v12mark11.jpg,19v12v00j11,NA,Fisher_etal2005,Settlement
+apLIh,20/12/00j14,2000-12-20,mark,light trap,2000,12,20v12mark14.jpg,20v12v00j14,NA,Fisher_etal2005,Settlement
+apLIh,29/11/01j29,2001-11-29,sunb,light trap,2001,11,29v11v01j29.jpg,29v11v01j29,NA,Fisher_etal2005,Settlement
+apLIh,19/11/01j42,2001-11-19,liv,light trap,2001,11,19v11v01j42.jpg,19v11v01j42,NA,Fisher_etal2005,Settlement
+apLIk,20/12/01j15,2001-12-20,top1,light trap,2001,12,20v12v01j15.jpg,20v12v01j15,NA,Fisher_etal2005,Settlement
+apLIk,22/12/00j18,2000-12-22,mark,light trap,2000,12,22v12mark18.jpg,22v12v00j18,NA,Fisher_etal2005,Settlement
+apLIk,29/11/01j25,2001-11-29,sunb,light trap,2001,11,29v11v01j25.jpg,29v11v01j25,NA,Fisher_etal2005,Settlement
+apLIk,29/11/01j30,2001-11-29,sunb,light trap,2001,11,29v11v01j30.jpg,29v11v01j30,NA,Fisher_etal2005,Settlement
+apLIk,14/12/00j23,2000-12-14,mark,light trap,2000,12,14v12mark2-23.jpg,14v12v00j23,NA,Fisher_etal2005,Settlement
+apLIk,15/12/00j9,2000-12-15,mark,light trap,2000,12,15v12mark9.jpg,15v12v00j9,NA,Fisher_etal2005,Settlement
+apLIm,11/12/01j39,2001-12-11,sunb,light trap,2001,12,11v12v01j39.jpg,11v12v01j39,NA,Fisher_etal2005,Settlement
+apLIm,17/11/01j39,2001-11-17,liv,light trap,2001,11,17v11v01olivia1j39.jpg,17v11v01j39,NA,Fisher_etal2005,Settlement
+apLIm,27/12/01j4,2001-12-27,sunb,light trap,2001,12,27v12v01j4.jpg,27v12v01j4,NA,Fisher_etal2005,Settlement
+apLIm,28/11/01j20,2001-11-28,sunb,light trap,2001,11,28v11v01j20.jpg,28v11v01j20,NA,Fisher_etal2005,Settlement
+apLIu,29/11/01j7,2001-11-29,sunb,light trap,2001,11,29v11v01j7.jpg,29v11v01j7,NA,Fisher_etal2005,Settlement
+apLIu,6/12/01j15,2001-12-06,sunb,light trap,2001,12,6v12v01jar15.jpg,6v12v01j15,NA,Fisher_etal2005,Settlement
+apLIu,6/12/01j34,2001-12-06,sunb,light trap,2001,12,6v12v01jar34.jpg,6v12v01j34,NA,Fisher_etal2005,Settlement
+apLIu,6/12/01j36,2001-12-06,sunb,light trap,2001,12,6v12v01jar36.jpg,6v12v01j36,NA,Fisher_etal2005,Settlement
+apLIu,12/12/01j10,2001-12-12,sunb,light trap,2001,12,12v12v01j10.jpg,12v12v01j10,NA,Fisher_etal2005,Settlement
+apLIu,19/11/01j20,2001-11-19,liv,light trap,2001,11,19v11v01j20.jpg,19v11v01j20,NA,Fisher_etal2005,Settlement
+apppig,tci03nov22n,2003-11-22,hdl,light trap,2003,11,tci03nov22n.jpg,tci03nov22n,NA,Fisher_etal2005,Settlement
+apppig,tci03nov2a,2003-11-02,grotto,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+apppig,tci03oct31a,2003-10-31,grotto,light trap,2003,10,tci03oct31a.jpg,tci03oct31a,NA,Fisher_etal2005,Settlement
+baHsp1,05larv0296,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+baHsp1,05larv0297,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+baHsp1,05larv0298,NA,cn3,crest net,2005,NA,05LARV0298.jpg,05larv0298,NA,Hogan_etal2007,Settlement
+baHsp1,05larv0299,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+baLIa,24/11/00j31,2000-11-24,top,light trap,2000,11,24v11top31.jpg,24v11v00j31,NA,Fisher_etal2005,Settlement
+blesti,19/12/01j18,2001-12-19,sunb,light trap,2001,12,19v12v01j18.jpg,19v12v01j18,NA,Fisher_etal2005,Settlement
+blesti,19/12/01j25,2001-12-19,sunb,light trap,2001,12,19v12v01j25.jpg,19v12v01j25,NA,Fisher_etal2005,Settlement
+blesti,21/11/00j9,2000-11-21,top,light trap,2000,11,21v11top9.jpg,21v11v00j9,NA,Fisher_etal2005,Settlement
+blesti,16/12/01j33,2001-12-16,sunb,light trap,2001,12,16v12v01j33.jpg,16v12v01j33,NA,Fisher_etal2005,Settlement
+blesti,16/12/01j39,2001-12-16,sunb,light trap,2001,12,16v12v01j39.jpg,16v12v01j39,NA,Fisher_etal2005,Settlement
+bloatl,05larv0075,2005-07-04,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+blplup,20/11/01j28,2001-11-20,top1,light trap,2001,11,20v11v01j28.jpg,20v11v01j28,NA,Fisher_etal2005,Settlement
+blplup,14/11/01j6,2001-11-14,liv,light trap,2001,11,14v11v01j6.jpg,14v11v01j6,NA,Fisher_etal2005,Settlement
+blplup,19/11/01j25,2001-11-19,bott2,light trap,2001,11,19v11v01bot2j25.jpg,19v11v01j25,NA,Fisher_etal2005,Settlement
+blplup,19/11/01j39,2001-11-19,bott2,light trap,2001,11,19v11v01bot2j39.jpg,19v11v01j39,NA,Fisher_etal2005,Settlement
+caHsp1,05larv0282,2005-07-14,cn3,crest net,2005,7,05LARV0282.jpg,05larv0282,NA,Hogan_etal2007,Settlement
+caHsp1,05larv0037,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+caHsp2,05larv0293,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+caHsp2,05larv0317,NA,cn2,crest net,2005,NA,05LARV0317.jpg,05larv0317,NA,Hogan_etal2007,Settlement
+caHsp2,05larv0318,NA,cn2,crest net,2005,NA,05LARV0318.jpg,05larv0318,NA,Hogan_etal2007,Settlement
+caHsp2,05larv0325,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+caHsp2,05larv0330,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+caLIa,22/11/00j30,2000-11-22,bottom,light trap,2000,11,22v11top30.jpg,22v11v00j30,NA,Fisher_etal2005,Settlement
+caLIa,3/01/01j6,2001-01-03,mark,light trap,2001,1,NA,NA,NA,Fisher_etal2005,Settlement
+caLIa,17/11/01j23,2001-11-17,top1,light trap,2001,11,17v11v01top1j23.jpg,17v11v01j23,NA,Fisher_etal2005,Settlement
+caLIa,26/11/00j30,2000-11-26,middle,light trap,2000,11,26v11mid30.jpg,26v11v00j30,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j16,2000-12-26,top,light trap,2000,12,26v12top16.jpg,26v12v00j16,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j19,2000-12-26,middle,light trap,2000,12,26v12mid19.jpg,26v12v00j19,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j24,2000-12-26,top,light trap,2000,12,26v12top24.jpg,26v12v00j24,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j26,2000-12-26,middle,light trap,2000,12,26v12mid26.jpg,26v12v00j26,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j9,2000-12-26,top,light trap,2000,12,26v12bottom9.jpg,26v12v00j9,NA,Fisher_etal2005,Settlement
+caLIa,26/12/00j9,2000-12-26,top,light trap,2000,12,26v12top9.jpg,26v12v00j9,NA,Fisher_etal2005,Settlement
+chcaure,jml03/21.12.1,2003-12-21,JML03,light trap,2003,12,21.12.1.JPG,21.12.1,NA,Fisher_etal2005,Settlement
+chcaure,jml03/22.12.4,2003-12-22,JML03,light trap,2003,12,22.12.4.JPG,22.12.4,NA,Fisher_etal2005,Settlement
+chcaure,jml03/30.12.5,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcaure,jml03/30.12.7,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcauri,23/11/01j38,2001-11-23,sunb,light trap,2001,11,23v11v01j38.jpg,23v11v01j38,NA,Fisher_etal2005,Settlement
+chcauri,6/12/01j32,2001-12-06,sunb,light trap,2001,12,6v12v01jar32.jpg,6v12v01j32,NA,Fisher_etal2005,Settlement
+chcauri,10/12/01j11,2001-12-10,sunb,light trap,2001,12,10v12v01j11.jpg,10v12v01j11,NA,Fisher_etal2005,Settlement
+chccap,05larv0106,2005-07-06,ltCalab,light trap,2005,7,05larv0106.jpg,05larv0106,NA,Hogan_etal2007,Settlement
+chccap,05larv0107,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0108,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0109,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0110,2005-07-06,ltCalab,light trap,2005,7,05larv0110.jpg,05larv0110,NA,Hogan_etal2007,Settlement
+chccap,05larv0111,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0112,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0113,2005-07-06,ltCalab,light trap,2005,7,05larv0113.jpg,05larv0113,NA,Hogan_etal2007,Settlement
+chccap,05larv0114,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0117,2005-07-06,ltCalab,light trap,2005,7,05larv0117b.jpg,05larv0117,NA,Hogan_etal2007,Settlement
+chccap,05larv0130,2005-07-06,cn1,crest net,2005,7,05larv0130.jpg,05larv0130,NA,Hogan_etal2007,Settlement
+chccap,05larv0198,2005-07-10,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0199,2005-07-10,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0200,2005-07-10,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0201,2005-07-10,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0202,2005-07-10,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0203,2005-07-10,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0219,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0220,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0221,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0222,2005-07-11,ltCalab,light trap,2005,7,05larv0222.jpg,05larv0222,NA,Hogan_etal2007,Settlement
+chccap,05larv0223,2005-07-11,ltCalab,light trap,2005,7,05larv0223.jpg,05larv0223,NA,Hogan_etal2007,Settlement
+chccap,05larv0224,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0242,2005-07-12,cn3,crest net,2005,7,05larv0242.jpg,05larv0242,NA,Hogan_etal2007,Settlement
+chccap,05larv0243,2005-07-12,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0253,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0254,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0255,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0262,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0263,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0264,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0275,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0277,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0279,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chccap,05larv0283,2005-07-14,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+chcmel,15/12/00j30,2000-12-15,mark,light trap,2000,12,15v12mark30.jpg,15v12v00j30,NA,Fisher_etal2005,Settlement
+chcple,jml03/19.12.3,2003-12-19,JML03,light trap,2003,12,19.12.3.JPG,19.12.3,NA,Fisher_etal2005,Settlement
+chcple,jml03/19.12.6,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcple,jml03/22.12.1,2003-12-22,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.1,2003-12-30,JML03,light trap,2003,12,30.12.1.JPG,30.12.1,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.13,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.15,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.17,2003-12-30,JML03,light trap,2003,12,30.12.17.JPG,30.12.17,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.23,2003-12-30,JML03,light trap,2003,12,30.12.23.JPG,30.12.23,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.3,2003-12-30,JML03,light trap,2003,12,30.12.3.JPG,30.12.3,NA,Fisher_etal2005,Settlement
+chcple,jml03/30.12.9,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcple,27/11/01j12,2001-11-27,sunb,light trap,2001,11,27v11v01j12.jpg,27v11v01j12,NA,Fisher_etal2005,Settlement
+chcrai,jml03/17.12.1,2003-12-17,JML03,light trap,2003,12,17.12.1.JPG,17.12.1,NA,Fisher_etal2005,Settlement
+chcrai,jml03/17.12.3,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcrai,jml03/21.12.5,2003-12-21,JML03,light trap,2003,12,21.12.5 or 6.JPG,21.12.5 or 6,NA,Fisher_etal2005,Settlement
+chcrai,jml03/21.12.6,2003-12-21,JML03,light trap,2003,12,21.12.6 or 5.JPG,21.12.6 or 5,NA,Fisher_etal2005,Settlement
+chcrai,jml03/22.12.9,2003-12-22,JML03,light trap,2003,12,22.12.9.JPG,22.12.9,NA,Fisher_etal2005,Settlement
+chcrai,jml03/30.12.11,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcrai,jml03/30.12.19,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chcrai,jml03/30.12.21,2003-12-30,JML03,light trap,2003,12,30.12.21.JPG,30.12.21,NA,Fisher_etal2005,Settlement
+chcrai,jml03/30.12.24,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+chctri,jml03/19.12.9,2003-12-19,JML03,light trap,2003,12,19.12.9.JPG,19.12.9,NA,Fisher_etal2005,Settlement
+chLIb,18/11/01j14,2001-11-18,liv,light trap,2001,11,18v11v01j14.jpg,18v11v01j14,NA,Fisher_etal2005,Settlement
+cnHsp1,05larv0160,2005-07-08,cn2,crest net,2005,7,05larv0160.jpg,05larv0160,NA,Hogan_etal2007,Settlement
+dicant,05larv0013,2005-06-26,cn2,crest net,2005,6,05larv0013.jpg,05larv0013,NA,Hogan_etal2007,Settlement
+elon,tci03nov19m,2003-11-19,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+elon,tci03nov19o,2003-11-19,hdl,light trap,2003,11,tci03nov19o.jpg,tci03nov19o,NA,Fisher_etal2005,Settlement
+elon,tci03nov1b,2003-11-01,grotto,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+elon,tci03nov1c,2003-11-01,grotto,light trap,2003,11,tci03nov1c.jpg,tci03nov1c,NA,Fisher_etal2005,Settlement
+elon,tci03nov1d,2003-11-01,grotto,light trap,2003,11,tci03nov1d.jpg,tci03nov1d,NA,Fisher_etal2005,Settlement
+elon,tci03nov2b,2003-11-02,grotto,light trap,2003,11,tci03nov2b.jpg,tci03nov2b,NA,Fisher_etal2005,Settlement
+elon,tci03nov2c,2003-11-02,grotto,light trap,2003,11,tci03nov2c.jpg,tci03nov2c,NA,Fisher_etal2005,Settlement
+geHsp1,05larv0150,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0151,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0152,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0153,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0154,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0196,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0197,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0216,2005-07-10,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0217,2005-07-10,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0235,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0239,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0271,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0272,2005-07-13,cn1,crest net,2005,7,05LARV0272.jpg,05larv0272,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0273,2005-07-13,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0054,2005-07-02,ltCalab,light trap,2005,7,05larv0054.jpg,05larv0054,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0055,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+geHsp1,05larv0056,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+hahfla,05larv0225,2005-07-11,cn1,crest net,2005,7,05larv0225.jpg,05larv0225,NA,Hogan_etal2007,Settlement
+hahfla,05larv0324,NA,cn2,crest net,2005,NA,05LARV0324.jpg,05larv0324,NA,Hogan_etal2007,Settlement
+hoLIa,2/01/01j19,2001-01-02,mark,light trap,2001,1,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,05larv0105,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+hoscor,05larv0156,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+hoscor,tci03nov22b,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov22e,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov22g,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov22l,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov23e,2003-11-23,hdl,light trap,2003,11,tci03nov23e.jpg,tci03nov23e,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov23f,2003-11-23,hdl,light trap,2003,11,tci03nov23f.jpg,tci03nov23f,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov23g,2003-11-23,hdl,light trap,2003,11,tci03nov23g.jpg,tci03nov23g,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov23i,2003-11-23,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov26a,2003-11-26,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov27a,2003-11-27,hdl,light trap,2003,11,tci03nov27a.JPG,tci03nov27a,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov27b,2003-11-27,hdl,light trap,2003,11,tci03nov27b.jpg,tci03nov27b,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov27c,2003-11-27,hdl,light trap,2003,11,tci03nov27c.jpg,tci03nov27c,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28a,2003-11-28,plane,light trap,2003,11,tci03nov28a.jpg,tci03nov28a,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28b,2003-11-28,plane,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28c,2003-11-28,plane,light trap,2003,11,tci03nov28c.jpg,tci03nov28c,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28d,2003-11-28,plane,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28e,2003-11-28,plane,light trap,2003,11,tci03nov28e.jpg,tci03nov28e,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28f,2003-11-28,plane,light trap,2003,11,tci03nov28f.jpg,tci03nov28f,NA,Fisher_etal2005,Settlement
+hoscor,tci03nov28g,2003-11-28,plane,light trap,2003,11,tci03nov28g.jpg,tci03nov28g,NA,Fisher_etal2005,Settlement
+hoscor,tci03oct25i,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+hoscor,tci03oct29a,2003-10-29,grotto,light trap,2003,10,tci03oct29a.jpg,tci03oct29a,NA,Fisher_etal2005,Settlement
+hosvex,tci03nov21a,2003-11-21,hdl,light trap,2003,11,tci03nov21a.jpg,tci03nov21a,NA,Fisher_etal2005,Settlement
+hosvex,tci03oct25a,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+hosvex,tci03oct25b,2003-10-25,grotto,light trap,2003,10,tci03oct25b.jpg,tci03oct25b,NA,Fisher_etal2005,Settlement
+hosvex,tci03oct25c,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+lacpar,05larv0331,NA,reef,scuba,2005,NA,NA,NA,NA,Hogan_etal2007,post
+lacpar,05larv0332,NA,reef,scuba,2005,NA,NA,NA,NA,Hogan_etal2007,post
+lacpar,05larv0333,NA,reef,scuba,2005,NA,NA,NA,NA,Hogan_etal2007,post
+lacpar,05larv0334,NA,reef,scuba,2005,NA,NA,NA,NA,Hogan_etal2007,post
+lacpar,05larv0335,NA,reef,scuba,2005,NA,05LARV0335.jpg,05larv0335,NA,Hogan_etal2007,post
+lacpar,05larv0336,NA,reef,scuba,2005,NA,NA,NA,NA,Hogan_etal2007,post
+lelsp,20/11/01j18,2001-11-20,liv,light trap,2001,11,20v11v01j18.jpg,20v11v01j18,NA,Fisher_etal2005,Settlement
+lelsp,20/11/01j20,2001-11-20,liv,light trap,2001,11,20v11v01j20.jpg,20v11v01j20,NA,Fisher_etal2005,Settlement
+lelsp,20/12/01j27,2001-12-20,sunb,light trap,2001,12,20v12v01j27.jpg,20v12v01j27,NA,Fisher_etal2005,Settlement
+lelsp,20/12/01j30,2001-12-20,sunb,light trap,2001,12,20v12v01j30.jpg,20v12v01j30,NA,Fisher_etal2005,Settlement
+lelsp,21/11/00j15,2000-11-21,top,light trap,2000,11,21v11top15.jpg,21v11v00j15,NA,Fisher_etal2005,Settlement
+lelsp,22/12/01j38,2001-12-22,sunb,light trap,2001,12,22v12v01j38.jpg,22v12v01j38,NA,Fisher_etal2005,Settlement
+lelsp,23/11/01j39,2001-11-23,sunb,light trap,2001,11,23v11v01j39.jpg,23v11v01j39,NA,Fisher_etal2005,Settlement
+lelsp,29/11/01j31,2001-11-29,sunb,light trap,2001,11,29v11v01j31.jpg,29v11v01j31,NA,Fisher_etal2005,Settlement
+lelsp,29/11/01j39,2001-11-29,sunb,light trap,2001,11,29v11v01j39.jpg,29v11v01j39,NA,Fisher_etal2005,Settlement
+lelsp,jml03/18.12.4,2003-12-18,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+lelsp,jml03/29.12.1,2003-12-29,JML03,light trap,2003,12,29.12.1.JPG,29.12.1,NA,Fisher_etal2005,Settlement
+lelsp,23/12/01j25,2001-12-23,sunb,light trap,2001,12,23v12v01j25.jpg,23v12v01j25,NA,Fisher_etal2005,Settlement
+lelsp,24/11/00j11,2000-11-24,top,light trap,2000,11,24v11top11.jpg,24v11v00j11,NA,Fisher_etal2005,Settlement
+lelsp,24/11/00j23,2000-11-24,middle,light trap,2000,11,24v11mid23.jpg,24v11v00j23,NA,Fisher_etal2005,Settlement
+lelsp,24/11/00j24,2000-11-24,top,light trap,2000,11,24v11top24.jpg,24v11v00j24,NA,Fisher_etal2005,Settlement
+lelsp,24/11/00j27,2000-11-24,top,light trap,2000,11,24v11top27.jpg,24v11v00j27,NA,Fisher_etal2005,Settlement
+lelsp,24/11/00j9,2000-11-24,top,light trap,2000,11,24v11top9.jpg,24v11v00j9,NA,Fisher_etal2005,Settlement
+lelsp,28/11/01j16,2001-11-28,sunb,light trap,2001,11,28v11v01j16.jpg,28v11v01j16,NA,Fisher_etal2005,Settlement
+lelsp,29/11/00j22,2000-11-29,jeff,light trap,2000,11,29v11jeff22.jpg,29v11v00j22,NA,Fisher_etal2005,Settlement
+luccun,jml03/17.12.11,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+luccun,jml03/18.12.2,2003-12-18,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+luccun,jml03/20.12.4,2003-12-20,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+luccun,jml03/21.12.2,2003-12-21,JML03,light trap,2003,12,21.12.2.JPG,21.12.2,NA,Fisher_etal2005,Settlement
+luccun,jml03/21.12.4,2003-12-21,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+luccun,jml03/22.12.6,2003-12-22,JML03,light trap,2003,12,22.12.6.JPG,22.12.6,NA,Fisher_etal2005,Settlement
+luccun,jml03/22.12.8,2003-12-22,JML03,light trap,2003,12,22.12.8.JPG,22.12.8,NA,Fisher_etal2005,Settlement
+luHunknown,05larv0127,2005-07-06,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulana,tci03nov19a,2003-11-19,hdl,light trap,2003,11,tci03nov19a.jpg,tci03nov19a,NA,Fisher_etal2005,Settlement
+lulana,tci03oct25d,2003-10-25,grotto,light trap,2003,10,tci03oct25d.jpg,tci03oct25d,NA,Fisher_etal2005,Settlement
+lulana,tci03oct25e,2003-10-25,grotto,light trap,2003,10,tci03oct25e.jpg,tci03oct25e,NA,Fisher_etal2005,Settlement
+lulana,tci03oct25f,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+lulapo,05larv0080,2005-07-05,cn3,crest net,2005,7,05larv0080.jpg,05larv0080,NA,Hogan_etal2007,Settlement
+lulapo,05larv0081,2005-07-05,cn3,crest net,2005,7,05larv0081.jpg,05larv0081,NA,Hogan_etal2007,Settlement
+lulapo,05larv0123,2005-07-06,cn1,crest net,2005,7,05larv0123.jpg,05larv0123,NA,Hogan_etal2007,Settlement
+lulapo,05larv0124,2005-07-06,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0141,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0155,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0269,2005-07-13,cn1,crest net,2005,7,05LARV0269.jpg,05larv0269,NA,Hogan_etal2007,Settlement
+lulapo,05larv0288,NA,cn2,crest net,2005,NA,05LARV0288b.jpg,05larv0288,NA,Hogan_etal2007,Settlement
+lulapo,05larv0305,NA,cn4,channel net,2005,NA,05LARV0305.jpg,05larv0305,NA,Hogan_etal2007,Settlement
+lulapo,05larv0306,NA,cn4,channel net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0307,NA,cn4,channel net,2005,NA,05LARV0307.jpg,05larv0307,NA,Hogan_etal2007,Settlement
+lulapo,05larv0308,NA,cn2,crest net,2005,NA,05LARV0308.jpg,05larv0308,NA,Hogan_etal2007,Settlement
+lulapo,05larv0309,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0310,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+lulapo,05larv0319,NA,cn2,crest net,2005,NA,05LARV0319.jpg,05larv0319,NA,Hogan_etal2007,Settlement
+lulapo,tci03nov15d,2003-11-15,grotto,light trap,2003,11,tci03nov15d.jpg,tci03nov15d,NA,Fisher_etal2005,Settlement
+lulapo,tci03nov21m,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+lulcar,19/12/01j42,2001-12-19,sunb,light trap,2001,12,NA,NA,NA,Fisher_etal2005,Settlement
+lulcar,20/12/01j23,2001-12-20,sunb,light trap,2001,12,20v12v01j23.jpg,20v12v01j23,NA,Fisher_etal2005,Settlement
+lulcar,20/12/01j37,2001-12-20,sunb,light trap,2001,12,20v12v01j37.jpg,20v12v01j37,NA,Fisher_etal2005,Settlement
+lulcar,23/12/01j38,2001-12-23,sunb,light trap,2001,12,23v12v01j38.jpg,23v12v01j38,NA,Fisher_etal2005,Settlement
+lulcar,23/12/01j4,2001-12-23,sunb,light trap,2001,12,23v12v01j4.jpg,23v12v01j4,NA,Fisher_etal2005,Settlement
+lulcar,23/12/01j42,2001-12-23,sunb,light trap,2001,12,23v12v01j42.jpg,23v12v01j42,NA,Fisher_etal2005,Settlement
+lulcar,24/12/01j29,2001-12-24,sunb,light trap,2001,12,24v12v01j29.jpg,24v12v01j29,NA,Fisher_etal2005,Settlement
+lulcar,24/12/01j34,2001-12-24,sunb,light trap,2001,12,24v12v01j34.jpg,24v12v01j34,NA,Fisher_etal2005,Settlement
+lulcya,tci03oct25k,2003-10-25,grotto,light trap,2003,10,tci03oct25k.jpg,tci03oct25k,NA,Fisher_etal2005,Settlement
+luLI19c,19/12/01j31,2001-12-19,sunb,light trap,2001,12,19v12v01j31.jpg,19v12v01j31,NA,Fisher_etal2005,Settlement
+luLI19c,22/12/01j19,2001-12-22,sunb,light trap,2001,12,22v12v01j19.jpg,22v12v01j19,NA,Fisher_etal2005,Settlement
+luLI19c,23/12/01j14,2001-12-23,sunb,light trap,2001,12,23v12v01j14.jpg,23v12v01j14,NA,Fisher_etal2005,Settlement
+luLI19c,23/12/01j27,2001-12-23,sunb,light trap,2001,12,23v12v01j27.jpg,23v12v01j27,NA,Fisher_etal2005,Settlement
+luLI19c,24/12/01j10,2001-12-24,sunb,light trap,2001,12,24v12v01j10.jpg,24v12v01j10,NA,Fisher_etal2005,Settlement
+luLI19c,24/12/01j20,2001-12-24,sunb,light trap,2001,12,24v12v01j20.jpg,24v12v01j20,NA,Fisher_etal2005,Settlement
+luLI19c,26/12/01j33,2001-12-26,sunb,light trap,2001,12,26v12v01j33.jpg,26v12v01j33,NA,Fisher_etal2005,Settlement
+lulmah,05larv0079,2005-07-05,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulmah,05larv0125,2005-07-06,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulmah,05larv0126,2005-07-06,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulmah,05larv0128,2005-07-06,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulmah,05larv0204,2005-07-10,cn2,crest net,2005,7,05larv0204.jpg,05larv0204,NA,Hogan_etal2007,Settlement
+lulmah,05larv0206,2005-07-10,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+lulmah,05larv0320,NA,cn2,crest net,2005,NA,05LARV0320.jpg,05larv0320,NA,Hogan_etal2007,Settlement
+luochr,05larv0086,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+luochr,05larv0121,2005-07-06,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+luochr,05larv0122,2005-07-06,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+luochr,05larv0129,2005-07-06,cn1,crest net,2005,7,05larv0129.jpg,05larv0129,NA,Hogan_etal2007,Settlement
+luochr,05larv0268,2005-07-13,cn1,crest net,2005,7,05larv0268.jpg,05larv0268,NA,Hogan_etal2007,Settlement
+luochr,tci03nov23a,2003-11-23,hdl,light trap,2003,11,tci03nov23a.jpg,tci03nov23a,NA,Fisher_etal2005,Settlement
+luochr,tci03oct25j,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+luochr,05larv0060,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+moHunkown,05larv0162,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+moJEFFpara,jml03/13.12.15,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j12,2001-12-12,liv,light trap,2001,12,12v12v01j12.jpg,12v12v01j12,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j15,2001-12-12,liv,light trap,2001,12,12v12v01j15.jpg,12v12v01j15,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j16,2001-12-12,liv,light trap,2001,12,12v12v01j16.jpg,12v12v01j16,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j3,2001-12-12,liv,light trap,2001,12,12v12v01j3.jpg,12v12v01j3,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j37,2001-12-12,liv,light trap,2001,12,12v12v01j37.jpg,12v12v01j37,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j39,2001-12-12,liv,light trap,2001,12,12v12v01j39.jpg,12v12v01j39,NA,Fisher_etal2005,Settlement
+moJEFFpara,12/12/01j40,2001-12-12,liv,light trap,2001,12,12v12v01j40.jpg,12v12v01j40,NA,Fisher_etal2005,Settlement
+moJEFFpara,16/12/01j10,2001-12-16,liv,light trap,2001,12,16v12v01j10.jpg,16v12v01j10,NA,Fisher_etal2005,Settlement
+moJEFFpara,16/12/01j14,2001-12-16,liv,light trap,2001,12,16v12v01j14.jpg,16v12v01j14,NA,Fisher_etal2005,Settlement
+moJEFFpara,16/12/01j3,2001-12-16,liv,light trap,2001,12,16v12v01j3.jpg,16v12v01j3,NA,Fisher_etal2005,Settlement
+moJEFFpara,24/11/00j25,2000-11-24,top,light trap,2000,11,24v11top25.jpg,24v11v00j25,NA,Fisher_etal2005,Settlement
+moJEFFpara,26/11/00j25,2000-11-26,bottom,light trap,2000,11,NA,NA,NA,Fisher_etal2005,Settlement
+moLIb,12/12/01j29,2001-12-12,liv,light trap,2001,12,12v12v01j29.jpg,12v12v01j29,NA,Fisher_etal2005,Settlement
+moLIb,12/12/01j30,2001-12-12,liv,light trap,2001,12,12v12v01j30.jpg,12v12v01j30,NA,Fisher_etal2005,Settlement
+moLIb,16/11/01j16,2001-11-16,liv,light trap,2001,11,16v11v01j16.jpg,16v11v01j16,NA,Fisher_etal2005,Settlement
+moLIb,16/11/01j19,2001-11-16,liv,light trap,2001,11,16v11v01j19.jpg,16v11v01j19,NA,Fisher_etal2005,Settlement
+moLIb,16/11/01j20,2001-11-16,liv,light trap,2001,11,16v11v01j20.jpg,16v11v01j20,NA,Fisher_etal2005,Settlement
+moLIb,24/12/01j6,2001-12-24,sunb,light trap,2001,12,24v12v01j6.jpg,24v12v01j6,NA,Fisher_etal2005,Settlement
+momcil,05larv0063,2005-07-03,ltCalab,light trap,2005,7,05larv0063.jpg,05larv0063,NA,Hogan_etal2007,Settlement
+momcil,05larv0064,2005-07-03,ltCalab,light trap,2005,7,05larv0064.jpg,05larv0064,NA,Hogan_etal2007,Settlement
+momcil,05larv0018,2005-06-26,cn2,crest net,2005,6,05larv0018.jpg,05larv0018,NA,Hogan_etal2007,Settlement
+momtuc,05larv0101,2005-07-05,ltCalab,light trap,2005,7,05larv0101.jpg,05larv0101,NA,Hogan_etal2007,Settlement
+momtuc,05larv0142,2005-07-07,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+momtuc,05larv0188,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+momtuc,05larv0042,2005-07-02,ltCalab,light trap,2005,7,05larv0042.jpg,05larv0042,NA,Hogan_etal2007,Settlement
+momtuc,05larv0017,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+moolon,jml03/1.1.2,2004-01-01,JML03,light trap,2004,1,NA,NA,NA,Fisher_etal2005,Settlement
+mosset,05larv0099,2005-07-05,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+mosset,tci03oct26f,2003-10-26,grotto,light trap,2003,10,tci03oct26f.jpg,tci03oct26f,NA,Fisher_etal2005,Settlement
+mosset,05larv0004,2005-06-11,ltCalab,light trap,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+muLIa,20/12/00j2,2000-12-20,mark,light trap,2000,12,20v12mark2.jpg,20v12v00j2,NA,Fisher_etal2005,Settlement
+neLIb,23/12/01j16,2001-12-23,sunb,light trap,2001,12,23v12v01j16.jpg,23v12v01j16,NA,Fisher_etal2005,Settlement
+neLIb,23/12/01j21,2001-12-23,sunb,light trap,2001,12,23v12v01j21.jpg,23v12v01j21,NA,Fisher_etal2005,Settlement
+neLIb,23/12/01j39,2001-12-23,sunb,light trap,2001,12,23v12v01j39.jpg,23v12v01j39,NA,Fisher_etal2005,Settlement
+neLIb,24/12/01j36,2001-12-24,sunb,light trap,2001,12,24v12v01j36.jpg,24v12v01j36,NA,Fisher_etal2005,Settlement
+nesbil,6/12/01j40,2001-12-06,sunb,light trap,2001,12,6v12v01jar40.jpg,6v12v01j40,NA,Fisher_etal2005,Settlement
+nesbil,jml03/13.12.14,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+nesbil,jml03/14.12.1,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+nesbil,jml03/15.12.19,2003-12-15,JML03,light trap,2003,12,15.12.18 & 19.JPG,15.12.18 & 19,NA,Fisher_etal2005,Settlement
+nesbil,jml03/17.12.10,2003-12-17,JML03,light trap,2003,12,17.12.10.JPG,17.12.10,NA,Fisher_etal2005,Settlement
+nesbil,jml03/17.12.8,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+nesbil,jml03/24.12.14,2003-12-24,JML03,light trap,2003,12,24.12.13 & 14.JPG,24.12.13 & 14,NA,Fisher_etal2005,Settlement
+nesbil,jml03/24.12.16,2003-12-24,JML03,light trap,2003,12,24.12.15 & 16.JPG,24.12.15 & 16,NA,Fisher_etal2005,Settlement
+nesbil,jml03/24.12.18,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+nesbil,jml03/24.12.20,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+nesbil,15/12/01j22,2001-12-15,liv,light trap,2001,12,15v12v01j22.jpg,15v12v01j22,NA,Fisher_etal2005,Settlement
+nesbil,15/12/01j39,2001-12-15,liv,light trap,2001,12,15v12v01j39.jpg,15v12v01j39,NA,Fisher_etal2005,Settlement
+nesbil,15/12/01j42,2001-12-15,liv,light trap,2001,12,15v12v01j42.jpg,15v12v01j42,NA,Fisher_etal2005,Settlement
+nesbil,18/11/01j40,2001-11-18,liv,light trap,2001,11,18v11v01oliviaj40.jpg,18v11v01j40,NA,Fisher_etal2005,Settlement
+nesbil,28/11/00j18,2000-11-28,jeff,light trap,2000,11,28v11jeff18.jpg,28v11v00j18,NA,Fisher_etal2005,Settlement
+NoLIa,22/11/01j7,2001-11-22,top2,light trap,2001,11,22v11v01top2j7.jpg,22v11v01j7,NA,Fisher_etal2005,Settlement
+NoLIa,10/12/01j21,2001-12-10,liv,light trap,2001,12,10v12v01j21.jpg,10v12v01j21,NA,Fisher_etal2005,Settlement
+NoLIa,16/11/01j15,2001-11-16,liv,light trap,2001,11,16v11v01j15.jpg,16v11v01j15,NA,Fisher_etal2005,Settlement
+NoLIa,24/11/01j24,2001-11-24,sunb,light trap,2001,11,24v11v01top2j24.jpg,24v11v01j24,NA,Fisher_etal2005,Settlement
+NoLIa,27/12/00j20,2000-12-27,mark,light trap,2000,12,27v12bottom20.jpg,27v12v00j20,NA,Fisher_etal2005,Settlement
+ogona,05larv0043,2005-07-02,ltCalab,light trap,2005,7,05larv0043.jpg,05larv0043,NA,Hogan_etal2007,Settlement
+ogona,05larv0058,2005-07-03,ltCalab,light trap,2005,7,05larv0058.jpg,05larv0058,NA,Hogan_etal2007,Settlement
+ogona,05larv0059,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0244,2005-07-12,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0245,2005-07-12,cn2,crest net,2005,7,05larv0245.jpg,05larv0245,NA,Hogan_etal2007,Settlement
+oslbic,05larv0247,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0266,2005-07-13,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0267,2005-07-13,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0286,2005-07-14,cn2,crest net,2005,7,05LARV0286.jpg,05larv0286,NA,Hogan_etal2007,Settlement
+oslbic,05larv0302,NA,cn1,crest net,2005,NA,05LARV0302.jpg,05larv0302,NA,Hogan_etal2007,Settlement
+oslbic,05larv0303,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0304,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0311,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0312,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+oslbic,05larv0313,NA,cn2,crest net,2005,NA,05LARV0313.jpg,05larv0313,NA,Hogan_etal2007,Settlement
+osltri,05larv0287,2005-07-14,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pahcil,05larv0241,2005-07-12,cn3,crest net,2005,7,05larv0241.jpg,05larv0241,NA,Hogan_etal2007,Settlement
+pahcil,05larv0281,2005-07-14,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+papsex,jml03/1.1.1,2004-01-01,JML03,light trap,2004,1,1.1.1.JPG,1.1.1,NA,Fisher_etal2005,Settlement
+papsex,20/12/01j25,2001-12-20,sunb,light trap,2001,12,20v12v01j25.jpg,20v12v01j25,NA,Fisher_etal2005,Settlement
+papsex,20/12/01j41,2001-12-20,sunb,light trap,2001,12,20v12v01j41.jpg,20v12v01j41,NA,Fisher_etal2005,Settlement
+papsex,20/12/01j5,2001-12-20,sunb,light trap,2001,12,20v12v01j5.jpg,20v12v01j5,NA,Fisher_etal2005,Settlement
+papsex,23/12/01j19,2001-12-23,sunb,light trap,2001,12,23v12v01j19.jpg,23v12v01j19,NA,Fisher_etal2005,Settlement
+papsex,23/12/01j31,2001-12-23,sunb,light trap,2001,12,23v12v01j31.jpg,23v12v01j31,NA,Fisher_etal2005,Settlement
+papsex,26/12/01j40,2001-12-26,sunb,light trap,2001,12,26v12v01j40.jpg,26v12v01j40,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.13,2003-12-24,JML03,light trap,2003,12,24.12.13 & 14.JPG,24.12.13 & 14,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.15,2003-12-24,JML03,light trap,2003,12,24.12.15 & 16.JPG,24.12.15 & 16,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.17,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.19,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.21,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peabre,jml03/24.12.22,2003-12-24,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peacla,19/11/01j9,2001-11-19,liv,light trap,2001,11,19v11v01j9.jpg,19v11v01j9,NA,Fisher_etal2005,Settlement
+peapol,21/12/01j15,2001-12-21,ac,scuba,2001,12,21v12v01j15.jpg,21v12v01j15,NA,Fisher_etal2005,NA
+peapol,21/12/01j16,2001-12-21,ac,scuba,2001,12,21v12v01j16.jpg,21v12v01j16,NA,Fisher_etal2005,NA
+peapol,21/12/01j26,2001-12-21,ac,scuba,2001,12,21v12v01j26.jpg,21v12v01j26,NA,Fisher_etal2005,NA
+peapol,21/12/01j27,2001-12-21,ac,scuba,2001,12,21v12v01j27.jpg,21v12v01j27,NA,Fisher_etal2005,NA
+peapol,21/12/01j31,2001-12-21,ac,scuba,2001,12,21v12v01j31.jpg,21v12v01j31,NA,Fisher_etal2005,NA
+peapol,27/12/01j21,2001-12-27,ac,scuba,2001,12,27v12v01j21.jpg,27v12v01j21,NA,Fisher_etal2005,NA
+peapol,27/12/01j40,2001-12-27,ac,scuba,2001,12,27v12v01j40.jpg,27v12v01j40,NA,Fisher_etal2005,NA
+peapol,28/12/01j20,2001-12-28,ac,scuba,2001,12,28v12v01j20.jpg,28v12v01j20,NA,Fisher_etal2005,NA
+peasax,05larv0083,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+peasax,05larv0227,2005-07-11,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+peasax,05larv0322,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+peasax,05larv0326,NA,cn3,crest net,2005,NA,05LARV0326.jpg,05larv0326,NA,Hogan_etal2007,Settlement
+peasax,05larv0067,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+peavag,22/12/00j30,2000-12-22,mark,light trap,2000,12,22v12mark30.jpg,22v12v00j30,NA,Fisher_etal2005,Settlement
+peavag,22/12/01j21,2001-12-22,sunb,light trap,2001,12,22v12v01j21.jpg,22v12v01j21,NA,Fisher_etal2005,Settlement
+peavag,23/11/00j10,2000-11-23,top,light trap,2000,11,23v11top10.jpg,23v11v00j10,NA,Fisher_etal2005,Settlement
+peavag,23/11/00j24,2000-11-23,top,light trap,2000,11,23v11top24.jpg,23v11v00j24,NA,Fisher_etal2005,Settlement
+peavag,14/12/01j25,2001-12-14,top2,light trap,2001,12,14v12v01j25.jpg,14v12v01j25,NA,Fisher_etal2005,Settlement
+peavag,14/12/01j6,2001-12-14,sunb,light trap,2001,12,14v12v01j6.jpg,14v12v01j6,NA,Fisher_etal2005,Settlement
+peavag,16/11/01j14,2001-11-16,liv,light trap,2001,11,16v11v01j14.jpg,16v11v01j14,NA,Fisher_etal2005,Settlement
+peavag,17/11/01j41,2001-11-17,liv,light trap,2001,11,17v11v01olivia1j41.jpg,17v11v01j41,NA,Fisher_etal2005,Settlement
+peavag,18/12/01j33,2001-12-18,top2,light trap,2001,12,18v12v01j33top2.jpg,18v12v01j33,NA,Fisher_etal2005,Settlement
+peavag,18/12/01j36,2001-12-18,sunb,light trap,2001,12,18v12v01j36.jpg,18v12v01j36,NA,Fisher_etal2005,Settlement
+peavag,27/11/01j5,2001-11-27,sunb,light trap,2001,11,27v11v01j5.jpg,27v11v01j5,NA,Fisher_etal2005,Settlement
+pecatr,20/12/00j9,2000-12-20,mark,light trap,2000,12,20v12mark9.jpg,20v12v00j9,NA,Fisher_etal2005,Settlement
+pecatr,31/12/00j24,2000-12-31,mark,light trap,2000,12,31v12mark24.jpg,31v12v00j24,NA,Fisher_etal2005,Settlement
+pecatr,9/12/00j25,2000-12-09,mark,light trap,2000,12,9v12mark25.jpg,9v12v00j25,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.1,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.10,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.12,2003-12-15,JML03,light trap,2003,12,15.12.11 & 12.JPG,15.12.11 & 12,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.4,2003-12-15,JML03,light trap,2003,12,15.12.3 & 4.JPG,15.12.3 & 4,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.6,2003-12-15,JML03,light trap,2003,12,15.12.5 & 6.JPG,15.12.5 & 6,NA,Fisher_etal2005,Settlement
+pecatr,jml03/15.12.8,2003-12-15,JML03,light trap,2003,12,15.12.7 & 8.JPG,15.12.7 & 8,NA,Fisher_etal2005,Settlement
+pecatr,24/11/00j5,2000-11-24,top,light trap,2000,11,24v11top5.jpg,24v11v00j5,NA,Fisher_etal2005,Settlement
+pecatr,28/11/00j11,2000-11-28,jeff,light trap,2000,11,28v11jeff11.jpg,28v11v00j11,NA,Fisher_etal2005,Settlement
+pecatr,28/11/00j27,2000-11-28,jeff,light trap,2000,11,28v11jeff27.jpg,28v11v00j27,NA,Fisher_etal2005,Settlement
+pecrol,21/11/00j12,2000-11-21,top,light trap,2000,11,21v11top12.jpg,21v11v00j12,NA,Fisher_etal2005,Settlement
+pecrol,21/11/00j14,2000-11-21,top,light trap,2000,11,21v11top14.jpg,21v11v00j14,NA,Fisher_etal2005,Settlement
+pecrol,21/11/00j16,2000-11-21,top,light trap,2000,11,21v11top16.jpg,21v11v00j16,NA,Fisher_etal2005,Settlement
+pecrol,21/12/00j23,2000-12-21,mark,light trap,2000,12,21v12mark23.jpg,21v12v00j23,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.3,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.4,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.5,2003-11-12,JML03,light trap,2003,11,11.12.03 lane 5.JPG,11.12.03 lane 5,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.6,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.7,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.8,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.9,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,26/11/00j15,2000-11-26,top,light trap,2000,11,26v11top15.jpg,26v11v00j15,NA,Fisher_etal2005,Settlement
+pecrol,28/11/00j22,2000-11-28,jeff,light trap,2000,11,28v11jeff22.jpg,28v11v00j22,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.1,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.11,2003-11-12,JML03,light trap,2003,11,11.12.11.JPG,11.12.11,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.12,2003-11-12,JML03,light trap,2003,11,11.12.12.JPG,11.12.12,NA,Fisher_etal2005,Settlement
+pecrol,jml03/11.12.2,2003-11-12,JML03,light trap,2003,11,11.12.03 lane 2.JPG,11.12.03 lane 2,NA,Fisher_etal2005,Settlement
+pedaru,20/12/01j10,2001-12-20,sunb,light trap,2001,12,20v12v01j10.jpg,20v12v01j10,NA,Fisher_etal2005,Settlement
+pedaru,6/12/01j10,2001-12-06,sunb,light trap,2001,12,6v12v01jar10.jpg,6v12v01j10,NA,Fisher_etal2005,Settlement
+pedaru,6/12/01j29,2001-12-06,sunb,light trap,2001,12,6v12v01jar29.jpg,6v12v01j29,NA,Fisher_etal2005,Settlement
+pedaru,6/12/01j41,2001-12-06,sunb,light trap,2001,12,6v12v01jar41.jpg,6v12v01j41,NA,Fisher_etal2005,Settlement
+pedaru,15/12/01j10,2001-12-15,liv,light trap,2001,12,15v12v01j10.jpg,15v12v01j10,NA,Fisher_etal2005,Settlement
+pedaru,15/12/01j3,2001-12-15,liv,light trap,2001,12,15v12v01j3.jpg,15v12v01j3,NA,Fisher_etal2005,Settlement
+pedaru,15/12/01j30,2001-12-15,liv,light trap,2001,12,15v12v01j30.jpg,15v12v01j30,NA,Fisher_etal2005,Settlement
+pedaru,16/12/01j30,2001-12-16,sunb,light trap,2001,12,16v12v01j30.jpg,16v12v01j30,NA,Fisher_etal2005,Settlement
+pedaru,17/12/01j28,2001-12-17,liv,light trap,2001,12,17v12v01j28.jpg,17v12v01j28,NA,Fisher_etal2005,Settlement
+pedaru,18/12/01j22,2001-12-18,sunb,light trap,2001,12,18v12v01j22.jpg,18v12v01j22,NA,Fisher_etal2005,Settlement
+pedpro,jml03/14.12.18,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedpro,jml03/14.12.20,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.11,2003-12-15,JML03,light trap,2003,12,15.12.11 & 12.JPG,15.12.11 & 12,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.2,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.21,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.25,2003-12-15,JML03,light trap,2003,12,15.12.25.JPG,15.12.25,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.3,2003-12-15,JML03,light trap,2003,12,15.12.3 & 4.JPG,15.12.3 & 4,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.5,2003-12-15,JML03,light trap,2003,12,15.12.5 & 6.JPG,15.12.5 & 6,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.7,2003-12-15,JML03,light trap,2003,12,15.12.7 & 8.JPG,15.12.7 & 8,NA,Fisher_etal2005,Settlement
+pedpro,jml03/15.12.9,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedpro,26/12/00j5,2000-12-26,mark,light trap,2000,12,26v12mark5.jpg,26v12v00j5,NA,Fisher_etal2005,Settlement
+pedpro,27/12/00j17,2000-12-27,mark,light trap,2000,12,NA,NA,NA,Fisher_etal2005,Settlement
+pedret,12/11/01j21,2001-11-12,bott1,light trap,2001,11,12v11v01j21bot1.jpg,12v11v01j21,NA,Fisher_etal2005,Settlement
+pedret,14/11/01j7,2001-11-14,liv,light trap,2001,11,14v11v01j7.jpg,14v11v01j7,NA,Fisher_etal2005,Settlement
+peLIee,21/11/00j10,2000-11-21,top,light trap,2000,11,21v11top10.jpg,21v11v00j10,NA,Fisher_etal2005,Settlement
+peLIee,4/12/01j22,2001-12-04,sunb,light trap,2001,12,4v12v01j22.jpg,4v12v01j22,NA,Fisher_etal2005,Settlement
+peLIee,6/12/01j12,2001-12-06,sunb,light trap,2001,12,6v12v01jar12.jpg,6v12v01j12,NA,Fisher_etal2005,Settlement
+peLIee,28/11/00j24,2000-11-28,jeff,light trap,2000,11,28v11jeff24.jpg,28v11v00j24,NA,Fisher_etal2005,Settlement
+peLIee,28/11/00j26,2000-11-28,jeff,light trap,2000,11,28v11jeff26.jpg,28v11v00j26,NA,Fisher_etal2005,Settlement
+peLIn,20/11/01j15,2001-11-20,mid1,light trap,2001,11,20v11v01j15.jpg,20v11v01j15,NA,Fisher_etal2005,Settlement
+peLIn,21/11/00j18,2000-11-21,top,light trap,2000,11,21v11top18.jpg,21v11v00j18,NA,Fisher_etal2005,Settlement
+peLIn,22/11/00j7,2000-11-22,top,light trap,2000,11,22v11top7.jpg,22v11v00j7,NA,Fisher_etal2005,Settlement
+peLIn,24/11/01j40,2001-11-24,sunb,light trap,2001,11,24v11v01j40.jpg,24v11v01j40,NA,Fisher_etal2005,Settlement
+peLIn,26/11/00j14,2000-11-26,top,light trap,2000,11,26v11top14.jpg,26v11v00j14,NA,Fisher_etal2005,Settlement
+peLIn,26/11/00j7,2000-11-26,top,light trap,2000,11,26v11top7.jpg,26v11v00j7,NA,Fisher_etal2005,Settlement
+peLIz,16/11/01j18,2001-11-16,top2,light trap,2001,11,16v11v01top2j18.jpg,16v11v01j18,NA,Fisher_etal2005,Settlement
+peLIz,16/11/01j31,2001-11-16,top2,light trap,2001,11,16v11v01top2j31.jpg,16v11v01j31,NA,Fisher_etal2005,Settlement
+peLIz,17/11/01j27,2001-11-17,top1,light trap,2001,11,17v11v01top1j27.jpg,17v11v01j27,NA,Fisher_etal2005,Settlement
+peLIz,17/11/01j29,2001-11-17,top1,light trap,2001,11,17v11v01top1j29.jpg,17v11v01j29,NA,Fisher_etal2005,Settlement
+peLIz,17/11/01j32,2001-11-17,top1,light trap,2001,11,17v11v01top1j32.jpg,17v11v01j32,NA,Fisher_etal2005,Settlement
+peLIz,17/11/01j38,2001-11-17,top1,light trap,2001,11,17v11v01top1j38.jpg,17v11v01j38,NA,Fisher_etal2005,Settlement
+peLIz,18/11/01j11,2001-11-18,top1,light trap,2001,11,18v11v01top1j11.jpg,18v11v01j11,NA,Fisher_etal2005,Settlement
+pemchr,05larv0157,2005-07-08,ltCalab,light trap,2005,7,05larv0157.jpg,05larv0157,NA,Hogan_etal2007,Settlement
+penazy,jml03/12.12.19,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/12.12.20,2003-12-12,JML03,light trap,2003,12,12.12.20.JPG,12.12.20,NA,Fisher_etal2005,Settlement
+penazy,jml03/12.12.21,2003-12-12,JML03,light trap,2003,12,12.12.21.JPG,12.12.21,NA,Fisher_etal2005,Settlement
+penazy,jml03/12.12.22,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/12.12.24,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.1,2003-12-13,JML03,light trap,2003,12,12.13.1.JPG,12.13.1,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.2,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.3,2003-12-13,JML03,light trap,2003,12,12.13.3.JPG,12.13.3,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.4,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.5,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+penazy,jml03/13.12.6,2003-12-13,JML03,light trap,2003,12,12.13.6.JPG,12.13.6,NA,Fisher_etal2005,Settlement
+pencya,21/11/01j26,2001-11-21,mid1,light trap,2001,11,21v11v01mid1j26.jpg,21v11v01j26,NA,Fisher_etal2005,Settlement
+pencya,6/12/01j37,2001-12-06,sunb,light trap,2001,12,6v12v01jar37.jpg,6v12v01j37,NA,Fisher_etal2005,Settlement
+pencya,jml03/12.12.23,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/13.12.12,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.14,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.2,2003-12-14,JML03,light trap,2003,12,14.12.2.JPG,14.12.2,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.4,2003-12-14,JML03,light trap,2003,12,14.12.4.JPG,14.12.4,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.6,2003-12-14,JML03,light trap,2003,12,14.12.6.JPG,14.12.6,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.7,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/14.12.8,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/17.12.16,2003-12-17,JML03,light trap,2003,12,17.12.16.JPG,17.12.16,NA,Fisher_etal2005,Settlement
+pencya,jml03/17.12.19,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pencya,jml03/17.12.21,2003-12-17,JML03,light trap,2003,12,17.12.21.JPG,17.12.21,NA,Fisher_etal2005,Settlement
+pencya,11/12/01j46,2001-12-11,top1,light trap,2001,12,11v12v01j46.jpg,11v12v01j46,NA,Fisher_etal2005,Settlement
+pencya,18/11/01j35,2001-11-18,top1,light trap,2001,11,18v11v01top1j35.jpg,18v11v01j35,NA,Fisher_etal2005,Settlement
+pennig,jml03/19.12.13,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,1/01/01j8,2001-01-01,mark,light trap,2001,1,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,20/12/00j5,2000-12-20,mark,light trap,2000,12,20v12mark5.jpg,20v12v00j5,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.10,2003-12-12,JML03,light trap,2003,12,12.12.10.JPG,12.12.10,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.11,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.12,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.7,2003-12-12,JML03,light trap,2003,12,12.12.7.JPG,12.12.7,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.8,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,jml03/12.12.9,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepamb,24/11/00j18,2000-11-24,middle,light trap,2000,11,24v11mid18.jpg,24v11v00j18,NA,Fisher_etal2005,Settlement
+pepamb,24/11/00j7,2000-11-24,middle,light trap,2000,11,24v11mid7.jpg,24v11v00j7,NA,Fisher_etal2005,Settlement
+pepamb,26/11/00j20,2000-11-26,middle,light trap,2000,11,26v11mid20.jpg,26v11v00j20,NA,Fisher_etal2005,Settlement
+pepbrach,20/11/01j24,2001-11-20,mid1,light trap,2001,11,20v11v01j24.jpg,20v11v01j24,NA,Fisher_etal2005,Settlement
+pepbrach,21/11/01j20,2001-11-21,mid1,light trap,2001,11,21v11v01mid1j20.jpg,21v11v01j20,NA,Fisher_etal2005,Settlement
+pepbrach,21/11/01j9,2001-11-21,mid1,light trap,2001,11,21v11v01mid1j9.jpg,21v11v01j9,NA,Fisher_etal2005,Settlement
+pepbrach,jml03/15.12.27,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepbrach,jml03/15.12.29,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepbrach,jml03/17.12.17,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepbrach,jml03/17.12.22,2003-12-17,JML03,light trap,2003,12,17.12.22 & 23.JPG,17.12.22 & 23,NA,Fisher_etal2005,Settlement
+pepbrach,jml03/17.12.24,2003-12-17,JML03,light trap,2003,12,17.12.24.JPG,17.12.24,NA,Fisher_etal2005,Settlement
+pepbrach,17/12/01j21,2001-12-17,top1,light trap,2001,12,17v12v01j21top1.jpg,17v12v01j21,NA,Fisher_etal2005,Settlement
+pepchr,23/12/00j7,2000-12-23,mark,light trap,2000,12,23v12mark7.jpg,23v12v00j7,NA,Fisher_etal2005,Settlement
+pepchr,4/01/01j27,2001-01-04,mark,light trap,2001,1,NA,NA,NA,Fisher_etal2005,Settlement
+pepchr,14/11/01j9,2001-11-14,liv,light trap,2001,11,14v11v01j9.jpg,14v11v01j9,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/14.12.10,2003-12-14,JML03,light trap,2003,12,14.12.10.JPG,14.12.10,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/14.12.12,2003-12-14,JML03,light trap,2003,12,14.12.12.JPG,14.12.12,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/15.12.23,2003-12-15,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/17.12.12,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/17.12.5,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepcoe,jml03/20.12.2,2003-12-20,JML03,light trap,2003,12,20.12.2.JPG,20.12.2,NA,Fisher_etal2005,Settlement
+peplep,20/11/01j42,2001-11-20,top1,light trap,2001,11,20v11v01j42.jpg,20v11v01j42,NA,Fisher_etal2005,Settlement
+peplep,21/11/00j3,2000-11-21,top,light trap,2000,11,21v11top3.jpg,21v11v00j3,NA,Fisher_etal2005,Settlement
+peplep,21/11/01j15,2001-11-21,mid1,light trap,2001,11,21v11v01mid1j15.jpg,21v11v01j15,NA,Fisher_etal2005,Settlement
+peplep,22/11/01j40,2001-11-22,top1,light trap,2001,11,22v11v01top1j40.jpg,22v11v01j40,NA,Fisher_etal2005,Settlement
+peplep,31/12/00j7,2000-12-31,mark,light trap,2000,12,31v12mark7.jpg,31v12v00j7,NA,Fisher_etal2005,Settlement
+peplep,jml03/13.12.10,2003-12-13,JML03,light trap,2003,12,13.12.10.JPG,13.12.10,NA,Fisher_etal2005,Settlement
+peplep,jml03/13.12.11,2003-12-13,JML03,light trap,2003,12,13.12.11.JPG,13.12.11,NA,Fisher_etal2005,Settlement
+peplep,jml03/13.12.13,2003-12-13,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peplep,jml03/14.12.16,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peplep,jml03/14.12.19,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+peplep,jml03/17.12.23,2003-12-17,JML03,light trap,2003,12,17.12.22 & 23.JPG,17.12.22 & 23,NA,Fisher_etal2005,Settlement
+peplep,18/11/01j42,2001-11-18,top1,light trap,2001,11,18v11v01top1j42.jpg,18v11v01j42,NA,Fisher_etal2005,Settlement
+peplep,24/11/00j3,2000-11-24,middle,light trap,2000,11,24v11mid3.jpg,24v11v00j3,NA,Fisher_etal2005,Settlement
+peplep,26/11/00j28,2000-11-26,top,light trap,2000,11,26v11top28.jpg,26v11v00j28,NA,Fisher_etal2005,Settlement
+peplep,26/11/00j6,2000-11-26,top,light trap,2000,11,26v11top6.jpg,26v11v00j6,NA,Fisher_etal2005,Settlement
+peplep,jml03/11.12.13,2003-11-12,JML03,light trap,2003,11,11.12.13.JPG,11.12.13,NA,Fisher_etal2005,Settlement
+peplep,jml03/11.12.15,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+peplep,jml03/11.12.17,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pepmol,21/12/00j16,2000-12-21,mark,light trap,2000,12,21v12mark16.jpg,21v12v00j16,NA,Fisher_etal2005,Settlement
+pepmol,21/12/00j19,2000-12-21,mark,light trap,2000,12,21v12mark19.jpg,21v12v00j19,NA,Fisher_etal2005,Settlement
+pepmol,21/12/00j25,2000-12-21,mark,light trap,2000,12,21v12mark25.jpg,21v12v00j25,NA,Fisher_etal2005,Settlement
+pepmol,21/12/00j9,2000-12-21,mark,light trap,2000,12,21v12mark9.jpg,21v12v00j9,NA,Fisher_etal2005,Settlement
+pepmol,22/12/00j24,2000-12-22,mark,light trap,2000,12,22v12mark24.jpg,22v12v00j24,NA,Fisher_etal2005,Settlement
+pepmol,jml03/16.12.10,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepmol,jml03/16.12.12,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepmol,jml03/16.12.4,2003-12-16,JML03,light trap,2003,12,16.12.3 & 4.JPG,16.12.3 & 4,NA,Fisher_etal2005,Settlement
+pepmol,jml03/16.12.6,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepmol,jml03/16.12.8,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepmol,14/12/01j20,2001-12-14,top1,light trap,2001,12,14v12v01j20top1.jpg,14v12v01j20,NA,Fisher_etal2005,Settlement
+pepmol,14/12/01j26,2001-12-14,top1,light trap,2001,12,14v12v01j26top1.jpg,14v12v01j26,NA,Fisher_etal2005,Settlement
+pepmol,26/11/00j17,2000-11-26,top,light trap,2000,11,26v11top17.jpg,26v11v00j17,NA,Fisher_etal2005,Settlement
+pepmol,26/11/00j18,2000-11-26,top,light trap,2000,11,26v11top18.jpg,26v11v00j18,NA,Fisher_etal2005,Settlement
+pepnag,21/11/00j19,2000-11-21,top,light trap,2000,11,21v11top19.jpg,21v11v00j19,NA,Fisher_etal2005,Settlement
+pepnag,21/11/00j20,2000-11-21,top,light trap,2000,11,21v11top20.jpg,21v11v00j20,NA,Fisher_etal2005,Settlement
+pepnag,21/11/00j21,2000-11-21,top,light trap,2000,11,21v11top21.jpg,21v11v00j21,NA,Fisher_etal2005,Settlement
+pepnag,22/11/00j9,2000-11-22,top,light trap,2000,11,22v11top9.jpg,22v11v00j9,NA,Fisher_etal2005,Settlement
+pepnag,jml03/14.12.11,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepnag,jml03/14.12.13,2003-12-14,JML03,light trap,2003,12,14.12.13.JPG,14.12.13,NA,Fisher_etal2005,Settlement
+pepnag,jml03/14.12.15,2003-12-14,JML03,light trap,2003,12,14.12.15.JPG,14.12.15,NA,Fisher_etal2005,Settlement
+pepnag,jml03/14.12.17,2003-12-14,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepnag,jml03/14.12.9,2003-12-14,JML03,light trap,2003,12,14.12.9.JPG,14.12.9,NA,Fisher_etal2005,Settlement
+pepnag,24/11/00j12,2000-11-24,bottom,light trap,2000,11,24v11bottom12.jpg,24v11v00j12,NA,Fisher_etal2005,Settlement
+pepnag,24/11/00j12,2000-11-24,bottom,light trap,2000,11,24v11mid12.jpg,24v11v00j12,NA,Fisher_etal2005,Settlement
+pepnag,24/11/00j21,2000-11-24,bottom,light trap,2000,11,24v11bottom21.jpg,24v11v00j21,NA,Fisher_etal2005,Settlement
+pepnag,24/11/00j22,2000-11-24,bottom,light trap,2000,11,24v11bottom22.jpg,24v11v00j22,NA,Fisher_etal2005,Settlement
+pepnag,29/11/00j23,2000-11-29,jeff,light trap,2000,11,29v11jeff23.jpg,29v11v00j23,NA,Fisher_etal2005,Settlement
+pepnag,29/11/00j24,2000-11-29,jeff,light trap,2000,11,29v11jeff24.jpg,29v11v00j24,NA,Fisher_etal2005,Settlement
+pepobt,19/12/01j30,2001-12-19,sunb,light trap,2001,12,19v12v01j30.jpg,19v12v01j30,NA,Fisher_etal2005,Settlement
+pepobt,19/12/01j6,2001-12-19,sunb,light trap,2001,12,19v12v01j6.jpg,19v12v01j6,NA,Fisher_etal2005,Settlement
+pepobt,jml03/19.12.11,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.10,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.12,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.18,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.2,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.20,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.22,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,jml03/30.12.4,2003-12-30,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,24/11/00j36,2000-11-24,middle,light trap,2000,11,24v11mid36.jpg,24v11v00j36,NA,Fisher_etal2005,Settlement
+pepobt,24/12/01j12,2001-12-24,bott2,light trap,2001,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepobt,26/11/00j4,2000-11-26,top,light trap,2000,11,26v11top4.jpg,26v11v00j4,NA,Fisher_etal2005,Settlement
+pepobt,29/11/00j25,2000-11-29,jeff,light trap,2000,11,29v11jeff25.jpg,29v11v00j25,NA,Fisher_etal2005,Settlement
+pepobt,29/11/00j26,2000-11-29,jeff,light trap,2000,11,29v11jeff26.jpg,29v11v00j26,NA,Fisher_etal2005,Settlement
+pepobt,29/11/00j30,2000-11-29,jeff,light trap,2000,11,29v11jeff30.jpg,29v11v00j30,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.1,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.11,2003-12-16,JML03,light trap,2003,12,16.12.11.JPG,16.12.11,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.3,2003-12-16,JML03,light trap,2003,12,16.12.3 & 4.JPG,16.12.3 & 4,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.5,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.7,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepwar,jml03/16.12.9,2003-12-16,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepwar,jml03/17.12.20,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pepwar,jml03/17.12.25,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+pesdie,05larv0073,2005-07-04,ltCalab,light trap,2005,7,05larv0073.jpg,05larv0073,NA,Hogan_etal2007,Settlement
+pesdie,05larv0074,2005-07-04,ltCalab,light trap,2005,7,05larv0074.jpg,05larv0074,NA,Hogan_etal2007,Settlement
+pesdie,05larv0102,2005-07-05,ltCalab,light trap,2005,7,05larv0102.jpg,05larv0102,NA,Hogan_etal2007,Settlement
+pesdie,05larv0103,2005-07-05,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0104,2005-07-05,ltCalab,light trap,2005,7,05larv0104.jpg,05larv0104,NA,Hogan_etal2007,Settlement
+pesdie,05larv0131,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0132,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0133,2005-07-06,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0191,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0192,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0193,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0194,2005-07-09,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0213,2005-07-10,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0214,2005-07-10,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0215,2005-07-10,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,tci03nov15b,2003-11-15,grotto,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pesdie,tci03nov22o,2003-11-22,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pesdie,tci03oct25o,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pesdie,tci03oct25p,2003-10-25,grotto,light trap,2003,10,tci03oct25p.jpg,tci03oct25p,NA,Fisher_etal2005,Settlement
+pesdie,tci03oct25u,2003-10-25,grotto,light trap,2003,10,tci03oct25u.jpg,tci03oct25u,NA,Fisher_etal2005,Settlement
+pesdie,tci03oct25w,2003-10-25,grotto,light trap,2003,10,tci03oct25w.jpg,tci03oct25w,NA,Fisher_etal2005,Settlement
+pesdie,05larv0032,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0033,2005-07-02,ltCalab,light trap,2005,7,05larv0033.jpg,05larv0033,NA,Hogan_etal2007,Settlement
+pesdie,05larv0034,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0049,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0050,2005-07-02,ltCalab,light trap,2005,7,05larv0050.jpg,05larv0050,NA,Hogan_etal2007,Settlement
+pesdie,05larv0051,2005-07-02,ltCalab,light trap,2005,7,05larv0051b.jpg,05larv0051,NA,Hogan_etal2007,Settlement
+pesdie,05larv0068,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0016,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+pesdie,05larv0019,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+pesdor,05larv0321,NA,cn1,crest net,2005,NA,05LARV0321.jpg,05larv0321,NA,Hogan_etal2007,Settlement
+pesleu,05larv0158,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesleu,05larv0159,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pesleu,tci03nov21o,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct27a,2003-10-27,grotto,light trap,2003,10,tci03oct27a.jpg,tci03oct27a,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30a,2003-10-30,grotto,light trap,2003,10,tci03oct30a.jpg,tci03oct30a,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30b,2003-10-30,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30d,2003-10-30,grotto,light trap,2003,10,tci03oct30d.jpg,tci03oct30d,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30e,2003-10-30,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30f,2003-10-30,grotto,light trap,2003,10,tci03oct30f.jpg,tci03oct30f,NA,Fisher_etal2005,Settlement
+pesleu,tci03oct30g,2003-10-30,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,05larv0115,2005-07-06,ltCalab,light trap,2005,7,05larv0115.jpg,05larv0115,NA,Hogan_etal2007,Settlement
+pespar,05larv0116,2005-07-06,ltCalab,light trap,2005,7,05larv0116.jpg,05larv0116,NA,Hogan_etal2007,Settlement
+pespar,05larv0137,2005-07-07,ltCalab,light trap,2005,7,05larv0137.jpg,05larv0137,NA,Hogan_etal2007,Settlement
+pespar,05larv0138,2005-07-07,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0139,2005-07-07,ltCalab,light trap,2005,7,05larv0139.jpg,05larv0139,NA,Hogan_etal2007,Settlement
+pespar,05larv0164,2005-07-08,ltCalab,light trap,2005,7,05larv0164.jpg,05larv0164,NA,Hogan_etal2007,Settlement
+pespar,05larv0165,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0166,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0167,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0168,2005-07-08,ltCalab,light trap,2005,7,05larv0168.jpg,05larv0168,NA,Hogan_etal2007,Settlement
+pespar,05larv0169,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0170,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0171,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0172,2005-07-08,ltCalab,light trap,2005,7,05larv0172.jpg,05larv0172,NA,Hogan_etal2007,Settlement
+pespar,05larv0173,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0174,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0175,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0176,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0177,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0178,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0179,2005-07-08,ltCalab,light trap,2005,7,05larv0179.jpg,05larv0179,NA,Hogan_etal2007,Settlement
+pespar,05larv0180,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0181,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0182,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0183,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0184,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0185,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0186,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0187,2005-07-08,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0236,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0237,2005-07-11,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,tci03nov15c,2003-11-15,grotto,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,tci03nov21n,2003-11-21,hdl,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25l,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25m,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25n,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25r,2003-10-25,grotto,light trap,2003,10,tci03oct25r.jpg,tci03oct25r,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25s,2003-10-25,grotto,light trap,2003,10,tci03oct25s.jpg,tci03oct25s,NA,Fisher_etal2005,Settlement
+pespar,tci03oct25t,2003-10-25,grotto,light trap,2003,10,tci03oct25t.jpg,tci03oct25t,NA,Fisher_etal2005,Settlement
+pespar,tci03oct26a,2003-10-26,grotto,light trap,2003,10,tci03oct26a.jpg,tci03oct26a,NA,Fisher_etal2005,Settlement
+pespar,tci03oct26b,2003-10-26,grotto,light trap,2003,10,tci03oct26b.jpg,tci03oct26b,NA,Fisher_etal2005,Settlement
+pespar,tci03oct26c,2003-10-26,grotto,light trap,2003,10,tci03oct26c.jpg,tci03oct26c,NA,Fisher_etal2005,Settlement
+pespar,tci03oct30c,2003-10-30,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespar,05larv0023,2005-06-26,cn2,crest net,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+pespar,05larv0024,2005-06-26,cn2,crest net,2005,6,05larv0024.jpg,05larv0024,NA,Hogan_etal2007,Settlement
+pespar,05larv0025,2005-06-26,cn2,crest net,2005,6,05larv0025.jpg,05larv0025,NA,Hogan_etal2007,Settlement
+pespar,05larv0002,2005-06-09,ltCalab,light trap,2005,6,NA,NA,NA,Hogan_etal2007,Settlement
+pespla,tci03oct25q,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespla,tci03oct25v,2003-10-25,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespla,tci03oct26d,2003-10-26,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+pespla,tci03oct26e,2003-10-26,grotto,light trap,2003,10,NA,NA,NA,Fisher_etal2005,Settlement
+psLIa,16/12/01j27,2001-12-16,sunb,light trap,2001,12,16v12v01j27.jpg,16v12v01j27,NA,Fisher_etal2005,Settlement
+psLIa,16/12/01j34,2001-12-16,sunb,light trap,2001,12,16v12v01j34.jpg,16v12v01j34,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j16,2001-12-17,sunb,light trap,2001,12,17v12v01j16.jpg,17v12v01j16,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j18,2001-12-17,sunb,light trap,2001,12,17v12v01j18.jpg,17v12v01j18,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j24,2001-12-17,liv,light trap,2001,12,17v12v01j24.jpg,17v12v01j24,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j25,2001-12-17,liv,light trap,2001,12,17v12v01j25.jpg,17v12v01j25,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j4,2001-12-17,liv,light trap,2001,12,17v12v01j4.jpg,17v12v01j4,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j42,2001-12-17,top1,light trap,2001,12,17v12v01j42top1.jpg,17v12v01j42,NA,Fisher_etal2005,Settlement
+psLIb,17/12/01j5,2001-12-17,liv,light trap,2001,12,17v12v01j5.jpg,17v12v01j5,NA,Fisher_etal2005,Settlement
+psLIc,16/12/01j29,2001-12-16,liv,light trap,2001,12,16v12v01j29.jpg,16v12v01j29,NA,Fisher_etal2005,Settlement
+psLIc,16/12/01j9,2001-12-16,sunb,light trap,2001,12,16v12v01j9.jpg,16v12v01j9,NA,Fisher_etal2005,Settlement
+psLIc,17/12/01j32,2001-12-17,liv,light trap,2001,12,17v12v01j32.jpg,17v12v01j32,NA,Fisher_etal2005,Settlement
+psLIc,17/12/01j38,2001-12-17,top2,light trap,2001,12,17v12v01j38top2.jpg,17v12v01j38,NA,Fisher_etal2005,Settlement
+psLIc,28/11/00j21,2000-11-28,jeff,light trap,2000,11,28v11jeff21.jpg,28v11v00j21,NA,Fisher_etal2005,Settlement
+scscar,05larv0094,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+seemys,05larv0226,2005-07-11,cn1,crest net,2005,7,05larv0226.jpg,05larv0226,NA,Hogan_etal2007,Settlement
+seemys,05larv0226,2005-07-11,cn1,crest net,2005,7,05larv0226b.jpg,05larv0226,NA,Hogan_etal2007,Settlement
+seemys,05larv0294,NA,cn3,crest net,2005,NA,05LARV0294.jpg,05larv0294,NA,Hogan_etal2007,Settlement
+seemys,05larv0295,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+seemys,05larv0014,2005-06-26,cn2,crest net,2005,6,05larv0014.jpg,05larv0014,NA,Hogan_etal2007,Settlement
+seemys,05larv0015,2005-06-26,cn2,crest net,2005,6,05larv0015.jpg,05larv0015,NA,Hogan_etal2007,Settlement
+sepleo,jml03/14.12.5,2003-12-14,JML03,light trap,2003,12,14.12.5.JPG,14.12.5,NA,Fisher_etal2005,Settlement
+sepleo,jml03/17.12.2,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/17.12.4,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/17.12.6,2003-12-17,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.1,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.10,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.12,2003-12-19,JML03,light trap,2003,12,19.12.12.JPG,19.12.12,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.14,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.4,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,jml03/19.12.7,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sepleo,10/12/01j28,2001-12-10,liv,light trap,2001,12,10v12v01j28.jpg,10v12v01j28,NA,Fisher_etal2005,Settlement
+siLI6,16/12/01j15,2001-12-16,liv,light trap,2001,12,16v12v01j15.jpg,16v12v01j15,NA,Fisher_etal2005,Settlement
+siLI6,17/12/01j19,2001-12-17,sunb,light trap,2001,12,17v12v01j19.jpg,17v12v01j19,NA,Fisher_etal2005,Settlement
+siLI6,17/12/01j3,2001-12-17,liv,light trap,2001,12,17v12v01j3.jpg,17v12v01j3,NA,Fisher_etal2005,Settlement
+siLI6,24/11/00j15,2000-11-24,middle,light trap,2000,11,24v11mid15.jpg,24v11v00j15,NA,Fisher_etal2005,Settlement
+siLI6,24/11/00j17,2000-11-24,middle,light trap,2000,11,24v11mid17.jpg,24v11v00j17,NA,Fisher_etal2005,Settlement
+siLI6,24/11/00j29,2000-11-24,top,light trap,2000,11,24v11top29.jpg,24v11v00j29,NA,Fisher_etal2005,Settlement
+spJEFFb,6/12/01j31,2001-12-06,sunb,light trap,2001,12,6v12v01jar31.jpg,6v12v01j31,NA,Fisher_etal2005,Settlement
+spJEFFb,jml03/19.12.15,2003-12-19,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,21/12/00j15,2000-12-21,mark,light trap,2000,12,21v12mark15.jpg,21v12v00j15,NA,Fisher_etal2005,Settlement
+sprat,22/12/00j40,2000-12-22,mark,light trap,2000,12,22v12mark40.jpg,22v12v00j40,NA,Fisher_etal2005,Settlement
+sprat,23/11/01j3,2001-11-23,sunb,light trap,2001,11,23v11v01j3.jpg,23v11v01j3,NA,Fisher_etal2005,Settlement
+sprat,23/11/01j35,2001-11-23,sunb,light trap,2001,11,23v11v01j35.jpg,23v11v01j35,NA,Fisher_etal2005,Settlement
+sprat,6/12/01j39,2001-12-06,sunb,light trap,2001,12,6v12v01jar39.jpg,6v12v01j39,NA,Fisher_etal2005,Settlement
+sprat,9/12/00j30,2000-12-09,mark,light trap,2000,12,9v12mark30.jpg,9v12v00j30,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.1,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.2,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.3,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.4,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.5,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/12.12.6,2003-12-12,JML03,light trap,2003,12,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,26/12/00j23,2000-12-26,bottom,light trap,2000,12,26v12bottom23.jpg,26v12v00j23,NA,Fisher_etal2005,Settlement
+sprat,jml03/11.12.14,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/11.12.16,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+sprat,jml03/11.12.18,2003-11-12,JML03,light trap,2003,11,NA,NA,NA,Fisher_etal2005,Settlement
+spsbar,05larv0100,2005-07-05,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0147,2005-07-07,cn2,crest net,2005,7,05larv0147.jpg,05larv0147,NA,Hogan_etal2007,Settlement
+spsbar,05larv0148,2005-07-07,cn2,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0249,2005-07-12,cn1,crest net,2005,7,05larv0249.jpg,05larv0249,NA,Hogan_etal2007,Settlement
+spsbar,05larv0301,NA,cn3,crest net,2005,NA,05LARV0301.jpg,05larv0301,NA,Hogan_etal2007,Settlement
+spsbar,05larv0035,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0052,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0053,2005-07-02,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0069,2005-07-03,ltCalab,light trap,2005,7,05larv0069.jpg,05larv0069,NA,Hogan_etal2007,Settlement
+spsbar,05larv0070,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+spsbar,05larv0071,2005-07-03,ltCalab,light trap,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+sycel,05larv0250,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+sycel,05larv0251,2005-07-12,cn1,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+sycel,05larv0252,2005-07-12,cn1,crest net,2005,7,05larv0252.jpg,05larv0252,NA,Hogan_etal2007,Settlement
+syHunkown,05larv0292,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+syHunkown,05larv0327,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+syHunkown,05larv0328,NA,cn1,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+syHunkown,05larv0329,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+tecben,1/01/01j9,2001-01-01,mark,light trap,2001,1,NA,NA,NA,Fisher_etal2005,Settlement
+tecben,11/12/01j38,2001-12-11,liv,light trap,2001,12,11v12v01j38.jpg,11v12v01j38,NA,Fisher_etal2005,Settlement
+tecben,14/11/01j5,2001-11-14,liv,light trap,2001,11,14v11v01j5.jpg,14v11v01j5,NA,Fisher_etal2005,Settlement
+tecben,16/12/00j27,2000-12-16,mark,light trap,2000,12,16v12mark27.jpg,16v12v00j27,NA,Fisher_etal2005,Settlement
+tecben,24/11/00j30,2000-11-24,top,light trap,2000,11,24v11top30.jpg,24v11v00j30,NA,Fisher_etal2005,Settlement
+tecben,29/11/00j29,2000-11-29,jeff,light trap,2000,11,29v11jeff29.jpg,29v11v00j29,NA,Fisher_etal2005,Settlement
+tecros,05larv0090,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+tecros,05larv0091,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+tecros,05larv0289,NA,cn2,crest net,2005,NA,05LARV0289.jpg,05larv0289,NA,Hogan_etal2007,Settlement
+tecros,05larv0290,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+tecros,05larv0300,NA,cn3,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+teHunknown,05larv0163,2005-07-08,ltCalab,light trap,2005,7,05larv0163.jpg,05larv0163,NA,Hogan_etal2007,Settlement
+teHunknown,05larv0246,2005-07-12,cn2,crest net,2005,7,05larv0246.jpg,05larv0246,NA,Hogan_etal2007,Settlement
+teHunknown,05larv0314,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+teHunknown,05larv0315,NA,cn2,crest net,2005,NA,NA,NA,NA,Hogan_etal2007,Settlement
+teHunknown,05larv0316,NA,cn2,crest net,2005,NA,05LARV0316.jpg,05larv0316,NA,Hogan_etal2007,Settlement
+testes,05larv0092,2005-07-05,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+testes,05larv0118,2005-07-06,cn2,crest net,2005,7,05larv0118.jpg,05larv0118,NA,Hogan_etal2007,Settlement
+testes,05larv0119,2005-07-06,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+testes,05larv0120,2005-07-06,cn3,crest net,2005,7,NA,NA,NA,Hogan_etal2007,Settlement
+trLIa,26/12/00j11,2000-12-26,mark,light trap,2000,12,26v12mark11.jpg,26v12v00j11,NA,Fisher_etal2005,Settlement
+trLIa,26/12/00j12,2000-12-26,mark,light trap,2000,12,26v12mark12.jpg,26v12v00j12,NA,Fisher_etal2005,Settlement
+trLIa,26/12/00j15,2000-12-26,mark,light trap,2000,12,26v12mark15.jpg,26v12v00j15,NA,Fisher_etal2005,Settlement
+trLIa,26/12/00j28,2000-12-26,mark,light trap,2000,12,26v12mark28.jpg,26v12v00j28,NA,Fisher_etal2005,Settlement
+trLIa,26/12/00j6,2000-12-26,mark,light trap,2000,12,26v12mark6.jpg,26v12v00j6,NA,Fisher_etal2005,Settlement
+trLIa,26/12/00j8,2000-12-26,top,light trap,2000,12,26v12top8.jpg,26v12v00j8,NA,Fisher_etal2005,Settlement
+apapun,03larv0065,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+chccap,03larv0045,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Chaetodon striatus striatus,03larv0034,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,05larv0084,2005-07-05,cn3,net,2005,7,NA,NA,NA,hogan_etal2007,NA
+geHsp1,05larv0085,2005-07-05,cn3,net,2005,7,NA,NA,NA,hogan_etal2007,NA
+geHsp1,05larv0089,2005-07-05,cn3,net,2005,7,05larv0089.jpg,05larv0089,NA,hogan_etal2007,NA
+geHsp1,03larv0008,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0009,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0017,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0018,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0019,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0052,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,03larv0067,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,04larv0008,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,04larv0012,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,04larv0013,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,04larv0014,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+geHsp1,04larv0018,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+hoscor,03larv0048,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Thalassoma bifasciatum bifasciatum,03larv0011,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Doratonotus megalepis megalepis,04larv0009,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+Doratonotus megalepis megalepis,04larv0010,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+Doratonotus megalepis megalepis,04larv0017,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+Xyrichtys SpA,04larv0005,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+Labridae SpA,03larv0021,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Labridae SpA,03larv0022,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Labridae NA,04larv0002,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+leptocephali NA,03larv0058,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+leptocephali NA,03larv0060,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+? Sp7,03larv0046,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+momcil,04larv0006,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+momcil,04larv0015,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+mosset,03larv0035,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+mosset,03larv0036,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0013,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0023,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0024,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0025,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0030,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0031,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0038,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0039,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0040,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0041,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0042,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0043,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0050,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,03larv0051,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pesdie,04larv0004,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+pespar,03larv0012,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pespar,03larv0032,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pespar,03larv0033,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pespar,03larv0044,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+pespar,04larv0001,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0001,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0002,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0003,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0004,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0005,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0006,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0014,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0015,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0016,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0020,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0055,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0056,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0057,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0061,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0062,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0063,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+peasax,03larv0064,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Scaridae Sp1,03larv0029,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Scorpaenidae Sp1,03larv0007,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Serranidae Sp1,05larv0210,2005-07-10,cn3,net,2005,7,NA,NA,NA,hogan_etal2007,NA
+Serranidae Sp1,05larv0211,2005-07-10,cn3,net,2005,7,NA,NA,NA,hogan_etal2007,NA
+Epinephelus SpA,03larv0047,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Epinephelus SpA,03larv0049,NA,ltCalab,liftnet,2003,NA,NA,NA,NA,hogan_etal2007,NA
+Epinephelus SpA,04larv0003,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+Epinephelus SpA,04larv0007,NA,ltCalab,liftnet,2004,NA,NA,NA,NA,hogan_etal2007,NA
+NA NA,05larv0248,2005-07-12,cn1,net,2005,7,NA,NA,NA,hogan_etal2007,NA
+IlSt_Charis shroderi,Stobutkzi_1,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Blenniidae,Stobutkzi_2,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_3,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_4,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_5,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Callionymidae,Stobutkzi_6,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_7,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_8,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_9,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_10,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Gobiidae,Stobutkzi_11,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_12,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_13,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Rhinecanthus aculeatus,Stobutkzi_14,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Plectroglyphidodon,Stobutkzi_15,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_Neopomacentrus,Stobutkzi_16,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_NA,Stobutkzi_17,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_Abudefduf sexfasciatus,Stobutkzi_18,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_19,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_20,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Abudefduf vaigiensis,Stobutkzi_21,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_22,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_23,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_24,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Pomacentrus tripunctatus,Stobutkzi_25,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Dischistodus prosopotaenia,Stobutkzi_26,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_27,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_NA,Stobutkzi_28,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_NA,Stobutkzi_29,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_NA,Stobutkzi_30,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_NA,Stobutkzi_31,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre
+IlSt_Neopomacentrus bankieri,Stobutkzi_32,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_33,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_34,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_35,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_36,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_37,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_38,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_39,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_40,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_41,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_42,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_43,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_44,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_45,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_46,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_47,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_48,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_49,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_50,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_51,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_52,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_53,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_54,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_55,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_56,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Pomacentrus chrysurus,Stobutkzi_57,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_58,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_59,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_60,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Lethrinus harak,Stobutkzi_61,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_62,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_63,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_64,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_65,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Lethrinus variegatus,Stobutkzi_66,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_67,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_68,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Lethrinus obsoletus,Stobutkzi_69,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_70,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_71,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_72,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_73,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_74,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_75,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_76,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_77,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Atherinidae,Stobutkzi_78,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_79,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_80,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_81,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_82,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_83,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_84,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Stethojulis strigiventer,Stobutkzi_85,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_86,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_87,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_88,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_89,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_90,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_91,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_92,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_93,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_94,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_95,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_96,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_97,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Apogon cookii,Stobutkzi_98,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_99,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Apogonidae,Stobutkzi_100,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_101,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_102,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_103,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Foa brachygramma,Stobutkzi_104,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_105,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_106,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Apogonidae,Stobutkzi_107,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_108,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_109,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Blenniidae,Stobutkzi_110,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Canthigaster janthinoptera,Stobutkzi_111,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_112,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_113,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_114,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Canthigaster bennetti,Stobutkzi_115,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Scarus chameleon,Stobutkzi_116,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Clupeidae,Stobutkzi_117,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_118,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_119,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Scatophagidae,Stobutkzi_120,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre?
+IlSt_NA,Stobutkzi_121,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Pre?
+IlSt_Upeneus,Stobutkzi_122,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_123,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Pempheridae,Stobutkzi_124,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_125,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Gerridae,Stobutkzi_126,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_127,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_128,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_129,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Synodontidae,Stobutkzi_130,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Terapontidae,Stobutkzi_131,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Idiosepius pygmaeus,Stobutkzi_132,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_133,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_Chelonodon patoca,Stobutkzi_134,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_135,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_136,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_137,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_138,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_139,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_140,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_141,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_142,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_143,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+IlSt_NA,Stobutkzi_144,NA,Stobutzki,various,1992,NA,NA,NA,NA,Stobutzki1992; Stobutzki&Bellwood1994,Post
+Stfasc1.1,JML10/6.8.A,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-025,"NA",settlement
+Gymuro1.2,JML10/6.8.A,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-030,Leis et al 2015,settlement
+Gymuro1.3,JML10/6.8.D,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-031,Leis et al 2015,settlement
+Gymuro1.4,JML10/6.8.D,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-032,Leis et al 2015,settlement
+Gymuro1.5,JML10/6.8.D,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-032,Leis et al 2015,settlement
+Gymuro1.6,JML10/6.8.B,2010-08-06,Leis_moorea,crest net,2010,8,NA,NA,I.45368-165,Leis et al 2015,settlement
+Chtlun4.1,JML10/8.8.C,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-006,"NA",settlement
+Chtlun4.2,JML10/8.8.D,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-020,"NA",settlement
+Grmsex4.3,JML10/8.8.E,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-029,"NA",settlement
+Grmsex4.4,JML10/8.8.F,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-028,"NA",settlement
+trimaculatus4.5,JML10/8.8.G,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-007,"NA",settlement
+trimaculatus4.6,JML10/8.8.H,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-019,"NA",settlement
+Stfasc9.1,JML10/11.8.49,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-013,"NA",settlement
+Stfasc9.2,JML10/11.8.50,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-018,"NA",settlement
+Stfasc9.3,JML10/11.8.51,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-017,"NA",settlement
+Stfasc9.4,JML10/11.8.52,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-016,"NA",settlement
+Stfasc9.5,JML10/11.8.53,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-015,"NA",settlement
+Stfasc9.6,JML10/11.8.54,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-014,"NA",settlement
+Stfasc10.1,JML10/11.8.55,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-010,"NA",settlement
+Stfasc10.2,JML10/11.8.56,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-011,"NA",settlement
+Stfasc10.3,JML10/11.8.57,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-012,"NA",settlement
+Grmsex3.4,JML10/12.8.16,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-030,"NA",settlement
+Moring5.1,JML10/13.8.25,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-053,"NA",settlement
+MurTC5.2,JML10/13.8.26,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-047,"NA",settlement
+LeptoUnid5.3,JML10/13.8.27,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,NA,"NA",settlement
+Congrid5.4,JML10/13.8.28,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-049,"NA",settlement
+LeptoUnid5.5,JML10/13.8.29,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,NA,"NA",settlement
+LeptoUnid5.6,JML10/13.8.30,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,NA,"NA",settlement
+MurA6.1,JML10/13.8.31,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-050,"NA",1 day post settle
+Moring6.2,JML10/13.8.32,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-046,"NA",1 day post settle
+MurNP(TA)6.3,JML10/13.8.33,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-045,"NA",1 day post settle
+MurAC6.4,JML10/13.8.34,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-048,"NA",1 day post settle
+Congrid6.5,JML10/13.8.35,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-040,"NA",1 day post settle
+Congrid6.6,JML10/13.8.36,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-051,"NA",1 day post settle
+Congrid7.1,JML10/13.8.37,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-042,"NA",1 day post settle
+Moring7.2,JML10/13.8.38,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-043,"NA",1 day post settle
+MurA7.4,JML10/13.8.39,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-052,"NA",1 day post settle
+MurTC7.3,JML10/13.8.40,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-054,"NA",1 day post settle
+Moring7.5,JML10/13.8.41,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-044,"NA",1 day post settle
+Corayg4.2,JML10/11.8.20,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-160,Leis et al 2011,settlement
+Corayg2.3,JML10/12.8.9,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-038,Leis et al 2011,settlement
+Corayg2.4,JML10/12.8.10,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-159,Leis et al 2011,settlement
+Corayg4.1,JML10/12.8.19,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-158,Leis et al 2011,settlement
+Corayg1.1,JML10/13.8.1,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-161,Leis et al 2011,settlement
+Halihort6.5,JML10/11.8.35,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-001,Leis et al 2011,settlement
+Halitri8.4,JML10/11.8.46,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-162,Leis et al 2011,settlement
+Novata2.1B,JML10/7.8.B,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-155,Leis et al 2011,settlement
+Novata6.1,JML10/11.8.31,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-164,Leis et al 2011,settlement
+Novata6.2,JML10/11.8.32,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-164,Leis et al 2011,settlement
+Novata2.1,JML10/12.8.7,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-039,Leis et al 2011,settlement
+Novata2.2,JML10/12.8.8,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-156,Leis et al 2011,settlement
+Novata4.2,JML10/12.8.20,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-157,Leis et al 2011,settlement
+Thalquin,JML10/7.8.A,2010-08-07,Leis_moorea,crest net,2010,8,NA,NA,I.45368-154,Leis et al 2011,settlement
+Thalquin,JML10/11.8.1,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-089,Leis et al 2011,settlement
+Thalquin,JML10/11.8.2,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-090,Leis et al 2011,settlement
+Thalquin,JML10/11.8.5,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-093,Leis et al 2011,settlement
+Thalquin,JML10/11.8.14,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-101,Leis et al 2011,settlement
+Thalquin,JML10/11.8.29,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-113,Leis et al 2011,settlement
+Thalquin,JML10/11.8.3,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-091,Leis et al 2011,settlement
+Thalquin,JML10/11.8.4,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-092,Leis et al 2011,settlement
+Thalquin,JML10/11.8.6,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-094,Leis et al 2011,settlement
+Thalquin,JML10/11.8.7,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-095,Leis et al 2011,settlement
+Thalquin,JML10/11.8.11,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-098,Leis et al 2011,settlement
+Thalquin,JML10/11.8.12,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-099,Leis et al 2011,settlement
+Thalquin,JML10/11.8.37,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-118,Leis et al 2011,settlement
+Thalquin,JML10/11.8.39,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-120,Leis et al 2011,settlement
+Thalquin,JML10/11.8.40,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-121,Leis et al 2011,settlement
+Thalquin,JML10/11.8.42,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-037,Leis et al 2011,settlement
+Thalquin,JML10/11.8.44,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-123,Leis et al 2011,settlement
+Thalquin,JML10/11.8.13,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-100,Leis et al 2011,settlement
+Thalquin,JML10/11.8.15,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-102,Leis et al 2011,settlement
+Thalquin,JML10/11.8.16,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-103,Leis et al 2011,settlement
+Thalquin,JML10/11.8.17,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-104,Leis et al 2011,settlement
+Thalquin,JML10/11.8.18,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-105,Leis et al 2011,settlement
+Thalquin,JML10/11.8.19,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-106,Leis et al 2011,settlement
+Thalquin,JML10/11.8.21,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-107,Leis et al 2011,settlement
+Thalquin,JML10/11.8.23,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-109,Leis et al 2011,settlement
+Thalquin,JML10/11.8.24,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-110,Leis et al 2011,settlement
+Thalquin,JML10/11.8.25,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,NA,Leis et al 2011,settlement
+Thalquin,JML10/11.8.26,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-111,Leis et al 2011,settlement
+Thalquin,JML10/11.8.27,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-139,Leis et al 2011,settlement
+Thalquin,JML10/11.8.28,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-112,Leis et al 2011,settlement
+Thalquin,JML10/11.8.30,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-114,Leis et al 2011,settlement
+Thalquin,JML10/11.8.33,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-115,Leis et al 2011,settlement
+Thalquin,JML10/11.8.34,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-116,Leis et al 2011,settlement
+Thalquin,JML10/11.8.36,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-117,Leis et al 2011,settlement
+Thalquin,JML10/11.8.38,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-119,Leis et al 2011,settlement
+Thalquin,JML10/11.8.41,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-036,Leis et al 2011,settlement
+Thalquin,JML10/11.8.43,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-122,Leis et al 2011,settlement
+Thalquin,JML10/11.8.45,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-124,Leis et al 2011,settlement
+Thalquin,JML10/11.8.47,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,NA,Leis et al 2011,settlement
+Thalquin,JML10/11.8.48,2010-08-11,Leis_moorea,crest net,2010,8,NA,NA,I.45368-125,Leis et al 2011,settlement
+Thalquin,JML10/12.8.1,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-140,Leis et al 2011,settlement
+Thalquin,JML10/12.8.2,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-141,Leis et al 2011,settlement
+Thalquin,JML10/12.8.3,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-142,Leis et al 2011,settlement
+Thalquin,JML10/12.8.4,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-143,Leis et al 2011,settlement
+Thalquin,JML10/12.8.5,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-144,Leis et al 2011,settlement
+Thalquin,JML10/12.8.11,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-126,Leis et al 2011,settlement
+Thalquin,JML10/12.8.12,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-127,Leis et al 2011,settlement
+Thalquin,JML10/12.8.13,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-145,Leis et al 2011,settlement
+Thalquin,JML10/12.8.14,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-146,Leis et al 2011,settlement
+Thalquin,JML10/12.8.15,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-147,Leis et al 2011,settlement
+Thalquin,JML10/12.8.17,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-128,Leis et al 2011,settlement
+Thalquin,JML10/12.8.18,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-148,Leis et al 2011,settlement
+Thalquin,JML10/12.8.21,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-129,Leis et al 2011,settlement
+Thalquin,JML10/12.8.22,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-130,Leis et al 2011,settlement
+Thalquin,JML10/12.8.23,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-131,Leis et al 2011,settlement
+Thalquin,JML10/12.8.24,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-132,Leis et al 2011,settlement
+Thalquin,JML10/12.8.25,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-133,Leis et al 2011,settlement
+Thalquin,JML10/12.8.26,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-134,Leis et al 2011,settlement
+Thalquin,JML10/12.8.27,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-135,Leis et al 2011,settlement
+Thalquin,JML10/12.8.28,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-136,Leis et al 2011,settlement
+Thalquin,JML10/12.8.29,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-137,Leis et al 2011,settlement
+Thalquin,JML10/12.8.30,2010-08-12,Leis_moorea,crest net,2010,8,NA,NA,I.45368-138,Leis et al 2011,settlement
+Thalquin,JML10/13.8.2,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-149,Leis et al 2011,settlement
+Thalquin,JML10/13.8.3,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-150,Leis et al 2011,settlement
+Thalquin,JML10/13.8.4,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-151,Leis et al 2011,settlement
+Thalquin,JML10/13.8.5,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-152,Leis et al 2011,settlement
+Thalquin,JML10/13.8.6,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-153,Leis et al 2011,settlement
+Thalquin,JML10/13.8.7,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-055,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.8,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-056,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.9,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-057,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.10,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-058,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.11,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-059,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.12,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-060,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.13,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-061,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.14,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-062,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.15,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-063,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.17,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-064,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.18,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-065,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.19,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-066,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.20,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-067,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.21,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-068,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.22,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-069,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.23,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-070,Leis et al 2011,1 day post settle
+Thalquin,JML10/13.8.24,2010-08-13,Leis_moorea,crest net,2010,8,NA,NA,I.45368-071,Leis et al 2011,1 day post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-074,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-078,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-084,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-072,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-073,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-075,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-076,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-077,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-079,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-080,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-081,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-083,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-085,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-086,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-087,Leis et al 2011,2 days post settle
+Thalquin,NA,2010-08-14,Leis_moorea,crest net,2010,8,NA,NA,I.45368-088,Leis et al 2011,2 days post settle
+Ambcur,JML05/1.12.a,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.b,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.c,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.d,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.e,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.f,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.g,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.h,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.i,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.j,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.k,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/1.12.l,2005-12-01,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.a,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.b,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.c,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.d,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.e,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.f,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.g,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.h,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.i,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.j,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.k,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.l,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.n,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.o,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.p,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.q,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.r,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.s,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+Ambcur,JML05/2.12.t,2005-12-02,Leis_lizard,145.4400426,2005,12,NA,NA,NA,Leis et al 2007b,settlement
+apsnem,snemjcub1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apsnem,snemjcub2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+apsnem,snemjcub3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+peamel,ameljcub1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+peamel,ameljcub2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+peamel,ameljcub3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+peaper,aperjcub1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
