@@ -1,7 +1,7 @@
 require(tidyverse)
 require(lubridate)
 
-#### Read in all data_tables -------------
+#### Read in all data_tables from this github -------------
 data_files <- paste("clean_data", list.files("clean_data"), sep="/")
 all_data <- lapply(data_files, read_csv)
 names(all_data) <- gsub(".csv", "", gsub("clean_data/", "", data_files))
