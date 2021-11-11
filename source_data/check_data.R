@@ -50,6 +50,13 @@ image_file_dat <- image_file_dat %>%
    left_join(image_dat) %>% 
    mutate(fish_id=ifelse(is.na(fish_id), image, fish_id))
 
+image_file_dat <- image_file_dat %>% 
+  mutate(fish_id=ifelse(filename=="tco03nov19g.jpg", "tci03nov19g",
+                        ifelse(filename=="14v12v01j34top1apogontrimaculatus.jpg",
+                               "14/12/01j34", fish_id)))
+#tco03nov19g.jpg	tci03nov19g
+#14v12v01j34top1apogontrimaculatus.jpg	14/12/01j34
+
 
 site_dat <- read_csv("source_data/sites.csv") %>% 
   arrange(region)
@@ -92,7 +99,7 @@ head(id_vec)
 require(worms)
 worms_dat <- wormsbynames(id_vec$taxa)
 clean_species_dat <- cbind(id_vec, worms_dat)
-View(clean_species_dat)
+#View(clean_species_dat)
 
 # Morphology data ------------
 morph_dev_dat <- read_csv("source_data/morph_development.csv")
@@ -121,7 +128,8 @@ ucrit_sett_dat <- read_csv("source_data/ucrit_settlement.csv") %>%
                 publication=ifelse((trap %in% test), "Hogan_etal2007", "Fisher_etal2005"),
                 stage=ifelse(trap!="reared" & trap!="ac" & sampling_gear!="scuba" & trap!="reef", 
                              "Settlement", 
-                             ifelse(trap=="reef" | trap=="scuba" , "post", NA))) %>% 
+                             ifelse(trap=="reef" | trap=="scuba" , "post", NA)),
+                protocol="3bl/s, 2min") %>% 
 
   
   filter(trap!="reared")
@@ -145,7 +153,8 @@ hogan_dat <- read_csv("source_data/swimming data All_raw_data.csv") %>%
          month=month(date),         
          sampling_gear=ifelse(grepl("cn", source), "net", source),
          notes=NOTES,
-         TLmm=`TL(mm)`)
+         TLmm=`TL(mm)`,
+         protocol=paste(`rate of increase`, "cm/s, ", `time increment`, "min", sep=""))
 
 hogan_spp <- hogan_dat %>% 
   select(fish_id, family, genus, species)  %>% 
@@ -195,7 +204,8 @@ all_morph_sett_dat <- new_dat %>%
 # Add Stobutzki data ---------------
 stob_dat <- read_excel("source_data/Swimming Speeds Raw Data.xlsx", "Sheet1") %>% 
   data.frame() %>% 
-  rowid_to_column("ID")  %>% 
+  rowid_to_column("ID")   %>%
+  fill(Species)  %>% 
   mutate(taxa=Species,
          species_id=paste("IlSt", taxa, sep="_"),
          fish_id=paste("Stobutkzi_", ID, sep=""),
@@ -212,20 +222,19 @@ stob_dat <- read_excel("source_data/Swimming Speeds Raw Data.xlsx", "Sheet1") %>
          publication="Stobutzki1992; Stobutzki&Bellwood1994",
          notes=paste(Time.to.fatigue..min., Water.velocity...cm.s., sep="; "),
          TLmm=as.numeric(Tl.mm.),
-         wg=as.numeric(Wgt...gm.)) %>%
-  fill(taxa)
-    
+         wg=as.numeric(Wgt...gm.),
+         protocol="5cm/s, 5min")
 stob_spp <- stob_dat %>% 
   select(species_id, taxa)
 
 # treat all as new species
 new_worms_dat <- wormsbynames(stob_spp$taxa)
 new_clean_species_dat <- cbind(stob_spp, new_worms_dat) %>% 
-  mutate(species_id=taxa,
+  mutate(species_id=species_id,
          species_note=taxa) %>% 
   unique()
 
-View(new_clean_species_dat)
+#View(new_clean_species_dat)
 all_clean_species_dat <- rbind(all_clean_species_dat, new_clean_species_dat[, colnames(all_clean_species_dat)]) %>% 
   dplyr::select(species_id,species_note,taxa,AphiaID,          
                 url,scientificname,authority,status,           
@@ -266,7 +275,8 @@ leis_dat_a <- read_excel("source_data/Settlement-stage larvae.xlsx", "Moorea") %
          sampling_gear=collection.method,
          notes=note,
          TLmm=as.numeric(size.TL..mm.),
-         SLmm=as.numeric(size..BL..mm.))
+         SLmm=as.numeric(size..BL..mm.),
+         protocol="6.1cm/s, 2min")
 
 leis_dat_b <- read_excel("source_data/Settlement-stage larvae.xlsx", "Lizard") %>% 
   data.frame() %>% 
@@ -284,8 +294,9 @@ leis_dat_b <- read_excel("source_data/Settlement-stage larvae.xlsx", "Lizard") %
          sampling_gear=collection.method,
          notes=note,
          TLmm=as.numeric(size.TL..mm.),
-         SLmm=as.numeric(size..BL..mm.))
-cols_select <- c(colnames(all_ucrit_sett_dat), "TLmm", "SLmm", "family", "genus", "species", "ucrit.raw")
+         SLmm=as.numeric(size..BL..mm.),
+         protocol="4.2cm/s, 5min")
+cols_select <- c(colnames(all_ucrit_sett_dat), "TLmm", "SLmm", "family", "genus", "species", "ucrit.raw", "protocol")
 leis_dat <- rbind(leis_dat_a[, cols_select], 
                   leis_dat_b[, cols_select])
 leis_dat <- leis_dat %>% 
@@ -353,7 +364,9 @@ ucrit_dev_dat <- read_csv("source_data/ucrit_development.csv") %>%
   dplyr::mutate(stage=as.character(NA),
          publication=ifelse(species_id=="apsnem" | species_id=="peamel" | species_id== "pepamb", 
                             "Fisher_etal2000", "Fisher2005"),
-         comment=NA)
+         comment=NA,
+         protocol="3bl/s, 2min",
+         temperature = "27-29.5")
 colnames(ucrit_dev_dat)
 colnames(morph_dev_dat)
 morph_dev_dat$SLmm=as.numeric(NA)
@@ -366,7 +379,9 @@ leis_dat_dev1 <- read_csv("source_data/ontogenetic data_1.csv") %>%
                 PAmm=NA,
                 TLmm=as.numeric(NA),
                 cohort.date=dmy(cohort.date),
-                measurement.date=dmy(measurement.date))
+                measurement.date=dmy(measurement.date),
+                protocol="3.2cm/s, 2min",
+                temperature = as.character(temperature))
 colnames(leis_dat_dev1)
 leis_dat_dev2 <- read_csv("source_data/ontogenetic data_2.csv") %>% 
   data.frame() %>% 
@@ -374,7 +389,9 @@ leis_dat_dev2 <- read_csv("source_data/ontogenetic data_2.csv") %>%
                 PAmm=NA,
                 TLmm=NA,
                 cohort.date=dmy(cohort.date),
-                measurement.date=dmy(measurement.date))
+                measurement.date=dmy(measurement.date),
+                protocol="3.2cm/s, 2min",
+                temperature = as.character(temperature))
 colnames(leis_dat_dev2)
 leis_dat_dev3 <- read_csv("source_data/ontogenetic data_3.csv") %>% 
   data.frame() %>% 
@@ -385,13 +402,15 @@ leis_dat_dev3 <- read_csv("source_data/ontogenetic data_3.csv") %>%
                 PAmm=Propulsive.Area..mm²,
                 cohort.date=dmy(cohort.date),
                 measurement.date=dmy(measurement.date),
-                comment2=ifelse(grepl(">", Ucrit.raw), Ucrit.raw, "")) %>% 
+                comment2=ifelse(grepl(">", Ucrit.raw), Ucrit.raw, ""),
+                protocol="1.6 to 5.3cm/s, 5min",
+                temperature = as.character(temperature)) %>% 
   unite(comment, comment2)
 colnames(leis_dat_dev3)
 
 select.vars=c("species.abbreviation", "species", "genus", "family",
               "fish.ID", "cohort.date", "measurement.date", "size..BL.", "TLmm",
-              "Ucrit", "publication", "stage",  "TLAmm", "PAmm", "comment")
+              "Ucrit", "publication", "stage",  "TLAmm", "PAmm", "comment", "protocol", "temperature")
 
 l1 <- leis_dat_dev1 %>% 
   dplyr::select(select.vars)
@@ -431,14 +450,15 @@ morph_dev_dat <- morph_dev_dat %>%
 # Make a sample ID table for the dev data
 dev_sample_dat <- ucrit_dev_dat %>% 
   bind_rows(morph_dev_dat) %>% 
-  dplyr::select(species_id, batch_id, sample_id, age, eggdur) %>% 
+  dplyr::select(species_id, batch_id, sample_id, age, eggdur, protocol, temperature) %>% 
   unique()
 
 # Make a Fish ID table for the sett data
 fish_id_dat <- all_ucrit_sett_dat %>% 
   full_join(morph_sett_dat) %>% 
   left_join(image_file_dat) %>% 
-  dplyr::select(species_id, fish_id, date, trap, sampling_gear, year, month, filename, image, AMS_rego, publication, stage)
+  dplyr::select(species_id, fish_id, date, trap, sampling_gear, year, month, filename, image, AMS_rego, publication, stage,
+                protocol)
 
 # find missing species
 new_worms_dat <- wormsbynames(paste(leis_dev_dat$genus, leis_dev_dat$species))

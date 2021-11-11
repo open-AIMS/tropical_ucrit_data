@@ -1,757 +1,1346 @@
-species_id,batch_id,sample_id,age,eggdur
-pepamb,1,reared-1-1-1,1,4
-pepamb,3,reared-1-3-1,1,4
-pepamb,1,reared-1-1-3,3,4
-pepamb,2,reared-1-2-3,3,4
-pepamb,3,reared-1-3-3,3,4
-pepamb,1,reared-1-1-6,6,4
-pepamb,2,reared-1-2-6,6,4
-pepamb,3,reared-1-3-6,6,4
-pepamb,1,reared-1-1-9,9,4
-pepamb,2,reared-1-2-9,9,4
-pepamb,3,reared-1-3-9,9,4
-pepamb,1,reared-1-1-12,12,4
-pepamb,2,reared-1-2-12,12,4
-pepamb,3,reared-1-3-12,12,4
-pepamb,1,reared-1-1-15,15,4
-pepamb,2,reared-1-2-15,15,4
-pepamb,3,reared-1-3-15,15,4
-pepamb,1,reared-1-1-20,20,4
-pepamb,2,reared-1-2-20,20,4
-pepamb,3,reared-1-3-20,20,4
-apsnem,2,reared-2-2-1,1,7
-apsnem,3,reared-2-3-1,1,7
-apsnem,1,reared-2-1-1,1,7
-apsnem,2,reared-2-2-3,3,7
-apsnem,3,reared-2-3-3,3,7
-apsnem,1,reared-2-1-3,3,7
-apsnem,2,reared-2-2-6,6,7
-apsnem,3,reared-2-3-6,6,7
-apsnem,1,reared-2-1-6,6,7
-apsnem,2,reared-2-2-9,9,7
-apsnem,3,reared-2-3-9,9,7
-apsnem,1,reared-2-1-9,9,7
-apsnem,2,reared-2-2-12,12,7
-apsnem,3,reared-2-3-12,12,7
-apsnem,1,reared-2-1-12,12,7
-apsnem,2,reared-2-2-15,15,7
-apsnem,3,reared-2-3-15,15,7
-apsnem,1,reared-2-1-15,15,7
-apsnem,2,reared-2-2-18,18,7
-apsnem,3,reared-2-3-18,18,7
-apsnem,1,reared-2-1-18,18,7
-apsnem,2,reared-2-2-21,21,7
-apsnem,3,reared-2-3-21,21,7
-apsnem,1,reared-2-1-21,21,7
-apsnem,2,reared-2-2-24,24,7
-apsnem,3,reared-2-3-24,24,7
-apsnem,1,reared-2-1-24,24,7
-peamel,1,reared-3-1-1,1,8
-peamel,2,reared-3-2-1,1,8
-peamel,3,reared-3-3-1,1,8
-peamel,1,reared-3-1-3,3,8
-peamel,2,reared-3-2-3,3,8
-peamel,3,reared-3-3-3,3,8
-peamel,1,reared-3-1-5,5,8
-peamel,2,reared-3-2-5,5,8
-peamel,3,reared-3-3-5,5,8
-peamel,1,reared-3-1-6,6,8
-peamel,2,reared-3-2-6,6,8
-peamel,3,reared-3-3-6,6,8
-peamel,1,reared-3-1-7,7,8
-peamel,2,reared-3-2-7,7,8
-peamel,3,reared-3-3-7,7,8
-peamel,1,reared-3-1-8,8,8
-peamel,2,reared-3-2-8,8,8
-peamel,3,reared-3-3-8,8,8
-apacom,2,reared-4-2-1,1,7
-apacom,1,reared-4-1-3,3,7
-apacom,2,reared-4-2-3,3,7
-apacom,1,reared-4-1-6,6,7
-apacom,2,reared-4-2-6,6,7
-apacom,1,reared-4-1-9,9,7
-apacom,1,reared-4-1-12,12,7
-apacom,1,reared-4-1-15,15,7
-apacom,light trap,reared-4-light trap-24,24,7
-peaper,1,reared-5-1-1,1,7
-peaper,1,reared-5-1-3,3,7
-peaper,1,reared-5-1-6,6,7
-peaper,1,reared-5-1-8,8,7
-pepmol,L14,reared-6-L14-1,1,4
-pepmol,L14,reared-pepmol-L14-1,1,4
-pepmol,L14,reared-pepmol-L14-6,6,4
-pepmol,L14,reared-pepmol-L14-10,10,4
-pepmol,L14,reared-pepmol-L14-14,14,4
-pepmol,L14,reared-pepmol-L14-16,16,4
-pepmol,light trap,reared-pepmol-light trap-20,20,4
-Gralto,14863,45582.1.1,22,NA
-Gralto,14863,45582.1.2,22,NA
-Gralto,14863,45582.1.3,22,NA
-Gralto,14863,45582.1.4,22,NA
-Gralto,14863,45582.1.5,22,NA
-Gralto,14863,45582.1.6,22,NA
-Gralto,14863,45582.2.1,22,NA
-Gralto,14863,45582.2.2,22,NA
-Gralto,14863,45582.2.3,22,NA
-Gralto,14863,45582.2.4,22,NA
-Gralto,14863,45582.2.5,22,NA
-Gralto,14863,45582.2.6,22,NA
-Gralto,14863,45582.3.1,22,NA
-Gralto,14863,45582.3.2,22,NA
-Gralto,14863,45582.3.3,22,NA
-Gralto,14863,45582.3.3a,22,NA
-Gralto,14863,45582.3.4,22,NA
-Gralto,14863,45582.3.5,22,NA
-Gralto,14863,45582.3.6,22,NA
-Gralto,14877,45583.9.1,15,NA
-Gralto,14877,45583.9.2,15,NA
-Gralto,14877,45583.9.3,15,NA
-Gralto,14877,45583.9.4,15,NA
-Gralto,14877,45583.9.5,15,NA
-Gralto,14877,45583.9.6,15,NA
-Gralto,14877,45583.10.2,15,NA
-Gralto,14877,45583.10.3,15,NA
-Gralto,14877,45583.10.4,15,NA
-Gralto,14877,45583.10.5,15,NA
-Gralto,14877,45583.10.6,15,NA
-Gralto,14877,45583.11.2,15,NA
-Gralto,14877,45583.11.3,15,NA
-Gralto,14877,45583.11.4,15,NA
-Gralto,14877,45583.11.5,15,NA
-Gralto,14877,45583.11.6,15,NA
-Gralto,14877,45583.12.3,15,NA
-Psfrid,14864,45584.4.1,21,NA
-Psfrid,14864,45584.4.2,21,NA
-Psfrid,14864,45584.4.3,21,NA
-Psfrid,14864,45584.4.4,21,NA
-Psfrid,14864,45584.4.5,21,NA
-Psfrid,14864,45584.4.6,21,NA
-Psfrid,14864,45584.5.1,21,NA
-Psfrid,14864,45584.5.2,21,NA
-Psfrid,14864,45584.5.3,21,NA
-Psfrid,14864,45584.5.4,21,NA
-Psfrid,14864,45584.5.5,21,NA
-Psfrid,14864,45584.5.6,21,NA
-Psfrid,14864,45584.6.1,21,NA
-Psfrid,14864,45584.6.2,21,NA
-Psfrid,14864,45584.6.3,21,NA
-Psfrid,14864,45584.6.4,21,NA
-Psfrid,14864,45584.6.5,21,NA
-Psfrid,14864,45584.6.6,21,NA
-Psfrid,14864,45584.1a,21,NA
-Psfrid,14864,45584.1b,21,NA
-Psfrid,14864,45584.2a,21,NA
-Psfrid,14864,45584.2b,21,NA
-Psfrid,14864,45584.3b,21,NA
-Psfrid,14864,45584.7.4,21,NA
-Psfrid,14864,45584.7.5,21,NA
-Psfrid,14864,45584.7.6,21,NA
-Psfrid,14871,45584.8.1,14,NA
-Psfrid,14871,45584.8.2,14,NA
-Psfrid,14871,45584.8.3,14,NA
-Psfrid,14871,45584.8.4,14,NA
-Psfrid,14871,45584.9.1,14,NA
-Psfrid,14871,45584.9.2,14,NA
-Psfrid,14871,45584.9.3,14,NA
-Psfrid,14871,45584.9.4,14,NA
-Psfrid,14871,45584.9.5,14,NA
-Psfrid,14871,45584.9.6,14,NA
-Psfrid,14871,45584.10.1,14,NA
-Psfrid,14871,45584.10.2,14,NA
-Psfrid,14871,45584.10.3,14,NA
-Psfrid,14871,45584.10.4,14,NA
-Psfrid,14871,45584.10.5,14,NA
-Psfrid,14871,45584.10.6,14,NA
-Psfrid,14881,45584.11.2,11,NA
-Psfrid,14881,45584.11.3,11,NA
-Psfrid,14881,45584.11.4,11,NA
-Psfrid,14881,45584.11.5,11,NA
-Psfrid,14881,45584.11.6,11,NA
-Psfrid,14881,45584.12.1,11,NA
-Psfrid,14881,45584.12.2,11,NA
-Psfrid,14881,45584.12.3,11,NA
-Psfrid,14881,45584.12.4,11,NA
-Psfrid,14881,45584.12.5,11,NA
-Psfrid,14881,45584.12.6,11,NA
-Psfrid,14881,45584.13.1,11,NA
-Psfrid,14881,45584.13.2,11,NA
-Psfrid,14881,45584.13.3,11,NA
-Psfrid,14881,45584.13.4,11,NA
-Psfrid,14881,45584.13.5,11,NA
-Psfrid,14881,45584.13.6,11,NA
-Psfrid,14881,45584.14.1,11,NA
-Psfrid,14881,45584.14.2,11,NA
-Psfrid,14881,45584.14.4,11,NA
-Psfrid,14881,45584.14.5,11,NA
-Psfrid,14881,45584.14.6,11,NA
-Psfrid,14871,45584.15.1,21,NA
-Psfrid,14871,45584.15.2,21,NA
-Psfrid,14871,45584.15.3,21,NA
-Psfrid,14871,45584.15.4,21,NA
-Psfrid,14871,45584.15.5,21,NA
-Psfrid,14871,45584.15.6,21,NA
-Psfrid,14871,45584.16.1,21,NA
-Psfrid,14871,45584.16.3,21,NA
-Psfrid,14871,45584.16.4,21,NA
-Psfrid,14871,45584.16.5,21,NA
-Psfrid,14871,45584.16.6,21,NA
-Psfrid,14871,45584.17.1,21,NA
-Psfrid,14871,45584.17.2,21,NA
-Psfrid,14871,45584.17.3,21,NA
-Psfrid,14871,45584.17.4,21,NA
-Psfrid,14871,45584.17.5,21,NA
-Psfrid,14871,45584.17.6,21,NA
-Psfrid,14871,45584.18.1,21,NA
-Psfrid,14871,45584.18.2,21,NA
-Psfrid,14871,45584.18.3,21,NA
-Psfrid,14871,45584.18.4,21,NA
-Psfrid,14871,45584.18.5,21,NA
-Psfrid,14871,45584.18.6,21,NA
-Carign,NA,JML04/11.5.2,NA,NA
-Carign,NA,JML04/11.5.4,NA,NA
-Carign,NA,JML04/11.5.6,NA,NA
-Carign,NA,JML04/11.5.8,NA,NA
-Carign,NA,JML04/11.5.10,NA,NA
-Carign,NA,JML04/11.5.12,NA,NA
-Carign,NA,JML04/11.5.26,NA,NA
-Carign,NA,JML04/11.5.28,NA,NA
-Carign,NA,JML04/11.5.30,NA,NA
-Carign,NA,JML04/11.5.32,NA,NA
-Carign,NA,JML04/11.5.34,NA,NA
-Carign,NA,JML04/11.5.36,NA,NA
-Carign,NA,JML04/13.5.1,NA,NA
-Carign,NA,JML04/13.5.3,NA,NA
-Carign,NA,JML04/13.5.5,NA,NA
-Carign,NA,JML04/13.5.7,NA,NA
-Carign,NA,JML04/13.5.9,NA,NA
-Carign,NA,JML04/13.5.11,NA,NA
-Carign,NA,JML04/14.5.13,NA,NA
-Carign,NA,JML04/14.5.15,NA,NA
-Carign,NA,JML04/14.5.17,NA,NA
-Carign,NA,JML04/14.5.19,NA,NA
-Carign,NA,JML04/14.5.21,NA,NA
-Carign,NA,JML04/14.5.23,NA,NA
-Carign,NA,JML04/14.5.25,NA,NA
-Carign,NA,JML04/14.5.27,NA,NA
-Carign,NA,JML04/14.5.29,NA,NA
-Carign,NA,JML04/14.5.31,NA,NA
-Carign,NA,JML04/14.5.33,NA,NA
-Carign,NA,JML04/14.5.35,NA,NA
-Carign,NA,JML04/14.5.37,NA,NA
-Carign,NA,JML04/14.5.39,NA,NA
-Carign,NA,JML04/14.5.41,NA,NA
-Carign,NA,JML04/14.5.43,NA,NA
-Carign,NA,JML04/14.5.45,NA,NA
-Carign,NA,JML04/14.5.47,NA,NA
-Carign,NA,JML04/19.5.11,NA,NA
-Carign,NA,JML04/19.5.19,NA,NA
-Carign,NA,JML04/19.5.20,NA,NA
-Carign,NA,JML04/19.5.21,NA,NA
-Carign,NA,JML04/19.5.22,NA,NA
-Carign,NA,JML04/19.5.23,NA,NA
-Carign,NA,JML04/19.5.24,NA,NA
-Carign,NA,JML04/20.5.1,NA,NA
-Carign,NA,JML04/20.5.3,NA,NA
-Carign,NA,JML04/20.5.5,NA,NA
-Carign,NA,JML04/20.5.7,NA,NA
-Carign,NA,JML04/20.5.9,NA,NA
-Carign,NA,JML04/20.5.11,NA,NA
-Carign,NA,JML04/19.5.7,NA,NA
-Carign,NA,JML04/19.5.9,NA,NA
-Carign,NA,JML04/19.5.13,NA,NA
-Carign,NA,JML04/19.5.15,NA,NA
-Carign,NA,JML04/19.5.17,NA,NA
-Chan,NA,JML04/11.5.1,NA,NA
-Chan,NA,JML04/11.5.3,NA,NA
-Chan,NA,JML04/11.5.5,NA,NA
-Chan,NA,JML04/11.5.7,NA,NA
-Chan,NA,JML04/11.5.9,NA,NA
-Chan,NA,JML04/11.5.11,NA,NA
-Chan,NA,JML04/11.5.25,NA,NA
-Chan,NA,JML04/11.5.27,NA,NA
-Chan,NA,JML04/11.5.29,NA,NA
-Chan,NA,JML04/11.5.31,NA,NA
-Chan,NA,JML04/11.5.33,NA,NA
-Chan,NA,JML04/11.5.35,NA,NA
-Chan,NA,JML04/11.5.43,NA,NA
-Chan,NA,JML04/11.5.44,NA,NA
-Chan,NA,JML04/11.5.45,NA,NA
-Chan,NA,JML04/11.5.46,NA,NA
-Chan,NA,JML04/11.5.47,NA,NA
-Chan,NA,JML04/11.5.48,NA,NA
-Chan,NA,JML04/13.5.2,NA,NA
-Chan,NA,JML04/13.5.4,NA,NA
-Chan,NA,JML04/13.5.6,NA,NA
-Chan,NA,JML04/13.5.8,NA,NA
-Chan,NA,JML04/13.5.10,NA,NA
-Chan,NA,JML04/13.5.12,NA,NA
-Chan,NA,JML04/24.5.1,NA,NA
-Chan,NA,JML04/24.5.3,NA,NA
-Chan,NA,JML04/24.5.5,NA,NA
-Chan,NA,JML04/24.5.7,NA,NA
-Chan,NA,JML04/24.5.9,NA,NA
-Chan,NA,JML04/24.5.11,NA,NA
-Chan,NA,JML04/25.5.6,NA,NA
-Chan,NA,JML04/25.5.8,NA,NA
-Chan,NA,JML04/25.5.10,NA,NA
-Chan,NA,JML04/25.5.12,NA,NA
-Chan,NA,JML04/25.5.14,NA,NA
-Chan,NA,JML04/25.5.16,NA,NA
-Chan,NA,JML05/2.6.a,NA,NA
-Chan,NA,JML05/2.6.c,NA,NA
-Chan,NA,lost,NA,NA
-Chan,NA,JML05/2.6.g,NA,NA
-Chan,NA,JML05/2.6.m,NA,NA
-Chan,NA,JML05/2.6.r,NA,NA
-Chan,NA,JML05/2.6.s,NA,NA
-Chan,NA,JML05/2.6.t,NA,NA
-Epicoi,NA,JML04/11.5.13,NA,NA
-Epicoi,NA,JML04/11.5.14,NA,NA
-Epicoi,NA,JML04/11.5.15,NA,NA
-Epicoi,NA,JML04/11.5.16,NA,NA
-Epicoi,NA,JML04/11.5.17,NA,NA
-Epicoi,NA,JML04/11.5.18,NA,NA
-Epicoi,NA,JML04/11.5.37,NA,NA
-Epicoi,NA,JML04/11.5.38,NA,NA
-Epicoi,NA,JML04/11.5.39,NA,NA
-Epicoi,NA,JML04/11.5.40,NA,NA
-Epicoi,NA,JML04/11.5.41,NA,NA
-Epicoi,NA,JML04/11.5.42,NA,NA
-Epicoi,NA,JML04/21.5.7,NA,NA
-Epicoi,NA,JML04/21.5.9,NA,NA
-Epicoi,NA,JML04/21.5.11,NA,NA
-Epicoi,NA,JML04/21.5.13,NA,NA
-Epicoi,NA,JML04/21.5.15,NA,NA
-Epicoi,NA,JML04/21.5.17,NA,NA
-Epicoi,NA,JML04/28.5.1,NA,NA
-Epicoi,NA,JML04/28.5.3,NA,NA
-Epicoi,NA,JML04/28.5.5,NA,NA
-Epicoi,NA,JML04/28.5.7,NA,NA
-Epicoi,NA,JML04/28.5.9,NA,NA
-Epicoi,NA,JML04/28.5.11,NA,NA
-Epicoi,NA,JML04/28.5.13,NA,NA
-Epicoi,NA,JML04/28.5.15,NA,NA
-Epicoi,NA,JML04/28.5.17,NA,NA
-Epicoi,NA,JML04/28.5.19,NA,NA
-Epicoi,NA,JML04/28.5.21,NA,NA
-Epicoi,NA,JML04/28.5.23,NA,NA
-Epicoi,NA,JML05/8.6.a,NA,NA
-Epicoi,NA,JML05/8.6.b,NA,NA
-Epicoi,NA,JML05/8.6.c,NA,NA
-Epicoi,NA,JML05/8.6.d,NA,NA
-Epicoi,NA,JML05/8.6.e,NA,NA
-Epicoi,NA,JML05/8.6.m,NA,NA
-Epicoi,NA,JML05/8.6.n,NA,NA
-Epicoi,NA,JML05/8.6.o,NA,NA
-Epicoi,NA,JML05/8.6.p,NA,NA
-Epicoi,NA,JML05/8.6.q,NA,NA
-Epicoi,NA,JML05/27.5.01,NA,NA
-Epicoi,NA,JML05/27.5.03,NA,NA
-Epicoi,NA,JML05/27.5.05,NA,NA
-Epicoi,NA,JML05/27.5.07,NA,NA
-Epicoi,NA,JML05/27.5.09,NA,NA
-Epicoi,NA,JML05/27.5.11,NA,NA
-Epicoi,NA,JML05/29.5.f,NA,NA
-Epicoi,NA,JML05/29.5.h,NA,NA
-Epicoi,NA,JML05/31.5.s,NA,NA
-Epifus,NA,JML04/26.5.2,NA,NA
-Epifus,NA,JML04/26.5.4,NA,NA
-Epifus,NA,JML04/26.5.6,NA,NA
-Epifus,NA,JML04/26.5.8,NA,NA
-Epifus,NA,JML04/26.5.10,NA,NA
-Epifus,NA,JML04/26.5.12,NA,NA
-Epifus,NA,JML04/27.5.1,NA,NA
-Epifus,NA,JML04/27.5.2,NA,NA
-Epifus,NA,JML04/27.5.3,NA,NA
-Epifus,NA,JML04/27.5.4,NA,NA
-Epifus,NA,JML04/27.5.5,NA,NA
-Epifus,NA,JML04/27.5.6,NA,NA
-Epifus,NA,LOST,NA,NA
-Epifus,NA,JML05/26.5.03,NA,NA
-Epifus,NA,JML05/26.5.05,NA,NA
-Epifus,NA,JML05/26.5.07,NA,NA
-Epifus,NA,JML05/26.5.09,NA,NA
-Epifus,NA,JML05/26.5.11,NA,NA
-Epifus,NA,JML05/31.5.a,NA,NA
-Epifus,NA,JML05/31.5.c,NA,NA
-Epifus,NA,JML05/31.5.e,NA,NA
-Epifus,NA,JML05/31.5.g,NA,NA
-Epifus,NA,JML05/31.5.i,NA,NA
-Epifus,NA,JML05/31.5.k,NA,NA
-Epimal,NA,JML04/7.5.7,NA,NA
-Epimal,NA,JML04/7.5.8,NA,NA
-Epimal,NA,JML04/7.5.9,NA,NA
-Epimal,NA,JML04/7.5.10,NA,NA
-Epimal,NA,JML04/7.5.11,NA,NA
-Epimal,NA,JML04/7.5.12,NA,NA
-Epimal,NA,JML04/7.5.13,NA,NA
-Epimal,NA,JML04/7.5.14,NA,NA
-Epimal,NA,JML04/7.5.15,NA,NA
-Epimal,NA,JML04/7.5.16,NA,NA
-Epimal,NA,JML04/7.5.17,NA,NA
-Epimal,NA,JML04/7.5.18,NA,NA
-Epimal,NA,JML04/9.5.2,NA,NA
-Epimal,NA,JML04/9.5,NA,NA
-Epimal,NA,JML04/9.5.3,NA,NA
-Leiog,NA,JML04/13.5.13,NA,NA
-Leiog,NA,JML04/13.5.14,NA,NA
-Leiog,NA,JML04/13.5.15,NA,NA
-Leiog,NA,JML04/13.5.16,NA,NA
-Leiog,NA,JML04/13.5.17,NA,NA
-Leiog,NA,JML04/13.5.18,NA,NA
-Leiog,NA,JML04/14.5.1,NA,NA
-Leiog,NA,JML04/14.5.2,NA,NA
-Leiog,NA,JML04/14.5.3,NA,NA
-Leiog,NA,JML04/14.5.4,NA,NA
-Leiog,NA,JML04/14.5.5,NA,NA
-Leiog,NA,JML04/14.5.6,NA,NA
-Leiog,NA,JML04/14.5.14,NA,NA
-Leiog,NA,JML04/14.5.16,NA,NA
-Leiog,NA,JML04/14.5.18,NA,NA
-Leiog,NA,JML04/14.5.20,NA,NA
-Leiog,NA,JML04/14.5.22,NA,NA
-Leiog,NA,JML04/14.5.24,NA,NA
-Leiog,NA,JML04/14.5.26,NA,NA
-Leiog,NA,JML04/14.5.28,NA,NA
-Leiog,NA,JML04/14.5.30,NA,NA
-Leiog,NA,JML04/14.5.32,NA,NA
-Leiog,NA,JML04/14.5.34,NA,NA
-Leiog,NA,JML04/14.5.36,NA,NA
-Leiog,NA,JML04/14.5.38,NA,NA
-Leiog,NA,JML04/14.5.40,NA,NA
-Leiog,NA,JML04/14.5.42,NA,NA
-Leiog,NA,JML04/14.5.44,NA,NA
-Leiog,NA,JML04/14.5.46,NA,NA
-Leiog,NA,JML04/14.5.48,NA,NA
-Leiog,NA,JML04/19.5.8,NA,NA
-Leiog,NA,JML04/19.5.10,NA,NA
-Leiog,NA,JML04/19.5.12,NA,NA
-Leiog,NA,JML04/19.5.14,NA,NA
-Leiog,NA,JML04/19.5.16,NA,NA
-Leiog,NA,JML04/19.5.18,NA,NA
-Leiog,NA,JML04/20.5.2,NA,NA
-Leiog,NA,JML04/20.5.4,NA,NA
-Leiog,NA,JML04/20.5.6,NA,NA
-Leiog,NA,JML04/20.5.8,NA,NA
-Leiog,NA,JML04/20.5.10,NA,NA
-Leiog,NA,JML04/20.5.12,NA,NA
-Leiog,NA,JML04/24.5.2,NA,NA
-Leiog,NA,JML04/24.5.4,NA,NA
-Leiog,NA,JML04/24.5.6,NA,NA
-Leiog,NA,JML04/24.5.8,NA,NA
-Leiog,NA,JML04/24.5.10,NA,NA
-Leiog,NA,JML04/24.5.12,NA,NA
-Leiog,NA,JML04/25.5.7,NA,NA
-Leiog,NA,JML04/25.5.9,NA,NA
-Leiog,NA,JML04/25.5.11,NA,NA
-Leiog,NA,JML04/25.5.13,NA,NA
-Leiog,NA,JML04/25.5.15,NA,NA
-Leiog,NA,JML04/25.5.17,NA,NA
-Leiog,NA,JML04/25.5.18,NA,NA
-Leiog,NA,JML04/25.5.19,NA,NA
-Leiog,NA,JML04/25.5.20,NA,NA
-Leiog,NA,JML04/25.5.21,NA,NA
-Leiog,NA,JML04/25.5.22,NA,NA
-Leiog,NA,JML04/25.5.23,NA,NA
-Leiog,NA,JML04/26.5.1,NA,NA
-Leiog,NA,JML04/26.5.3,NA,NA
-Leiog,NA,JML04/26.5.5,NA,NA
-Leiog,NA,JML04/26.5.7,NA,NA
-Leiog,NA,JML04/26.5.9,NA,NA
-Leiog,NA,JML04/26.5.11,NA,NA
-Leiog,NA,JML04/27.5.7,NA,NA
-Leiog,NA,JML04/27.5.8,NA,NA
-Leiog,NA,JML04/27.5.9,NA,NA
-Leiog,NA,JML04/27.5.10,NA,NA
-Leiog,NA,JML04/27.5.11,NA,NA
-Leiog,NA,JML04/27.5.12,NA,NA
-Leiog,NA,JML04/27.5.13,NA,NA
-Lutjmal,NA,JML04/8.5.7,NA,NA
-Lutjmal,NA,JML04/8.5.8,NA,NA
-Lutjmal,NA,JML04/8.5.9,NA,NA
-Lutjmal,NA,JML04/8.5.10,NA,NA
-Lutjmal,NA,JML04/8.5.11,NA,NA
-Lutjmal,NA,JML04/8.5.12,NA,NA
-Lutjmal,NA,JML04/9.5.1,NA,NA
-Lutjmal,NA,JML04/9.5 LOST,NA,NA
-Lutjmal,NA,JML04/28.5.14,NA,NA
-Lutjmal,NA,JML04/28.5.16,NA,NA
-Lutjmal,NA,JML04/28.5.18,NA,NA
-Lutjmal,NA,JML04/28.5.20,NA,NA
-Lutjmal,NA,JML04/28.5.22,NA,NA
-Lutjmal,NA,JML04/28.5.24,NA,NA
-Lutjmal,NA,JML04/28.5.26,NA,NA
-Lutjmal,NA,JML04/28.5.28,NA,NA
-Lutjmal,NA,JML04/28.5.30,NA,NA
-Lutjmal,NA,JML04/28.5.32,NA,NA
-Lutjmal,NA,JML04/28.5.34,NA,NA
-Lutjmal,NA,JML04/28.5.36,NA,NA
-Lutjmal,NA,JML05/5.6.p,NA,NA
-Lutjmal,NA,JML05/5.6.q,NA,NA
-Lutjmal,NA,JML05/5.6.r,NA,NA
-Lutjmal,NA,JML05/5.6.s,NA,NA
-Lutjmal,NA,JML05/5.6.t,NA,NA
-Lutjmal,NA,JML05/5.6.u,NA,NA
-Lutjmal,NA,JML05/27.5.02,NA,NA
-Lutjmal,NA,JML05/27.5.04,NA,NA
-Lutjmal,NA,JML05/27.5.06,NA,NA
-Lutjmal,NA,JML05/27.5.08,NA,NA
-Lutjmal,NA,JML05/27.5.10,NA,NA
-Lutjmal,NA,JML05/27.5.12,NA,NA
-Lutjmal,NA,JML05/27.5.15,NA,NA
-Lutjmal,NA,JML05/27.5.16,NA,NA
-Lutjmal,NA,JML05/27.5.17,NA,NA
-Lutjmal,NA,JML05/27.5.18,NA,NA
-Lutjmal,NA,JML05/27.5.18a,NA,NA
-Lutjmal,NA,JML05/27.5.18b,NA,NA
-Lutjmal,NA,JML05/29.5.j,NA,NA
-Lutjmal,NA,JML05/29.5.k,NA,NA
-Lutjmal,NA,JML05/29.5.l,NA,NA
-Lutjmal,NA,JML05/29.5.m,NA,NA
-Lutjmal,NA,JML05/29.5.n,NA,NA
-Lutjmal,NA,JML05/29.5.o,NA,NA
-Lutjmal,NA,JML05/31.5.b,NA,NA
-Lutjmal,NA,JML05/31.5.d,NA,NA
-Lutjmal,NA,JML05/31.5.f,NA,NA
-Lutjmal,NA,JML05/31.5.h,NA,NA
-Lutjmal,NA,JML05/31.5.j,NA,NA
-Lutjmal,NA,JML05/31.5.l,NA,NA
-HaemPtri,NA,JML04/8.5.13,NA,NA
-HaemPtri,NA,JML04/8.5.14,NA,NA
-HaemPtri,NA,JML04/8.5.15,NA,NA
-HaemPtri,NA,JML04/8.5.16,NA,NA
-HaemPtri,NA,JML04/8.5.17,NA,NA
-HaemPtri,NA,JML04/8.5.18,NA,NA
-Rachy,NA,JML04/11.5.49,NA,NA
-Rachy,NA,JML04/11.5.50,NA,NA
-Rachy,NA,JML04/11.5.51,NA,NA
-Rachy,NA,JML04/11.5.52,NA,NA
-Rachy,NA,JML04/11.5.53,NA,NA
-Rachy,NA,JML04/11.5.54,NA,NA
-Eleut,NA,JML04/21.5.8,NA,NA
-Eleut,NA,JML04/21.5.10,NA,NA
-Eleut,NA,JML04/21.5.12,NA,NA
-Eleut,NA,JML04/21.5.14*,NA,NA
-Eleut,NA,JML04/21.5.16*,NA,NA
-Eleut,NA,JML04/21.5.18,NA,NA
-Eleut,NA,JML04/21.5.19*,NA,NA
-Eleut,NA,JML04/21.5.20*,NA,NA
-Eleut,NA,JML04/21.5.21*,NA,NA
-Eleut,NA,JML04/21.5.22*,NA,NA
-Eleut,NA,JML04/21.5.23*,NA,NA
-Eleut,NA,JML04/21.5.24*,NA,NA
-Eleut,NA,JML04/22.5.1,NA,NA
-Eleut,NA,JML04/22.5.2,NA,NA
-Eleut,NA,JML04/22.5.3,NA,NA
-Eleut,NA,JML04/22.5.4,NA,NA
-Eleut,NA,JML04/22.5.5,NA,NA
-Eleut,NA,JML04/22.5.6,NA,NA
-Eleut,NA,JML04/28.5.2,NA,NA
-Eleut,NA,JML04/28.5.4,NA,NA
-Eleut,NA,JML04/28.5.6,NA,NA
-Eleut,NA,JML04/28.5.8,NA,NA
-Eleut,NA,JML04/28.5.10,NA,NA
-Eleut,NA,JML04/28.5.12,NA,NA
-Eleut,NA,JML04/28.5.25,NA,NA
-Eleut,NA,JML04/28.5.27,NA,NA
-Eleut,NA,JML04/28.5.29,NA,NA
-Eleut,NA,JML04/28.5.31,NA,NA
-Eleut,NA,JML04/28.5.33,NA,NA
-Eleut,NA,JML04/28.5.35,NA,NA
-Eleut,NA,JML04/29.5.1,NA,NA
-Eleut,NA,JML04/29.5.2,NA,NA
-Eleut,NA,JML04/29.5.3,NA,NA
-Eleut,NA,JML04/29.5.4,NA,NA
-Eleut,NA,JML04/29.5.5,NA,NA
-Eleut,NA,JML04/29.5.6,NA,NA
-Eleut,NA,JML04/29.5.7,NA,NA
-Eleut,NA,JML04/29.5.8,NA,NA
-Eleut,NA,JML04/29.5.15,NA,NA
-Eleut,NA,JML04/29.5.16,NA,NA
-Eleut,NA,JML04/29.5.17,NA,NA
-Eleut,NA,JML04/29.5.18,NA,NA
-Eleut,NA,JML04/29.5.19,NA,NA
-Eleut,NA,JML04/29.5.20,NA,NA
-Eleut,NA,JML04/29.5.21,NA,NA
-Eleut,NA,JML04/29.5.22,NA,NA
-Eleut,NA,JML04/29.5.23,NA,NA
-Eleut,NA,JML04/29.5.24,NA,NA
-Eleut,NA,JML04/29.5.25,NA,NA
-Eleut,NA,JML04/29.5.26,NA,NA
-Eleut,NA,JML05/1.6.b,NA,NA
-Eleut,NA,JML05/1.6.d,NA,NA
-Eleut,NA,JML05/1.6.f,NA,NA
-Eleut,NA,JML05/1.6.h,NA,NA
-Eleut,NA,JML05/1.6.j,NA,NA
-Eleut,NA,JML05/1.6.l,NA,NA
-Eleut,NA,JML05/1.6.n,NA,NA
-Eleut,NA,JML05/1.6.p,NA,NA
-Eleut,NA,JML05/1.6.s,NA,NA
-Eleut,NA,JML05/1.6.u,NA,NA
-Eleut,NA,JML05/1.6.w,NA,NA
-Eleut,NA,JML05/8.6.g,NA,NA
-Eleut,NA,JML05/8.6.h,NA,NA
-Eleut,NA,JML05/8.6.i,NA,NA
-Eleut,NA,JML05/8.6.j,NA,NA
-Eleut,NA,JML05/8.6.k,NA,NA
-Eleut,NA,JML05/8.6.l,NA,NA
-Eleut,NA,JML05/8.6.s,NA,NA
-Eleut,NA,JML05/8.6.t,NA,NA
-Eleut,NA,JML05/8.6.u,NA,NA
-Eleut,NA,JML05/8.6.v,NA,NA
-Eleut,NA,JML05/8.6.w,NA,NA
-Eleut,NA,JML05/8.6.x,NA,NA
-Plat,NA,JML05/29.5.a,NA,NA
-Plat,NA,JML05/29.5.b,NA,NA
-Plat,NA,JML05/29.5.c,NA,NA
-Plat,NA,JML05/29.5.d,NA,NA
-Plat,NA,JML05/29.5.e,NA,NA
-Plat,NA,JML05/29.5.g,NA,NA
-Plat,NA,JML05/29.5.i,NA,NA
-Plat,NA,JML05/29.5.p,NA,NA
-Plat,NA,JML05/29.5.q,NA,NA
-Plat,NA,JML05/29.5.r,NA,NA
-Plat,NA,JML05/29.5.s,NA,NA
-Plat,NA,JML05/29.5.t,NA,NA
-Plat,NA,JML05/29.5.u,NA,NA
-Plat,NA,JML05/29.5.v,NA,NA
-Plat,NA,JML05/31.5.m,NA,NA
-Plat,NA,JML05/31.5.n,NA,NA
-Plat,NA,JML05/31.5.o,NA,NA
-Plat,NA,JML05/31.5.p,NA,NA
-Plat,NA,JML05/31.5.q,NA,NA
-Plat,NA,JML05/31.5.r,NA,NA
-Plat,NA,JML05/1.6.a,NA,NA
-Plat,NA,JML05/1.6.c,NA,NA
-Plat,NA,JML05/1.6.e,NA,NA
-Plat,NA,JML05/1.6.g,NA,NA
-Plat,NA,JML05/1.6.i,NA,NA
-Plat,NA,JML05/1.6.k,NA,NA
-Plat,NA,JML05/1.6.m,NA,NA
-Plat,NA,JML05/1.6.o,NA,NA
-Plat,NA,JML05/1.6.q,NA,NA
-Plat,NA,JML05/1.6.r,NA,NA
-Plat,NA,JML05/1.6.t,NA,NA
-Plat,NA,JML05/1.6.v,NA,NA
-Plat,NA,JML05/5.6.d,NA,NA
-Plat,NA,JML05/5.6.e,NA,NA
-Plat,NA,JML05/5.6.f,NA,NA
-Plat,NA,JML05/5.6.g,NA,NA
-Plat,NA,JML05/5.6.h,NA,NA
-Plat,NA,JML05/5.6.i,NA,NA
-Plat,NA,JML05/5.6.j,NA,NA
-Plat,NA,JML05/5.6.k,NA,NA
-Plat,NA,JML05/5.6.l,NA,NA
-Plat,NA,JML05/5.6.m,NA,NA
-Plat,NA,JML05/5.6.n,NA,NA
-Plat,NA,JML05/5.6.o,NA,NA
-HaemPkak,NA,LOST,NA,NA
-HaemPkak,NA,JML05/26.5.01,NA,NA
-HaemPkak,NA,JML05/26.5.06,NA,NA
-HaemPkak,NA,JML05/26.5.08,NA,NA
-HaemPkak,NA,JML05/26.5.10,NA,NA
-HaemPkak,NA,JML05/26.5.12,NA,NA
-CarTrac,NA,JML05/2.6.b,NA,NA
-CarTrac,NA,JML05/2.6.d,NA,NA
-CarTrac,NA,JML05/2.6.f,NA,NA
-CarTrac,NA,JML05/2.6.h,NA,NA
-CarTrac,NA,JML05/2.6.j,NA,NA
-CarTrac,NA,JML05/2.6.l,NA,NA
-CarTrac,NA,JML05/2.6.n,NA,NA
-CarTrac,NA,JML05/2.6.q,NA,NA
-CarTrac,NA,JML05/2.6.s,NA,NA
-CarTrac,NA,JML05/2.6.v,NA,NA
-CarTrac,NA,JML05/6.6.a,NA,NA
-CarTrac,NA,JML05/6.6.b,NA,NA
-CarTrac,NA,JML05/6.6.c,NA,NA
-CarTrac,NA,JML05/6.6.d,NA,NA
-CarTrac,NA,JML05/6.6.e,NA,NA
-CarTrac,NA,JML05/6.6.f,NA,NA
-CarTrac,NA,JML05/6.6.g,NA,NA
-CarTrac,NA,JML05/6.6.h,NA,NA
-CarTrac,NA,JML05/6.6.i,NA,NA
-CarTrac,NA,JML05/6.6.j,NA,NA
-CarTrac,NA,JML05/6.6.k,NA,NA
-CarTrac,NA,JML05/6.6.l,NA,NA
-pepamb,1,reared-1-1-1,1,NA
-pepamb,1,reared-1-1-3,3,NA
-pepamb,1,reared-1-1-6,6,NA
-pepamb,1,reared-1-1-9,9,NA
-pepamb,1,reared-1-1-12,12,NA
-pepamb,1,reared-1-1-15,15,NA
-pepamb,1,reared-1-1-20,20,NA
-pepamb,2,reared-1-2-1,1,NA
-pepamb,2,reared-1-2-3,3,NA
-pepamb,2,reared-1-2-6,6,NA
-pepamb,2,reared-1-2-9,9,NA
-pepamb,2,reared-1-2-12,12,NA
-pepamb,2,reared-1-2-15,15,NA
-pepamb,2,reared-1-2-20,20,NA
-pepamb,3,reared-1-3-1,1,NA
-pepamb,3,reared-1-3-3,3,NA
-pepamb,3,reared-1-3-6,6,NA
-pepamb,3,reared-1-3-9,9,NA
-pepamb,3,reared-1-3-12,12,NA
-pepamb,3,reared-1-3-15,15,NA
-pepamb,3,reared-1-3-20,20,NA
-apsnem,1,reared-2-1-1,1,NA
-apsnem,1,reared-2-1-3,3,NA
-apsnem,1,reared-2-1-6,6,NA
-apsnem,1,reared-2-1-9,9,NA
-apsnem,1,reared-2-1-12,12,NA
-apsnem,1,reared-2-1-15,15,NA
-apsnem,1,reared-2-1-18,18,NA
-apsnem,1,reared-2-1-21,21,NA
-apsnem,1,reared-2-1-24,24,NA
-apsnem,2,reared-2-2-1,1,NA
-apsnem,2,reared-2-2-3,3,NA
-apsnem,2,reared-2-2-6,6,NA
-apsnem,2,reared-2-2-9,9,NA
-apsnem,2,reared-2-2-12,12,NA
-apsnem,2,reared-2-2-15,15,NA
-apsnem,2,reared-2-2-18,18,NA
-apsnem,2,reared-2-2-21,21,NA
-apsnem,2,reared-2-2-24,24,NA
-apsnem,3,reared-2-3-1,1,NA
-apsnem,3,reared-2-3-3,3,NA
-apsnem,3,reared-2-3-6,6,NA
-apsnem,3,reared-2-3-9,9,NA
-apsnem,3,reared-2-3-12,12,NA
-apsnem,3,reared-2-3-15,15,NA
-apsnem,3,reared-2-3-18,18,NA
-apsnem,3,reared-2-3-21,21,NA
-apsnem,3,reared-2-3-24,24,NA
-peamel,1,reared-3-1-1,1,NA
-peamel,1,reared-3-1-3,3,NA
-peamel,1,reared-3-1-5,5,NA
-peamel,1,reared-3-1-6,6,NA
-peamel,1,reared-3-1-7,7,NA
-peamel,1,reared-3-1-8,8,NA
-peamel,2,reared-3-2-1,1,NA
-peamel,2,reared-3-2-3,3,NA
-peamel,2,reared-3-2-5,5,NA
-peamel,2,reared-3-2-6,6,NA
-peamel,2,reared-3-2-7,7,NA
-peamel,2,reared-3-2-8,8,NA
-peamel,3,reared-3-3-1,1,NA
-peamel,3,reared-3-3-3,3,NA
-peamel,3,reared-3-3-5,5,NA
-peamel,3,reared-3-3-6,6,NA
-peamel,3,reared-3-3-7,7,NA
-peamel,3,reared-3-3-8,8,NA
-apacom,1,reared-4-1-1,1,NA
-apacom,1,reared-4-1-3,3,NA
-apacom,1,reared-4-1-6,6,NA
-apacom,1,reared-4-1-9,9,NA
-apacom,1,reared-4-1-12,12,NA
-apacom,1,reared-4-1-15,15,NA
-peaper,1,reared-5-1-1,1,NA
-peaper,1,reared-5-1-3,3,NA
-peaper,1,reared-5-1-6,6,NA
-pepmol,light trap,reared-6-light trap-20,20,NA
-apacom,light trap,reared-4-light trap-24,24,NA
-pepmol,L14,reared-6-L14-1,1,NA
-pepmol,L14,reared-6-L14-6,6,NA
-pepmol,L14,reared-6-L14-10,10,NA
-pepmol,L14,reared-6-L14-14,14,NA
-pepmol,L14,reared-6-L14-16,16,NA
+species_id,batch_id,sample_id,age,eggdur,protocol,temperature
+pepamb,1,reared-1-1-1,1,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-1,1,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-3,3,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-3,3,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-3,3,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-6,6,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-6,6,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-6,6,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-9,9,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-9,9,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-9,9,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-12,12,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-12,12,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-12,12,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-15,15,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-15,15,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-15,15,4,"3bl/s, 2min",27-29.5
+pepamb,1,reared-1-1-20,20,4,"3bl/s, 2min",27-29.5
+pepamb,2,reared-1-2-20,20,4,"3bl/s, 2min",27-29.5
+pepamb,3,reared-1-3-20,20,4,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-1,1,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-1,1,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-1,1,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-3,3,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-3,3,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-3,3,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-6,6,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-6,6,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-6,6,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-9,9,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-9,9,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-9,9,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-12,12,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-12,12,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-12,12,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-15,15,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-15,15,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-15,15,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-18,18,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-18,18,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-18,18,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-21,21,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-21,21,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-21,21,7,"3bl/s, 2min",27-29.5
+apsnem,2,reared-2-2-24,24,7,"3bl/s, 2min",27-29.5
+apsnem,3,reared-2-3-24,24,7,"3bl/s, 2min",27-29.5
+apsnem,1,reared-2-1-24,24,7,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-1,1,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-1,1,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-1,1,8,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-3,3,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-3,3,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-3,3,8,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-5,5,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-5,5,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-5,5,8,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-6,6,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-6,6,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-6,6,8,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-7,7,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-7,7,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-7,7,8,"3bl/s, 2min",27-29.5
+peamel,1,reared-3-1-8,8,8,"3bl/s, 2min",27-29.5
+peamel,2,reared-3-2-8,8,8,"3bl/s, 2min",27-29.5
+peamel,3,reared-3-3-8,8,8,"3bl/s, 2min",27-29.5
+apacom,2,reared-4-2-1,1,7,"3bl/s, 2min",27-29.5
+apacom,1,reared-4-1-3,3,7,"3bl/s, 2min",27-29.5
+apacom,2,reared-4-2-3,3,7,"3bl/s, 2min",27-29.5
+apacom,1,reared-4-1-6,6,7,"3bl/s, 2min",27-29.5
+apacom,2,reared-4-2-6,6,7,"3bl/s, 2min",27-29.5
+apacom,1,reared-4-1-9,9,7,"3bl/s, 2min",27-29.5
+apacom,1,reared-4-1-12,12,7,"3bl/s, 2min",27-29.5
+apacom,1,reared-4-1-15,15,7,"3bl/s, 2min",27-29.5
+apacom,light trap,reared-4-light trap-24,24,7,"3bl/s, 2min",27-29.5
+peaper,1,reared-5-1-1,1,7,"3bl/s, 2min",27-29.5
+peaper,1,reared-5-1-3,3,7,"3bl/s, 2min",27-29.5
+peaper,1,reared-5-1-6,6,7,"3bl/s, 2min",27-29.5
+peaper,1,reared-5-1-8,8,7,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-6-L14-1,1,4,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-pepmol-L14-1,1,4,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-pepmol-L14-6,6,4,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-pepmol-L14-10,10,4,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-pepmol-L14-14,14,4,"3bl/s, 2min",27-29.5
+pepmol,L14,reared-pepmol-L14-16,16,4,"3bl/s, 2min",27-29.5
+pepmol,light trap,reared-pepmol-light trap-20,20,4,"3bl/s, 2min",27-29.5
+Gralto,14863,45582.1.1,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.1.2,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.1.3,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.1.4,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.1.5,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.1.6,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.1,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.2,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.3,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.4,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.5,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.2.6,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.1,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.2,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.3,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.3a,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.4,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.5,22,NA,"3.2cm/s, 2min",28
+Gralto,14863,45582.3.6,22,NA,"3.2cm/s, 2min",28
+Gralto,14877,45583.9.1,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.9.2,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.9.3,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.9.4,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.9.5,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.9.6,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.10.2,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.10.3,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.10.4,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.10.5,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.10.6,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.11.2,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.11.3,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.11.4,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.11.5,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.11.6,15,NA,"3.2cm/s, 2min",25.5
+Gralto,14877,45583.12.3,15,NA,"3.2cm/s, 2min",25.5
+Psfrid,14864,45584.4.1,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.4.2,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.4.3,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.4.4,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.4.5,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.4.6,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.1,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.2,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.3,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.4,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.5,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.5.6,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.1,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.2,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.3,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.4,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.5,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.6.6,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.1a,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.1b,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.2a,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.2b,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.3b,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.7.4,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.7.5,21,NA,"3.2cm/s, 2min",28
+Psfrid,14864,45584.7.6,21,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.8.1,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.8.2,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.8.3,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.8.4,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.1,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.2,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.3,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.4,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.5,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.9.6,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.1,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.2,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.3,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.4,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.5,14,NA,"3.2cm/s, 2min",28
+Psfrid,14871,45584.10.6,14,NA,"3.2cm/s, 2min",28
+Psfrid,14881,45584.11.2,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.11.3,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.11.4,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.11.5,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.11.6,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.1,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.2,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.3,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.4,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.5,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.12.6,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.1,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.2,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.3,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.4,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.5,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.13.6,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.14.1,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.14.2,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.14.4,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.14.5,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14881,45584.14.6,11,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.1,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.2,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.3,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.4,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.5,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.15.6,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.16.1,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.16.3,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.16.4,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.16.5,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.16.6,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.1,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.2,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.3,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.4,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.5,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.17.6,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.1,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.2,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.3,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.4,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.5,21,NA,"3.2cm/s, 2min",25.5
+Psfrid,14871,45584.18.6,21,NA,"3.2cm/s, 2min",25.5
+Carign,NA,JML04/11.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/11.5.26,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/11.5.28,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/11.5.30,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/11.5.32,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/11.5.34,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/11.5.36,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Carign,NA,JML04/13.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/13.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/13.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/13.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/13.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/13.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.19,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.21,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.23,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/14.5.25,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.27,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.29,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.31,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.33,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.35,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Carign,NA,JML04/14.5.37,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.39,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.41,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.43,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.45,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/14.5.47,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Carign,NA,JML04/19.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.19,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.20,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.21,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.22,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.23,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.24,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/20.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/20.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/20.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/20.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/20.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/20.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Carign,NA,JML04/19.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Carign,NA,JML04/19.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML04/11.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Chan,NA,JML04/11.5.25,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.27,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.29,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.31,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.33,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.35,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Chan,NA,JML04/11.5.43,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/11.5.44,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/11.5.45,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/11.5.46,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/11.5.47,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/11.5.48,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/13.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Chan,NA,JML04/24.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/24.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/24.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/24.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/24.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/24.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Chan,NA,JML04/25.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML04/25.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML04/25.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML04/25.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML04/25.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML04/25.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Chan,NA,JML05/2.6.a,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.c,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,lost,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.g,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.m,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.r,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.s,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Chan,NA,JML05/2.6.t,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epicoi,NA,JML04/11.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epicoi,NA,JML04/11.5.37,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/11.5.38,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/11.5.39,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/11.5.40,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/11.5.41,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/11.5.42,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/21.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/21.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/21.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/21.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/21.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/21.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Epicoi,NA,JML04/28.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.19,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.21,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML04/28.5.23,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Epicoi,NA,JML05/8.6.a,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.b,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.c,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.d,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.e,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.m,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.n,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.o,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.p,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/8.6.q,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.01,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.03,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.05,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.07,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.09,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/27.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epicoi,NA,JML05/29.5.f,NA,NA,"1.6 to 5.3cm/s, 5min",32
+Epicoi,NA,JML05/29.5.h,NA,NA,"1.6 to 5.3cm/s, 5min",34
+Epicoi,NA,JML05/31.5.s,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Epifus,NA,JML04/26.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/26.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/26.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/26.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/26.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/26.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epifus,NA,JML04/27.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,JML04/27.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,JML04/27.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,JML04/27.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,JML04/27.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,JML04/27.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Epifus,NA,LOST,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/26.5.03,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/26.5.05,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/26.5.07,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/26.5.09,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/26.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Epifus,NA,JML05/31.5.a,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epifus,NA,JML05/31.5.c,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epifus,NA,JML05/31.5.e,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epifus,NA,JML05/31.5.g,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epifus,NA,JML05/31.5.i,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epifus,NA,JML05/31.5.k,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epimal,NA,JML04/7.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Epimal,NA,JML04/7.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/7.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/7.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/7.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/7.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/7.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Epimal,NA,JML04/9.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epimal,NA,JML04/9.5,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Epimal,NA,JML04/9.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/13.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/13.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/13.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/13.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/13.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/13.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Leiog,NA,JML04/14.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.20,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.22,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.24,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/14.5.26,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.28,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.30,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.32,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.34,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.36,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/14.5.38,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/14.5.40,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/14.5.42,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/14.5.44,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/14.5.46,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/14.5.48,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Leiog,NA,JML04/19.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/19.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/19.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/19.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/19.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/19.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Leiog,NA,JML04/20.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/20.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/20.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/20.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/20.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/20.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/24.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/25.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",26.8
+Leiog,NA,JML04/25.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/25.5.19,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/25.5.20,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/25.5.21,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/25.5.22,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/25.5.23,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Leiog,NA,JML04/26.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/26.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/26.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/26.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/26.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/26.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",27.8
+Leiog,NA,JML04/27.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Leiog,NA,JML04/27.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",28.2
+Lutjmal,NA,JML04/8.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/8.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/8.5.9,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/8.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/8.5.11,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/8.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",27.2
+Lutjmal,NA,JML04/9.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML04/9.5 LOST,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML04/28.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.20,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.22,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.24,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.26,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.28,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.30,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.32,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.34,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML04/28.5.36,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Lutjmal,NA,JML05/5.6.p,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/5.6.q,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/5.6.r,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/5.6.s,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/5.6.t,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/5.6.u,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Lutjmal,NA,JML05/27.5.02,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.04,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.06,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.08,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/27.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/27.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/27.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/27.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/27.5.18a,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/27.5.18b,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Lutjmal,NA,JML05/29.5.j,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/29.5.k,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/29.5.l,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/29.5.m,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/29.5.n,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/29.5.o,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Lutjmal,NA,JML05/31.5.b,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML05/31.5.d,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML05/31.5.f,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML05/31.5.h,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML05/31.5.j,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Lutjmal,NA,JML05/31.5.l,NA,NA,"1.6 to 5.3cm/s, 5min",28
+HaemPtri,NA,JML04/8.5.13,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPtri,NA,JML04/8.5.14,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPtri,NA,JML04/8.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPtri,NA,JML04/8.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPtri,NA,JML04/8.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPtri,NA,JML04/8.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Rachy,NA,JML04/11.5.49,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Rachy,NA,JML04/11.5.50,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Rachy,NA,JML04/11.5.51,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Rachy,NA,JML04/11.5.52,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Rachy,NA,JML04/11.5.53,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Rachy,NA,JML04/11.5.54,NA,NA,"1.6 to 5.3cm/s, 5min",28.7
+Eleut,NA,JML04/21.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.14*,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.16*,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.3
+Eleut,NA,JML04/21.5.19*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/21.5.20*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/21.5.21*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/21.5.22*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/21.5.23*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/21.5.24*,NA,NA,"1.6 to 5.3cm/s, 5min",28.4
+Eleut,NA,JML04/22.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/22.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/22.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/22.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/22.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/22.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",26.5
+Eleut,NA,JML04/28.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.25,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.27,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.29,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.31,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.33,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/28.5.35,NA,NA,"1.6 to 5.3cm/s, 5min",28.6
+Eleut,NA,JML04/29.5.1,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.2,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.3,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.4,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.5,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.6,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.7,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.8,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.15,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.16,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.17,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.18,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.19,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.20,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.21,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.22,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.23,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.24,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.25,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML04/29.5.26,NA,NA,"1.6 to 5.3cm/s, 5min",28.8
+Eleut,NA,JML05/1.6.b,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.d,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.f,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.h,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.j,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.l,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.n,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.p,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.s,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.u,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/1.6.w,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.g,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.h,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.i,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.j,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.k,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.l,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.s,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.t,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.u,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.v,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.w,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Eleut,NA,JML05/8.6.x,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.a,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/29.5.b,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.c,NA,NA,"1.6 to 5.3cm/s, 5min",29
+Plat,NA,JML05/29.5.d,NA,NA,"1.6 to 5.3cm/s, 5min",30
+Plat,NA,JML05/29.5.e,NA,NA,"1.6 to 5.3cm/s, 5min",31
+Plat,NA,JML05/29.5.g,NA,NA,"1.6 to 5.3cm/s, 5min",33
+Plat,NA,JML05/29.5.i,NA,NA,"1.6 to 5.3cm/s, 5min",35
+Plat,NA,JML05/29.5.p,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.q,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.r,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.s,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.t,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.u,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/29.5.v,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/31.5.m,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/31.5.n,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/31.5.o,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/31.5.p,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/31.5.q,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/31.5.r,NA,NA,"1.6 to 5.3cm/s, 5min",27.5
+Plat,NA,JML05/1.6.a,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.c,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.e,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.g,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.i,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.k,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.m,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.o,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.q,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.r,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.t,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/1.6.v,NA,NA,"1.6 to 5.3cm/s, 5min",28
+Plat,NA,JML05/5.6.d,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.e,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.f,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.g,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.h,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.i,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.j,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.k,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.l,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.m,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.n,NA,NA,"1.6 to 5.3cm/s, 5min",27
+Plat,NA,JML05/5.6.o,NA,NA,"1.6 to 5.3cm/s, 5min",27
+HaemPkak,NA,LOST,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPkak,NA,JML05/26.5.01,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPkak,NA,JML05/26.5.06,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPkak,NA,JML05/26.5.08,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPkak,NA,JML05/26.5.10,NA,NA,"1.6 to 5.3cm/s, 5min",29
+HaemPkak,NA,JML05/26.5.12,NA,NA,"1.6 to 5.3cm/s, 5min",29
+CarTrac,NA,JML05/2.6.b,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.d,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.f,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.h,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.j,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.l,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.n,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.q,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.s,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/2.6.v,NA,NA,"1.6 to 5.3cm/s, 5min",28
+CarTrac,NA,JML05/6.6.a,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.b,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.c,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.d,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.e,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.f,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.g,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.h,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.i,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.j,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.k,NA,NA,"1.6 to 5.3cm/s, 5min",27
+CarTrac,NA,JML05/6.6.l,NA,NA,"1.6 to 5.3cm/s, 5min",27
+pepamb,1,reared-1-1-1,1,NA,NA,NA
+pepamb,1,reared-1-1-3,3,NA,NA,NA
+pepamb,1,reared-1-1-6,6,NA,NA,NA
+pepamb,1,reared-1-1-9,9,NA,NA,NA
+pepamb,1,reared-1-1-12,12,NA,NA,NA
+pepamb,1,reared-1-1-15,15,NA,NA,NA
+pepamb,1,reared-1-1-20,20,NA,NA,NA
+pepamb,2,reared-1-2-1,1,NA,NA,NA
+pepamb,2,reared-1-2-3,3,NA,NA,NA
+pepamb,2,reared-1-2-6,6,NA,NA,NA
+pepamb,2,reared-1-2-9,9,NA,NA,NA
+pepamb,2,reared-1-2-12,12,NA,NA,NA
+pepamb,2,reared-1-2-15,15,NA,NA,NA
+pepamb,2,reared-1-2-20,20,NA,NA,NA
+pepamb,3,reared-1-3-1,1,NA,NA,NA
+pepamb,3,reared-1-3-3,3,NA,NA,NA
+pepamb,3,reared-1-3-6,6,NA,NA,NA
+pepamb,3,reared-1-3-9,9,NA,NA,NA
+pepamb,3,reared-1-3-12,12,NA,NA,NA
+pepamb,3,reared-1-3-15,15,NA,NA,NA
+pepamb,3,reared-1-3-20,20,NA,NA,NA
+apsnem,1,reared-2-1-1,1,NA,NA,NA
+apsnem,1,reared-2-1-3,3,NA,NA,NA
+apsnem,1,reared-2-1-6,6,NA,NA,NA
+apsnem,1,reared-2-1-9,9,NA,NA,NA
+apsnem,1,reared-2-1-12,12,NA,NA,NA
+apsnem,1,reared-2-1-15,15,NA,NA,NA
+apsnem,1,reared-2-1-18,18,NA,NA,NA
+apsnem,1,reared-2-1-21,21,NA,NA,NA
+apsnem,1,reared-2-1-24,24,NA,NA,NA
+apsnem,2,reared-2-2-1,1,NA,NA,NA
+apsnem,2,reared-2-2-3,3,NA,NA,NA
+apsnem,2,reared-2-2-6,6,NA,NA,NA
+apsnem,2,reared-2-2-9,9,NA,NA,NA
+apsnem,2,reared-2-2-12,12,NA,NA,NA
+apsnem,2,reared-2-2-15,15,NA,NA,NA
+apsnem,2,reared-2-2-18,18,NA,NA,NA
+apsnem,2,reared-2-2-21,21,NA,NA,NA
+apsnem,2,reared-2-2-24,24,NA,NA,NA
+apsnem,3,reared-2-3-1,1,NA,NA,NA
+apsnem,3,reared-2-3-3,3,NA,NA,NA
+apsnem,3,reared-2-3-6,6,NA,NA,NA
+apsnem,3,reared-2-3-9,9,NA,NA,NA
+apsnem,3,reared-2-3-12,12,NA,NA,NA
+apsnem,3,reared-2-3-15,15,NA,NA,NA
+apsnem,3,reared-2-3-18,18,NA,NA,NA
+apsnem,3,reared-2-3-21,21,NA,NA,NA
+apsnem,3,reared-2-3-24,24,NA,NA,NA
+peamel,1,reared-3-1-1,1,NA,NA,NA
+peamel,1,reared-3-1-3,3,NA,NA,NA
+peamel,1,reared-3-1-5,5,NA,NA,NA
+peamel,1,reared-3-1-6,6,NA,NA,NA
+peamel,1,reared-3-1-7,7,NA,NA,NA
+peamel,1,reared-3-1-8,8,NA,NA,NA
+peamel,2,reared-3-2-1,1,NA,NA,NA
+peamel,2,reared-3-2-3,3,NA,NA,NA
+peamel,2,reared-3-2-5,5,NA,NA,NA
+peamel,2,reared-3-2-6,6,NA,NA,NA
+peamel,2,reared-3-2-7,7,NA,NA,NA
+peamel,2,reared-3-2-8,8,NA,NA,NA
+peamel,3,reared-3-3-1,1,NA,NA,NA
+peamel,3,reared-3-3-3,3,NA,NA,NA
+peamel,3,reared-3-3-5,5,NA,NA,NA
+peamel,3,reared-3-3-6,6,NA,NA,NA
+peamel,3,reared-3-3-7,7,NA,NA,NA
+peamel,3,reared-3-3-8,8,NA,NA,NA
+apacom,1,reared-4-1-1,1,NA,NA,NA
+apacom,1,reared-4-1-3,3,NA,NA,NA
+apacom,1,reared-4-1-6,6,NA,NA,NA
+apacom,1,reared-4-1-9,9,NA,NA,NA
+apacom,1,reared-4-1-12,12,NA,NA,NA
+apacom,1,reared-4-1-15,15,NA,NA,NA
+peaper,1,reared-5-1-1,1,NA,NA,NA
+peaper,1,reared-5-1-3,3,NA,NA,NA
+peaper,1,reared-5-1-6,6,NA,NA,NA
+pepmol,light trap,reared-6-light trap-20,20,NA,NA,NA
+apacom,light trap,reared-4-light trap-24,24,NA,NA,NA
+pepmol,L14,reared-6-L14-1,1,NA,NA,NA
+pepmol,L14,reared-6-L14-6,6,NA,NA,NA
+pepmol,L14,reared-6-L14-10,10,NA,NA,NA
+pepmol,L14,reared-6-L14-14,14,NA,NA,NA
+pepmol,L14,reared-6-L14-16,16,NA,NA,NA
+Gralto,14863,45582.1.1,22,NA,NA,NA
+Gralto,14863,45582.1.2,22,NA,NA,NA
+Gralto,14863,45582.1.3,22,NA,NA,NA
+Gralto,14863,45582.1.4,22,NA,NA,NA
+Gralto,14863,45582.1.5,22,NA,NA,NA
+Gralto,14863,45582.1.6,22,NA,NA,NA
+Gralto,14863,45582.2.1,22,NA,NA,NA
+Gralto,14863,45582.2.2,22,NA,NA,NA
+Gralto,14863,45582.2.3,22,NA,NA,NA
+Gralto,14863,45582.2.4,22,NA,NA,NA
+Gralto,14863,45582.2.5,22,NA,NA,NA
+Gralto,14863,45582.2.6,22,NA,NA,NA
+Gralto,14863,45582.3.1,22,NA,NA,NA
+Gralto,14863,45582.3.2,22,NA,NA,NA
+Gralto,14863,45582.3.3,22,NA,NA,NA
+Gralto,14863,45582.3.3a,22,NA,NA,NA
+Gralto,14863,45582.3.4,22,NA,NA,NA
+Gralto,14863,45582.3.5,22,NA,NA,NA
+Gralto,14863,45582.3.6,22,NA,NA,NA
+Gralto,14877,45583.9.1,15,NA,NA,NA
+Gralto,14877,45583.9.2,15,NA,NA,NA
+Gralto,14877,45583.9.3,15,NA,NA,NA
+Gralto,14877,45583.9.4,15,NA,NA,NA
+Gralto,14877,45583.9.5,15,NA,NA,NA
+Gralto,14877,45583.9.6,15,NA,NA,NA
+Gralto,14877,45583.10.2,15,NA,NA,NA
+Gralto,14877,45583.10.3,15,NA,NA,NA
+Gralto,14877,45583.10.4,15,NA,NA,NA
+Gralto,14877,45583.10.5,15,NA,NA,NA
+Gralto,14877,45583.10.6,15,NA,NA,NA
+Gralto,14877,45583.11.2,15,NA,NA,NA
+Gralto,14877,45583.11.3,15,NA,NA,NA
+Gralto,14877,45583.11.4,15,NA,NA,NA
+Gralto,14877,45583.11.5,15,NA,NA,NA
+Gralto,14877,45583.11.6,15,NA,NA,NA
+Gralto,14877,45583.12.3,15,NA,NA,NA
+Psfrid,14864,45584.4.1,21,NA,NA,NA
+Psfrid,14864,45584.4.2,21,NA,NA,NA
+Psfrid,14864,45584.4.3,21,NA,NA,NA
+Psfrid,14864,45584.4.4,21,NA,NA,NA
+Psfrid,14864,45584.4.5,21,NA,NA,NA
+Psfrid,14864,45584.4.6,21,NA,NA,NA
+Psfrid,14864,45584.5.1,21,NA,NA,NA
+Psfrid,14864,45584.5.2,21,NA,NA,NA
+Psfrid,14864,45584.5.3,21,NA,NA,NA
+Psfrid,14864,45584.5.4,21,NA,NA,NA
+Psfrid,14864,45584.5.5,21,NA,NA,NA
+Psfrid,14864,45584.5.6,21,NA,NA,NA
+Psfrid,14864,45584.6.1,21,NA,NA,NA
+Psfrid,14864,45584.6.2,21,NA,NA,NA
+Psfrid,14864,45584.6.3,21,NA,NA,NA
+Psfrid,14864,45584.6.4,21,NA,NA,NA
+Psfrid,14864,45584.6.5,21,NA,NA,NA
+Psfrid,14864,45584.6.6,21,NA,NA,NA
+Psfrid,14864,45584.1a,21,NA,NA,NA
+Psfrid,14864,45584.1b,21,NA,NA,NA
+Psfrid,14864,45584.2a,21,NA,NA,NA
+Psfrid,14864,45584.2b,21,NA,NA,NA
+Psfrid,14864,45584.3b,21,NA,NA,NA
+Psfrid,14864,45584.7.4,21,NA,NA,NA
+Psfrid,14864,45584.7.5,21,NA,NA,NA
+Psfrid,14864,45584.7.6,21,NA,NA,NA
+Psfrid,14871,45584.8.1,14,NA,NA,NA
+Psfrid,14871,45584.8.2,14,NA,NA,NA
+Psfrid,14871,45584.8.3,14,NA,NA,NA
+Psfrid,14871,45584.8.4,14,NA,NA,NA
+Psfrid,14871,45584.9.1,14,NA,NA,NA
+Psfrid,14871,45584.9.2,14,NA,NA,NA
+Psfrid,14871,45584.9.3,14,NA,NA,NA
+Psfrid,14871,45584.9.4,14,NA,NA,NA
+Psfrid,14871,45584.9.5,14,NA,NA,NA
+Psfrid,14871,45584.9.6,14,NA,NA,NA
+Psfrid,14871,45584.10.1,14,NA,NA,NA
+Psfrid,14871,45584.10.2,14,NA,NA,NA
+Psfrid,14871,45584.10.3,14,NA,NA,NA
+Psfrid,14871,45584.10.4,14,NA,NA,NA
+Psfrid,14871,45584.10.5,14,NA,NA,NA
+Psfrid,14871,45584.10.6,14,NA,NA,NA
+Psfrid,14881,45584.11.2,11,NA,NA,NA
+Psfrid,14881,45584.11.3,11,NA,NA,NA
+Psfrid,14881,45584.11.4,11,NA,NA,NA
+Psfrid,14881,45584.11.5,11,NA,NA,NA
+Psfrid,14881,45584.11.6,11,NA,NA,NA
+Psfrid,14881,45584.12.1,11,NA,NA,NA
+Psfrid,14881,45584.12.2,11,NA,NA,NA
+Psfrid,14881,45584.12.3,11,NA,NA,NA
+Psfrid,14881,45584.12.4,11,NA,NA,NA
+Psfrid,14881,45584.12.5,11,NA,NA,NA
+Psfrid,14881,45584.12.6,11,NA,NA,NA
+Psfrid,14881,45584.13.1,11,NA,NA,NA
+Psfrid,14881,45584.13.2,11,NA,NA,NA
+Psfrid,14881,45584.13.3,11,NA,NA,NA
+Psfrid,14881,45584.13.4,11,NA,NA,NA
+Psfrid,14881,45584.13.5,11,NA,NA,NA
+Psfrid,14881,45584.13.6,11,NA,NA,NA
+Psfrid,14881,45584.14.1,11,NA,NA,NA
+Psfrid,14881,45584.14.2,11,NA,NA,NA
+Psfrid,14881,45584.14.4,11,NA,NA,NA
+Psfrid,14881,45584.14.5,11,NA,NA,NA
+Psfrid,14881,45584.14.6,11,NA,NA,NA
+Psfrid,14871,45584.15.1,21,NA,NA,NA
+Psfrid,14871,45584.15.2,21,NA,NA,NA
+Psfrid,14871,45584.15.3,21,NA,NA,NA
+Psfrid,14871,45584.15.4,21,NA,NA,NA
+Psfrid,14871,45584.15.5,21,NA,NA,NA
+Psfrid,14871,45584.15.6,21,NA,NA,NA
+Psfrid,14871,45584.16.1,21,NA,NA,NA
+Psfrid,14871,45584.16.3,21,NA,NA,NA
+Psfrid,14871,45584.16.4,21,NA,NA,NA
+Psfrid,14871,45584.16.5,21,NA,NA,NA
+Psfrid,14871,45584.16.6,21,NA,NA,NA
+Psfrid,14871,45584.17.1,21,NA,NA,NA
+Psfrid,14871,45584.17.2,21,NA,NA,NA
+Psfrid,14871,45584.17.3,21,NA,NA,NA
+Psfrid,14871,45584.17.4,21,NA,NA,NA
+Psfrid,14871,45584.17.5,21,NA,NA,NA
+Psfrid,14871,45584.17.6,21,NA,NA,NA
+Psfrid,14871,45584.18.1,21,NA,NA,NA
+Psfrid,14871,45584.18.2,21,NA,NA,NA
+Psfrid,14871,45584.18.3,21,NA,NA,NA
+Psfrid,14871,45584.18.4,21,NA,NA,NA
+Psfrid,14871,45584.18.5,21,NA,NA,NA
+Psfrid,14871,45584.18.6,21,NA,NA,NA
+Carign,NA,JML04/11.5.2,NA,NA,NA,NA
+Carign,NA,JML04/11.5.4,NA,NA,NA,NA
+Carign,NA,JML04/11.5.6,NA,NA,NA,NA
+Carign,NA,JML04/11.5.8,NA,NA,NA,NA
+Carign,NA,JML04/11.5.10,NA,NA,NA,NA
+Carign,NA,JML04/11.5.12,NA,NA,NA,NA
+Carign,NA,JML04/11.5.26,NA,NA,NA,NA
+Carign,NA,JML04/11.5.28,NA,NA,NA,NA
+Carign,NA,JML04/11.5.30,NA,NA,NA,NA
+Carign,NA,JML04/11.5.32,NA,NA,NA,NA
+Carign,NA,JML04/11.5.34,NA,NA,NA,NA
+Carign,NA,JML04/11.5.36,NA,NA,NA,NA
+Carign,NA,JML04/13.5.1,NA,NA,NA,NA
+Carign,NA,JML04/13.5.3,NA,NA,NA,NA
+Carign,NA,JML04/13.5.5,NA,NA,NA,NA
+Carign,NA,JML04/13.5.7,NA,NA,NA,NA
+Carign,NA,JML04/13.5.9,NA,NA,NA,NA
+Carign,NA,JML04/13.5.11,NA,NA,NA,NA
+Carign,NA,JML04/14.5.13,NA,NA,NA,NA
+Carign,NA,JML04/14.5.15,NA,NA,NA,NA
+Carign,NA,JML04/14.5.17,NA,NA,NA,NA
+Carign,NA,JML04/14.5.19,NA,NA,NA,NA
+Carign,NA,JML04/14.5.21,NA,NA,NA,NA
+Carign,NA,JML04/14.5.23,NA,NA,NA,NA
+Carign,NA,JML04/14.5.25,NA,NA,NA,NA
+Carign,NA,JML04/14.5.27,NA,NA,NA,NA
+Carign,NA,JML04/14.5.29,NA,NA,NA,NA
+Carign,NA,JML04/14.5.31,NA,NA,NA,NA
+Carign,NA,JML04/14.5.33,NA,NA,NA,NA
+Carign,NA,JML04/14.5.35,NA,NA,NA,NA
+Carign,NA,JML04/14.5.37,NA,NA,NA,NA
+Carign,NA,JML04/14.5.39,NA,NA,NA,NA
+Carign,NA,JML04/14.5.41,NA,NA,NA,NA
+Carign,NA,JML04/14.5.43,NA,NA,NA,NA
+Carign,NA,JML04/14.5.45,NA,NA,NA,NA
+Carign,NA,JML04/14.5.47,NA,NA,NA,NA
+Carign,NA,JML04/19.5.11,NA,NA,NA,NA
+Carign,NA,JML04/19.5.19,NA,NA,NA,NA
+Carign,NA,JML04/19.5.20,NA,NA,NA,NA
+Carign,NA,JML04/19.5.21,NA,NA,NA,NA
+Carign,NA,JML04/19.5.22,NA,NA,NA,NA
+Carign,NA,JML04/19.5.23,NA,NA,NA,NA
+Carign,NA,JML04/19.5.24,NA,NA,NA,NA
+Carign,NA,JML04/20.5.1,NA,NA,NA,NA
+Carign,NA,JML04/20.5.3,NA,NA,NA,NA
+Carign,NA,JML04/20.5.5,NA,NA,NA,NA
+Carign,NA,JML04/20.5.7,NA,NA,NA,NA
+Carign,NA,JML04/20.5.9,NA,NA,NA,NA
+Carign,NA,JML04/20.5.11,NA,NA,NA,NA
+Carign,NA,JML04/19.5.7,NA,NA,NA,NA
+Carign,NA,JML04/19.5.9,NA,NA,NA,NA
+Carign,NA,JML04/19.5.13,NA,NA,NA,NA
+Carign,NA,JML04/19.5.15,NA,NA,NA,NA
+Carign,NA,JML04/19.5.17,NA,NA,NA,NA
+Chan,NA,JML04/11.5.1,NA,NA,NA,NA
+Chan,NA,JML04/11.5.3,NA,NA,NA,NA
+Chan,NA,JML04/11.5.5,NA,NA,NA,NA
+Chan,NA,JML04/11.5.7,NA,NA,NA,NA
+Chan,NA,JML04/11.5.9,NA,NA,NA,NA
+Chan,NA,JML04/11.5.11,NA,NA,NA,NA
+Chan,NA,JML04/11.5.25,NA,NA,NA,NA
+Chan,NA,JML04/11.5.27,NA,NA,NA,NA
+Chan,NA,JML04/11.5.29,NA,NA,NA,NA
+Chan,NA,JML04/11.5.31,NA,NA,NA,NA
+Chan,NA,JML04/11.5.33,NA,NA,NA,NA
+Chan,NA,JML04/11.5.35,NA,NA,NA,NA
+Chan,NA,JML04/11.5.43,NA,NA,NA,NA
+Chan,NA,JML04/11.5.44,NA,NA,NA,NA
+Chan,NA,JML04/11.5.45,NA,NA,NA,NA
+Chan,NA,JML04/11.5.46,NA,NA,NA,NA
+Chan,NA,JML04/11.5.47,NA,NA,NA,NA
+Chan,NA,JML04/11.5.48,NA,NA,NA,NA
+Chan,NA,JML04/13.5.2,NA,NA,NA,NA
+Chan,NA,JML04/13.5.4,NA,NA,NA,NA
+Chan,NA,JML04/13.5.6,NA,NA,NA,NA
+Chan,NA,JML04/13.5.8,NA,NA,NA,NA
+Chan,NA,JML04/13.5.10,NA,NA,NA,NA
+Chan,NA,JML04/13.5.12,NA,NA,NA,NA
+Chan,NA,JML04/24.5.1,NA,NA,NA,NA
+Chan,NA,JML04/24.5.3,NA,NA,NA,NA
+Chan,NA,JML04/24.5.5,NA,NA,NA,NA
+Chan,NA,JML04/24.5.7,NA,NA,NA,NA
+Chan,NA,JML04/24.5.9,NA,NA,NA,NA
+Chan,NA,JML04/24.5.11,NA,NA,NA,NA
+Chan,NA,JML04/25.5.6,NA,NA,NA,NA
+Chan,NA,JML04/25.5.8,NA,NA,NA,NA
+Chan,NA,JML04/25.5.10,NA,NA,NA,NA
+Chan,NA,JML04/25.5.12,NA,NA,NA,NA
+Chan,NA,JML04/25.5.14,NA,NA,NA,NA
+Chan,NA,JML04/25.5.16,NA,NA,NA,NA
+Chan,NA,JML05/2.6.a,NA,NA,NA,NA
+Chan,NA,JML05/2.6.c,NA,NA,NA,NA
+Chan,NA,lost,NA,NA,NA,NA
+Chan,NA,JML05/2.6.g,NA,NA,NA,NA
+Chan,NA,JML05/2.6.m,NA,NA,NA,NA
+Chan,NA,JML05/2.6.r,NA,NA,NA,NA
+Chan,NA,JML05/2.6.s,NA,NA,NA,NA
+Chan,NA,JML05/2.6.t,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.13,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.14,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.15,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.16,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.17,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.18,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.37,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.38,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.39,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.40,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.41,NA,NA,NA,NA
+Epicoi,NA,JML04/11.5.42,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.7,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.9,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.11,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.13,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.15,NA,NA,NA,NA
+Epicoi,NA,JML04/21.5.17,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.1,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.3,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.5,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.7,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.9,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.11,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.13,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.15,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.17,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.19,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.21,NA,NA,NA,NA
+Epicoi,NA,JML04/28.5.23,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.a,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.b,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.c,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.d,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.e,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.m,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.n,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.o,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.p,NA,NA,NA,NA
+Epicoi,NA,JML05/8.6.q,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.01,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.03,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.05,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.07,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.09,NA,NA,NA,NA
+Epicoi,NA,JML05/27.5.11,NA,NA,NA,NA
+Epicoi,NA,JML05/29.5.f,NA,NA,NA,NA
+Epicoi,NA,JML05/29.5.h,NA,NA,NA,NA
+Epicoi,NA,JML05/31.5.s,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.2,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.4,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.6,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.8,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.10,NA,NA,NA,NA
+Epifus,NA,JML04/26.5.12,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.1,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.2,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.3,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.4,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.5,NA,NA,NA,NA
+Epifus,NA,JML04/27.5.6,NA,NA,NA,NA
+Epifus,NA,LOST,NA,NA,NA,NA
+Epifus,NA,JML05/26.5.03,NA,NA,NA,NA
+Epifus,NA,JML05/26.5.05,NA,NA,NA,NA
+Epifus,NA,JML05/26.5.07,NA,NA,NA,NA
+Epifus,NA,JML05/26.5.09,NA,NA,NA,NA
+Epifus,NA,JML05/26.5.11,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.a,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.c,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.e,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.g,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.i,NA,NA,NA,NA
+Epifus,NA,JML05/31.5.k,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.7,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.8,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.9,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.10,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.11,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.12,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.13,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.14,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.15,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.16,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.17,NA,NA,NA,NA
+Epimal,NA,JML04/7.5.18,NA,NA,NA,NA
+Epimal,NA,JML04/9.5.2,NA,NA,NA,NA
+Epimal,NA,JML04/9.5,NA,NA,NA,NA
+Epimal,NA,JML04/9.5.3,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.13,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.14,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.15,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.16,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.17,NA,NA,NA,NA
+Leiog,NA,JML04/13.5.18,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.1,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.2,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.3,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.4,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.5,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.6,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.14,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.16,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.18,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.20,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.22,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.24,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.26,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.28,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.30,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.32,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.34,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.36,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.38,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.40,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.42,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.44,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.46,NA,NA,NA,NA
+Leiog,NA,JML04/14.5.48,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.8,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.10,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.12,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.14,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.16,NA,NA,NA,NA
+Leiog,NA,JML04/19.5.18,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.2,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.4,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.6,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.8,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.10,NA,NA,NA,NA
+Leiog,NA,JML04/20.5.12,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.2,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.4,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.6,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.8,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.10,NA,NA,NA,NA
+Leiog,NA,JML04/24.5.12,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.7,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.9,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.11,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.13,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.15,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.17,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.18,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.19,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.20,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.21,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.22,NA,NA,NA,NA
+Leiog,NA,JML04/25.5.23,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.1,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.3,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.5,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.7,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.9,NA,NA,NA,NA
+Leiog,NA,JML04/26.5.11,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.7,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.8,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.9,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.10,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.11,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.12,NA,NA,NA,NA
+Leiog,NA,JML04/27.5.13,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.7,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.8,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.9,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.10,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.11,NA,NA,NA,NA
+Lutjmal,NA,JML04/8.5.12,NA,NA,NA,NA
+Lutjmal,NA,JML04/9.5.1,NA,NA,NA,NA
+Lutjmal,NA,JML04/9.5 LOST,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.14,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.16,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.18,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.20,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.22,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.24,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.26,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.28,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.30,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.32,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.34,NA,NA,NA,NA
+Lutjmal,NA,JML04/28.5.36,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.p,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.q,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.r,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.s,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.t,NA,NA,NA,NA
+Lutjmal,NA,JML05/5.6.u,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.02,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.04,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.06,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.08,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.10,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.12,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.15,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.16,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.17,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.18,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.18a,NA,NA,NA,NA
+Lutjmal,NA,JML05/27.5.18b,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.j,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.k,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.l,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.m,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.n,NA,NA,NA,NA
+Lutjmal,NA,JML05/29.5.o,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.b,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.d,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.f,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.h,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.j,NA,NA,NA,NA
+Lutjmal,NA,JML05/31.5.l,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.13,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.14,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.15,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.16,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.17,NA,NA,NA,NA
+HaemPtri,NA,JML04/8.5.18,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.49,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.50,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.51,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.52,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.53,NA,NA,NA,NA
+Rachy,NA,JML04/11.5.54,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.8,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.10,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.12,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.14*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.16*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.18,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.19*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.20*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.21*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.22*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.23*,NA,NA,NA,NA
+Eleut,NA,JML04/21.5.24*,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.1,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.2,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.3,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.4,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.5,NA,NA,NA,NA
+Eleut,NA,JML04/22.5.6,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.2,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.4,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.6,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.8,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.10,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.12,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.25,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.27,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.29,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.31,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.33,NA,NA,NA,NA
+Eleut,NA,JML04/28.5.35,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.1,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.2,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.3,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.4,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.5,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.6,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.7,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.8,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.15,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.16,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.17,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.18,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.19,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.20,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.21,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.22,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.23,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.24,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.25,NA,NA,NA,NA
+Eleut,NA,JML04/29.5.26,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.b,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.d,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.f,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.h,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.j,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.l,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.n,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.p,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.s,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.u,NA,NA,NA,NA
+Eleut,NA,JML05/1.6.w,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.g,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.h,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.i,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.j,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.k,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.l,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.s,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.t,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.u,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.v,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.w,NA,NA,NA,NA
+Eleut,NA,JML05/8.6.x,NA,NA,NA,NA
+Plat,NA,JML05/29.5.a,NA,NA,NA,NA
+Plat,NA,JML05/29.5.b,NA,NA,NA,NA
+Plat,NA,JML05/29.5.c,NA,NA,NA,NA
+Plat,NA,JML05/29.5.d,NA,NA,NA,NA
+Plat,NA,JML05/29.5.e,NA,NA,NA,NA
+Plat,NA,JML05/29.5.g,NA,NA,NA,NA
+Plat,NA,JML05/29.5.i,NA,NA,NA,NA
+Plat,NA,JML05/29.5.p,NA,NA,NA,NA
+Plat,NA,JML05/29.5.q,NA,NA,NA,NA
+Plat,NA,JML05/29.5.r,NA,NA,NA,NA
+Plat,NA,JML05/29.5.s,NA,NA,NA,NA
+Plat,NA,JML05/29.5.t,NA,NA,NA,NA
+Plat,NA,JML05/29.5.u,NA,NA,NA,NA
+Plat,NA,JML05/29.5.v,NA,NA,NA,NA
+Plat,NA,JML05/31.5.m,NA,NA,NA,NA
+Plat,NA,JML05/31.5.n,NA,NA,NA,NA
+Plat,NA,JML05/31.5.o,NA,NA,NA,NA
+Plat,NA,JML05/31.5.p,NA,NA,NA,NA
+Plat,NA,JML05/31.5.q,NA,NA,NA,NA
+Plat,NA,JML05/31.5.r,NA,NA,NA,NA
+Plat,NA,JML05/1.6.a,NA,NA,NA,NA
+Plat,NA,JML05/1.6.c,NA,NA,NA,NA
+Plat,NA,JML05/1.6.e,NA,NA,NA,NA
+Plat,NA,JML05/1.6.g,NA,NA,NA,NA
+Plat,NA,JML05/1.6.i,NA,NA,NA,NA
+Plat,NA,JML05/1.6.k,NA,NA,NA,NA
+Plat,NA,JML05/1.6.m,NA,NA,NA,NA
+Plat,NA,JML05/1.6.o,NA,NA,NA,NA
+Plat,NA,JML05/1.6.q,NA,NA,NA,NA
+Plat,NA,JML05/1.6.r,NA,NA,NA,NA
+Plat,NA,JML05/1.6.t,NA,NA,NA,NA
+Plat,NA,JML05/1.6.v,NA,NA,NA,NA
+Plat,NA,JML05/5.6.d,NA,NA,NA,NA
+Plat,NA,JML05/5.6.e,NA,NA,NA,NA
+Plat,NA,JML05/5.6.f,NA,NA,NA,NA
+Plat,NA,JML05/5.6.g,NA,NA,NA,NA
+Plat,NA,JML05/5.6.h,NA,NA,NA,NA
+Plat,NA,JML05/5.6.i,NA,NA,NA,NA
+Plat,NA,JML05/5.6.j,NA,NA,NA,NA
+Plat,NA,JML05/5.6.k,NA,NA,NA,NA
+Plat,NA,JML05/5.6.l,NA,NA,NA,NA
+Plat,NA,JML05/5.6.m,NA,NA,NA,NA
+Plat,NA,JML05/5.6.n,NA,NA,NA,NA
+Plat,NA,JML05/5.6.o,NA,NA,NA,NA
+HaemPkak,NA,LOST,NA,NA,NA,NA
+HaemPkak,NA,JML05/26.5.01,NA,NA,NA,NA
+HaemPkak,NA,JML05/26.5.06,NA,NA,NA,NA
+HaemPkak,NA,JML05/26.5.08,NA,NA,NA,NA
+HaemPkak,NA,JML05/26.5.10,NA,NA,NA,NA
+HaemPkak,NA,JML05/26.5.12,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.b,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.d,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.f,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.h,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.j,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.l,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.n,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.q,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.s,NA,NA,NA,NA
+CarTrac,NA,JML05/2.6.v,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.a,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.b,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.c,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.d,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.e,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.f,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.g,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.h,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.i,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.j,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.k,NA,NA,NA,NA
+CarTrac,NA,JML05/6.6.l,NA,NA,NA,NA

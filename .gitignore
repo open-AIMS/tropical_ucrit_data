@@ -8,6 +8,7 @@ tropical_ucrit_data.Rproj
 MS_table1.csv
 meta_data.csv
 *.xls
-*.xlsx
+.xlsx
 *.mdb
+
 

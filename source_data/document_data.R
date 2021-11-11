@@ -1,10 +1,11 @@
-require(tidyverse)
-require(lubridate)
-require(datamodelr)
+library(tidyverse)
+library(lubridate)
+remotes::install_github("bergant/datamodelr")
+library(datamodelr)
 
 #### Read in all data_tables -------------
 data_files <- paste("clean_data", list.files("clean_data"), sep="/")
-all_data <- lapply(data_files, read_csv)
+all_data <- lapply(data_files, read.csv)
 names(all_data) <- gsub(".csv", "", gsub("clean_data/", "", data_files))
 
 # listed data.frame version
@@ -40,6 +41,7 @@ display <- list(
 dm_seg <- dm_set_display(dm_seg, display)
 
 graph <- dm_create_graph(dm_seg, rankdir = "RL", col_attr = c("column", "type"))
+
 dm_render_graph(graph)
 
 # Make a table of info
