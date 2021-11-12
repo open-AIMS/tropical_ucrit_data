@@ -65,6 +65,7 @@ head(site_dat)
 species_dat <- read_csv("source_data/species.csv") %>% 
   rename_all(~str_replace(., " ", "_"))  %>% 
   rename_all(~str_replace(., " ", "_")) %>% 
+  mutate(family=ifelse(family=="Gerridae", "Gerreidae", family)) %>% 
   mutate(species=ifelse(species=="quinequelineatus", "quinquelineatus",
                         ifelse(species=="mitratis", "mitratus", 
                                ifelse(species=="plebius", "plebeius", 
